@@ -12,6 +12,21 @@ node <flick-skill>/scripts/render-scene.mjs --project <output-directory> --compo
 
 This writes `<output-directory>/scenes/<approved-scene-name>/<approved-scene-name>.mp4`.
 
+### If a render fails with "No frame found at position N"
+
+This is a seek failure on a source clip, not a bug in the scene. Two causes, and both must be ruled out together:
+
+1. **The clip's frame timing.** `auto-footage.mjs` re-encodes every clip it fetches to constant 30fps with a keyframe every second, so a clip that came through it is already fine. Any clip added to `remotion/public/` by hand needs the same pass:
+
+   ```text
+   ffmpeg -y -i <src> -r 30 -fps_mode cfr -c:v libx264 -preset veryfast -crf 20 \
+     -g 30 -keyint_min 30 -sc_threshold 0 -pix_fmt yuv420p -an -movflags +faststart <tmp>
+   ```
+
+2. **Remotion's asset cache.** Remotion copies `public/` files into `%TEMP%\remotion-v<version>-assets*` and keeps serving that copy. Replace a file on disk and the cache still holds the broken one — the render fails at the identical position and the fix looks like it did nothing. Delete those directories after replacing anything in `public/`.
+
+Fixing one and not the other reproduces the same error, which is what makes this cost hours. Do both, then render.
+
 ## Preview and revise
 
 Start Studio from `<output-directory>/remotion/`:

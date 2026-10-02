@@ -1,0 +1,339 @@
+{
+  "source": "D:\\flick\\swimming\\output\\yuzidi9\\vo\\vo.wav",
+  "language": "en",
+  "text": "Yuzidi is only 13 and she just moved to number 1 in TW Major events. After her Asian Games performances, you now leads the 200-meter butterfly with 205.08 and the 200-meter IAM with 2.06010 among major international meets this summer. She's also number 2 in the 400-meter IAM behind Summer Macintosh and Remembee. She's only 13.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 4760,
+      "text": "Yuzidi is only 13 and she just moved to number 1 in TW Major events."
+    },
+    {
+      "startMs": 5120,
+      "endMs": 11000,
+      "text": "After her Asian Games performances, you now leads the 200-meter butterfly with 205.08"
+    },
+    {
+      "startMs": 11000,
+      "endMs": 16240,
+      "text": "and the 200-meter IAM with 2.06010 among major international meets this summer."
+    },
+    {
+      "startMs": 16500,
+      "endMs": 20880,
+      "text": "She's also number 2 in the 400-meter IAM behind Summer Macintosh and Remembee."
+    },
+    {
+      "startMs": 21100,
+      "endMs": 22100,
+      "text": "She's only 13."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 420,
+      "text": "Yuzidi"
+    },
+    {
+      "startMs": 420,
+      "endMs": 660,
+      "text": "is"
+    },
+    {
+      "startMs": 660,
+      "endMs": 860,
+      "text": "only"
+    },
+    {
+      "startMs": 860,
+      "endMs": 1240,
+      "text": "13"
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1820,
+      "text": "and"
+    },
+    {
+      "startMs": 1820,
+      "endMs": 1940,
+      "text": "she"
+    },
+    {
+      "startMs": 1940,
+      "endMs": 2080,
+      "text": "just"
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2300,
+      "text": "moved"
+    },
+    {
+      "startMs": 2300,
+      "endMs": 2540,
+      "text": "to"
+    },
+    {
+      "startMs": 2540,
+      "endMs": 2800,
+      "text": "number"
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3140,
+      "text": "1"
+    },
+    {
+      "startMs": 3140,
+      "endMs": 3300,
+      "text": "in"
+    },
+    {
+      "startMs": 3300,
+      "endMs": 3780,
+      "text": "TW"
+    },
+    {
+      "startMs": 3780,
+      "endMs": 4220,
+      "text": "Major"
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4760,
+      "text": "events."
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5360,
+      "text": "After"
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5540,
+      "text": "her"
+    },
+    {
+      "startMs": 5540,
+      "endMs": 5880,
+      "text": "Asian"
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6180,
+      "text": "Games"
+    },
+    {
+      "startMs": 6180,
+      "endMs": 6880,
+      "text": "performances,"
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7360,
+      "text": "you"
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7600,
+      "text": "now"
+    },
+    {
+      "startMs": 7600,
+      "endMs": 7880,
+      "text": "leads"
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8080,
+      "text": "the"
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8420,
+      "text": "200"
+    },
+    {
+      "startMs": 8420,
+      "endMs": 8740,
+      "text": "-meter"
+    },
+    {
+      "startMs": 8740,
+      "endMs": 9240,
+      "text": "butterfly"
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9600,
+      "text": "with"
+    },
+    {
+      "startMs": 9600,
+      "endMs": 10380,
+      "text": "205"
+    },
+    {
+      "startMs": 10380,
+      "endMs": 11000,
+      "text": ".08"
+    },
+    {
+      "startMs": 11000,
+      "endMs": 11240,
+      "text": "and"
+    },
+    {
+      "startMs": 11240,
+      "endMs": 11340,
+      "text": "the"
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11680,
+      "text": "200"
+    },
+    {
+      "startMs": 11680,
+      "endMs": 11960,
+      "text": "-meter"
+    },
+    {
+      "startMs": 11960,
+      "endMs": 12320,
+      "text": "IAM"
+    },
+    {
+      "startMs": 12320,
+      "endMs": 12520,
+      "text": "with"
+    },
+    {
+      "startMs": 12520,
+      "endMs": 12820,
+      "text": "2"
+    },
+    {
+      "startMs": 12820,
+      "endMs": 14060,
+      "text": ".06010"
+    },
+    {
+      "startMs": 14060,
+      "endMs": 14260,
+      "text": "among"
+    },
+    {
+      "startMs": 14260,
+      "endMs": 14680,
+      "text": "major"
+    },
+    {
+      "startMs": 14680,
+      "endMs": 15060,
+      "text": "international"
+    },
+    {
+      "startMs": 15060,
+      "endMs": 15620,
+      "text": "meets"
+    },
+    {
+      "startMs": 15620,
+      "endMs": 15880,
+      "text": "this"
+    },
+    {
+      "startMs": 15880,
+      "endMs": 16240,
+      "text": "summer."
+    },
+    {
+      "startMs": 16500,
+      "endMs": 16720,
+      "text": "She's"
+    },
+    {
+      "startMs": 16720,
+      "endMs": 16980,
+      "text": "also"
+    },
+    {
+      "startMs": 16980,
+      "endMs": 17220,
+      "text": "number"
+    },
+    {
+      "startMs": 17220,
+      "endMs": 17520,
+      "text": "2"
+    },
+    {
+      "startMs": 17520,
+      "endMs": 17660,
+      "text": "in"
+    },
+    {
+      "startMs": 17660,
+      "endMs": 17740,
+      "text": "the"
+    },
+    {
+      "startMs": 17740,
+      "endMs": 18100,
+      "text": "400"
+    },
+    {
+      "startMs": 18100,
+      "endMs": 18460,
+      "text": "-meter"
+    },
+    {
+      "startMs": 18460,
+      "endMs": 18640,
+      "text": "IAM"
+    },
+    {
+      "startMs": 18640,
+      "endMs": 18920,
+      "text": "behind"
+    },
+    {
+      "startMs": 18920,
+      "endMs": 19280,
+      "text": "Summer"
+    },
+    {
+      "startMs": 19280,
+      "endMs": 20040,
+      "text": "Macintosh"
+    },
+    {
+      "startMs": 20040,
+      "endMs": 20380,
+      "text": "and"
+    },
+    {
+      "startMs": 20380,
+      "endMs": 20880,
+      "text": "Remembee."
+    },
+    {
+      "startMs": 21100,
+      "endMs": 21340,
+      "text": "She's"
+    },
+    {
+      "startMs": 21340,
+      "endMs": 21520,
+      "text": "only"
+    },
+    {
+      "startMs": 21520,
+      "endMs": 22100,
+      "text": "13."
+    }
+  ]
+}

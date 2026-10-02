@@ -1,0 +1,65 @@
+import React from 'react';
+import {AbsoluteFill, Audio, Sequence, staticFile} from 'remotion';
+import {OVERLAP, TOTAL_FRAMES, TRANSITION_IN, sceneFrames, startFrame} from './timeline';
+import {SceneTransition} from './components/Transition';
+
+import {Scene01, S01_STAMP_AT} from './scenes/Scene01';
+import {Scene02} from './scenes/Scene02';
+import {Scene03} from './scenes/Scene03';
+import {Scene04} from './scenes/Scene04';
+import {Scene05} from './scenes/Scene05';
+
+export const SCENES: React.FC[] = [Scene01, Scene02, Scene03, Scene04, Scene05];
+
+// Every scene/component in this project is authored in 1080x1920 "design space". This film ships
+// at that resolution, so the design-space stack renders 1:1.
+const SCALE = 1;
+
+type Hit = {at: number; src: string; volume: number};
+
+/**
+ * SFX fire ONLY where a motion graphic appears - never on a scene change, an internal cut, or the
+ * ending. This film has two graphics (the 1:43.49 stamp in scene 1, the Zhang ID card in scene 5), so
+ * it has exactly two hits. Beyond these the short carries no sound but the VO.
+ */
+const HITS: Hit[] = [
+  {at: startFrame(1) + S01_STAMP_AT, src: 'sounds/Impact.mp3', volume: 0.4},
+  {at: startFrame(5) + 6, src: 'sounds/Impact.mp3', volume: 0.4},
+];
+
+export const FinalFilm: React.FC = () => (
+  <AbsoluteFill style={{backgroundColor: '#000'}}>
+    <div style={{width: 1080, height: 1920, transform: `scale(${SCALE})`, transformOrigin: '0 0'}}>
+      {SCENES.map((Comp, i) => {
+        const n = i + 1;
+        const dur = sceneFrames(n);
+        const last = n === SCENES.length;
+        return (
+          <Sequence
+            key={n}
+            from={startFrame(n)}
+            durationInFrames={dur + (last ? 0 : OVERLAP)}
+            layout="none"
+          >
+            <SceneTransition
+              inKind={TRANSITION_IN[i]}
+              outKind={last ? null : TRANSITION_IN[i + 1]}
+              dur={dur}
+              overlap={OVERLAP}
+            >
+              <Comp />
+            </SceneTransition>
+          </Sequence>
+        );
+      })}
+    </div>
+    <Audio src={staticFile('vo/zhang2.wav')} />
+    {HITS.map((h, i) => (
+      <Sequence key={i} from={h.at} durationInFrames={TOTAL_FRAMES - h.at} layout="none">
+        <Audio src={staticFile(h.src)} volume={h.volume} />
+      </Sequence>
+    ))}
+  </AbsoluteFill>
+);
+
+export {TOTAL_FRAMES};

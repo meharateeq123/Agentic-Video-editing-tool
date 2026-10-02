@@ -1,0 +1,284 @@
+{
+  "source": "D:\\flick\\swimming\\output\\steenbergen1\\vo.wav",
+  "language": "en",
+  "text": "Marit Steenbergen just changed the women's 100 freestyle record book. At the 2026 set-colle me, the Dutch star blasted 51.68 seconds, breaking the world record. She also won the 100 free at the 2026 World Championships in Singapore. Now, with short course racing ahead, could Steenbergen get even faster?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3600,
+      "text": "Marit Steenbergen just changed the women's 100 freestyle record book."
+    },
+    {
+      "startMs": 3820,
+      "endMs": 10160,
+      "text": "At the 2026 set-colle me, the Dutch star blasted 51.68 seconds, breaking the world record."
+    },
+    {
+      "startMs": 10400,
+      "endMs": 14680,
+      "text": "She also won the 100 free at the 2026 World Championships in Singapore."
+    },
+    {
+      "startMs": 15120,
+      "endMs": 18580,
+      "text": "Now, with short course racing ahead, could Steenbergen get even faster?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 240,
+      "text": "Marit"
+    },
+    {
+      "startMs": 240,
+      "endMs": 900,
+      "text": "Steenbergen"
+    },
+    {
+      "startMs": 900,
+      "endMs": 1100,
+      "text": "just"
+    },
+    {
+      "startMs": 1100,
+      "endMs": 1480,
+      "text": "changed"
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1700,
+      "text": "the"
+    },
+    {
+      "startMs": 1700,
+      "endMs": 2080,
+      "text": "women's"
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2500,
+      "text": "100"
+    },
+    {
+      "startMs": 2500,
+      "endMs": 2880,
+      "text": "freestyle"
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3380,
+      "text": "record"
+    },
+    {
+      "startMs": 3380,
+      "endMs": 3600,
+      "text": "book."
+    },
+    {
+      "startMs": 3820,
+      "endMs": 3880,
+      "text": "At"
+    },
+    {
+      "startMs": 3880,
+      "endMs": 3980,
+      "text": "the"
+    },
+    {
+      "startMs": 3980,
+      "endMs": 4780,
+      "text": "2026"
+    },
+    {
+      "startMs": 4780,
+      "endMs": 5100,
+      "text": "set"
+    },
+    {
+      "startMs": 5100,
+      "endMs": 5480,
+      "text": "-colle"
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5640,
+      "text": "me,"
+    },
+    {
+      "startMs": 5840,
+      "endMs": 5960,
+      "text": "the"
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6180,
+      "text": "Dutch"
+    },
+    {
+      "startMs": 6180,
+      "endMs": 6540,
+      "text": "star"
+    },
+    {
+      "startMs": 6540,
+      "endMs": 7100,
+      "text": "blasted"
+    },
+    {
+      "startMs": 7100,
+      "endMs": 7640,
+      "text": "51"
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8400,
+      "text": ".68"
+    },
+    {
+      "startMs": 8400,
+      "endMs": 8960,
+      "text": "seconds,"
+    },
+    {
+      "startMs": 9140,
+      "endMs": 9340,
+      "text": "breaking"
+    },
+    {
+      "startMs": 9340,
+      "endMs": 9560,
+      "text": "the"
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9740,
+      "text": "world"
+    },
+    {
+      "startMs": 9740,
+      "endMs": 10160,
+      "text": "record."
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10540,
+      "text": "She"
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10900,
+      "text": "also"
+    },
+    {
+      "startMs": 10900,
+      "endMs": 11100,
+      "text": "won"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 11220,
+      "text": "the"
+    },
+    {
+      "startMs": 11220,
+      "endMs": 11600,
+      "text": "100"
+    },
+    {
+      "startMs": 11600,
+      "endMs": 11980,
+      "text": "free"
+    },
+    {
+      "startMs": 11980,
+      "endMs": 12180,
+      "text": "at"
+    },
+    {
+      "startMs": 12180,
+      "endMs": 12260,
+      "text": "the"
+    },
+    {
+      "startMs": 12260,
+      "endMs": 13040,
+      "text": "2026"
+    },
+    {
+      "startMs": 13040,
+      "endMs": 13380,
+      "text": "World"
+    },
+    {
+      "startMs": 13380,
+      "endMs": 14040,
+      "text": "Championships"
+    },
+    {
+      "startMs": 14040,
+      "endMs": 14340,
+      "text": "in"
+    },
+    {
+      "startMs": 14340,
+      "endMs": 14680,
+      "text": "Singapore."
+    },
+    {
+      "startMs": 15120,
+      "endMs": 15300,
+      "text": "Now,"
+    },
+    {
+      "startMs": 15460,
+      "endMs": 15580,
+      "text": "with"
+    },
+    {
+      "startMs": 15580,
+      "endMs": 15820,
+      "text": "short"
+    },
+    {
+      "startMs": 15820,
+      "endMs": 16060,
+      "text": "course"
+    },
+    {
+      "startMs": 16060,
+      "endMs": 16440,
+      "text": "racing"
+    },
+    {
+      "startMs": 16440,
+      "endMs": 16820,
+      "text": "ahead,"
+    },
+    {
+      "startMs": 17060,
+      "endMs": 17100,
+      "text": "could"
+    },
+    {
+      "startMs": 17100,
+      "endMs": 17740,
+      "text": "Steenbergen"
+    },
+    {
+      "startMs": 17740,
+      "endMs": 17880,
+      "text": "get"
+    },
+    {
+      "startMs": 17880,
+      "endMs": 18140,
+      "text": "even"
+    },
+    {
+      "startMs": 18140,
+      "endMs": 18580,
+      "text": "faster?"
+    }
+  ]
+}

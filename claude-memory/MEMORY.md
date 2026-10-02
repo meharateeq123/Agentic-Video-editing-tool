@@ -1,0 +1,96 @@
+- [Bell Darlington film](bell-darlington-film.md) — output/bell1, rendered; which footage ranges are usable and the two downloads that turned out wrong.
+- [Reddick Southern 500 film](reddick-southern-500-film.md) — the active video is output/reddick1; where it stands, how it's wired, and the missing-card gap the user found.
+- [Flick render commands](flick-render-commands.md) — Studio, still QC, GPU flags, and crash-proof chunked rendering on this machine.
+- [Flick scene completeness check](flick-scene-completeness-check.md) — grep every custom component for actual scene usage before calling scenes done; visual QC stills alone miss silently-unwired overlays.
+- [Flick footage pacing](flick-footage-pacing.md) — never stretch one clip to cover a long scene; cut to a second relevant clip instead.
+- [Map animation screen time](map-animation-screen-time.md) — globe/map is a 5-7s beat over real footage, never a whole scene; flagged on two films now.
+- [Card and transition style](flick-card-and-transition-style.md) — image cards are boxes with a big image; cuts use modern transitions, not plain hard clips.
+- [Graphic exit timing](flick-graphic-exit-timing.md) — every motion graphic fades out ~1s after its content finishes animating in, never holds until the scene cut. Missed once, flagged twice.
+- [Quote scene style](flick-quote-scene-style.md) — quotes are a sharp, unblurred bottom-centre caption, not a full graphic that dims/blurs the clip.
+- [Hook clip boxed style](flick-hook-clip-boxed-style.md) — a cold-open hook clip is a bordered box on a clean blurred backdrop with a Source tag and one caption under the box; no text elsewhere.
+- [Flick: no game footage](flick-no-game-footage.md) — real footage carries the film even when it's about a game; next video should have zero game clips.
+- [Flick: no repeat clips across shorts](flick-no-repeat-clips-across-shorts.md) — a clip used in ANY earlier short (not just the last 2) can't be reused; always source fresh footage.
+- [Flick shorts visual style upgrade](flick-shorts-visual-style-upgrade.md) — named-person photos go in an ID card over real footage (not full-frame swap-out); user reverted the full-frame experiment.
+- [Möbius film: portraits missing](mobius-film-portraits-missing.md) — Scene 5 needs listing.jpg and mobius.jpg from the user; they can't be downloaded on this machine.
+- [Möbius film: VO word sync](mobius-film-vo-word-sync.md) — beat tables must come from whisper word timestamps, not silence gaps; the old tables left scenes 1/2/5/8/10 seconds late.
+- [Möbius film: label glide](mobius-film-label-glide.md) — arrows/labels must slide smoothly when they change side, never jump in one frame.
+- [Möbius film: 2K render](mobius-film-2k-render.md) — rendered 2026-09-15; launch run_render.cmd via Start-Process (background tasks die on session restart, schtasks denied); move stale parts aside first.
+- [Möbius film: reference = restyle one thing](mobius-film-reference-means-restyle.md) — a shared reference video means change one named element of the existing film, never build a new scene; "Remotion studio" means the ManimGL preview page.
+- [Graham's number film](graham-film.md) — manimgl\graham: all 10 scenes in Möbius grammar, cut to the real 384s VO, studio plays it in sync; no render ordered yet.
+- [Larson Southern 500 film](larson-southern-500-film.md) — output/larson1: hook-clip architecture, VO-aligned timeline, chunked render running.
+- [Flick moving-label collision](flick-moving-label-collision.md) — on a progress-rail graphic, pin labels at fixed endpoints; never attach one to the moving marker.
+- [Flick Studio blur-scrub artifact](flick-studio-blur-scrub-artifact.md) — a ribbed texture in a Studio screenshot is a blur-scrub glitch, not real footage; confirm via an actual QC still.
+- [Flick VO file location](flick-vo-file-location.md) — VO lands in Downloads\Music under an ad-hoc name, not the project's vo\ folder; check by recency/duration, not filename.
+- [Flick minimize plain-text scenes](flick-minimize-plain-text-scenes.md) — favor image/comparison cards over plain floating-text scenes; flagged on keselowski1 for future films.
+- [Keselowski Hocevar film](keselowski-hocevar-film.md) — output/keselowski1: hook-clip + VO-aligned timeline, rendered and delivered; frame-count off-by-one bug fixed mid-render.
+- [Flick swimming folder](flick-swimming-folder.md) — swimming lives in D:\flick\swimming with its own CLAUDE.md; identity proof is the hard part there, not in motorsport.
+- [Flick suspense hook format](flick-suspense-hook-format.md) — new default cold-open: full-screen rapid-cut montage with real sync audio, ends on unresolved beat, not the old boxed clip.
+- [Flick no AV1 source](flick-no-av1-source.md) — always grab the h264/avc1 yt-dlp itag, never AV1; AV1 transcodes far slower on this machine. Flagged twice now.
+- [Ayden Tan film](ayden-tan-film.md) — swimming/output/ayden1 delivered 2026-09-16; 2022 footage + 2026 cards only, script caveats.
+- [Shorts need energy](flick-shorts-energy.md) — "maza ni aya": fast punch/flash cuts + popping cards; sc28 is the template, and shorts now carry NO sound but the VO.
+- [Info without cards](flick-info-without-cards.md) — a card box is no longer the default for a fact; use the real broadcast graphic, a stamped number, or full-bleed type. Captions still go at the bottom.
+- [Shot relevance](flick-shot-relevance.md) — every shot must match the line spoken over it; sourcing a near-miss and flagging it is not good enough.
+- [Athletics shorts](flick-athletics-shorts.md) — track & field lives in output/shorts too; World Athletics is the clean source, and identity proof is the hard part.
+- [yt-dlp fps filter trap](flick-ytdlp-fps-filter-trap.md) — [fps<=30] silently drops NASCAR/FloRacing to 480p (their 1080p is 60fps only); don't use it, probe resolution after download.
+- [Lyles short](lyles1-short.md) - output/shorts/lyles1 delivered 2026-09-19; sources, Kaalund cut trap, board-over-blur trick.
+- [Steenbergen short](steenbergen1-short.md) - swimming/output/steenbergen1 delivered 2026-09-19; no race footage of 51.68 exists, Singapore=2025 flag.
+- [Shorts audio level](flick-shorts-audio-level.md) - every short shipped ~19 dB too quiet; master to -12 LUFS and hand the ending to the real commentary.
+- [Blaney Bristol film](long3-blaney-bristol-film.md) - output/long3 rendered 2026-09-21; sources, TTS says 22 not 202 laps, Hocevar-quote misattribution.
+- [Clip sourcing QC gates (all films)](flick-swimming-no-subtitle-clips.md) - every short AND long film: reject any clip with burned-in subtitles in ANY language, minimize logo/watermark clips and Olympic Channel-sourced clips.
+- [Image fallback when no clip](flick-image-fallback-when-no-clip.md) - if no clip passes QC for a beat, use a still image (Wikimedia/Pexels) instead of forcing a bad clip through.
+- [Bubba Kansas short](bubba1-short.md) - output/shorts/bubba1 delivered 2026-09-24; Stratta call crop, 2022 Kansas win footage, tts-audio (37) VO mix-up trap.
+- [Long-film clip rules](flick-long-film-clip-rules.md) - every beat <=3s, no clip/image ever twice, relevance beats duration; BedChain last-link + faststart traps.
+- [Yu Zidi film (yuzidi4)](yuzidi4-film.md) - swimming/output/yuzidi4 rendered 2026-09-23; two freeze stretches flagged, Aichi-Nagoya vs "Tokyo" venue mismatch.
+- [Tatjana Smith film (tsmith1)](tsmith1-film.md) - swimming/output/tsmith1 built 2026-09-24, in Studio (port 3012), not rendered until user approves.
+- [Short file named by title](flick-short-file-named-by-title.md) - deliver each short as <pasted title>.mp4 in its project folder.
+- [ManimGL framing and overlap](manim-framing-and-overlap.md) - everything inside the frame, nothing overlapping, ever; _check3d only enforces what subject_at lists.
+- [ManimGL studio part rebuild](manimgl-studio-part-rebuild.md) - rebuild only the broken stretch (I/O keys, /rebuild?from&to); GLB models load via ModelMesh in fraction_kit.
+- [Fractions film](fractions-film.md) - manimgl\fractions: rendered 2026-09-26 as render_fractions\<title>.mp4 (2K, 6:07); hidden-tag depth-hole trap; launch renders via Win32_Process Create.
+- [Euler film](euler-film.md) - manimgl\euler: "Euler's Identity: The 5 Numbers..." all 10 scenes built on estimated timing, in studio e01-e10; waiting on VO to align.
+- [Laplace film](laplace-film.md) - manimgl\laplace "The Equation That Makes Calculus Disappear": first House Style v2 film, 10 scenes written + checked, studio l01-l10, VO 8:34 aligned; not rendered.
+- [ManimGL house style v2](manimgl-house-style-v2.md) - APPROVED default for every new ManimGL video: glossy dark-blue floor, gold/cyan/crimson roles, grain, Overhead Finish + Focus Zoom camera.
+- [ManimGL colour scheme change](manimgl-colour-scheme-change.md) - how the new palette was arrived at (cream rejected, navy/emerald tried, reference still matched); colour details.
+- [Overhead Finish camera rule](overhead-finish-camera-rule.md) - user-named rule: angled slow orbit, end straight overhead; billboard labels; grid fades. Use in every clip where it fits.
+- [Camera: rise only when needed](camera-rise-when-needed.md) - don't end every clip overhead; go up (phi ~20) where a floor diagram needs it, then come back down; my call where.
+- [Camera from the front](camera-front-not-side.md) - theta ~0 (max ±6°), never a 20-30° side view; set pieces face the lens.
+- [Camera never still](camera-never-still.md) - always-on slow zoom in/out + drift (alive() in laplace_kit); no hard horizon line (gradient sky wall).
+- [Camera keep close](camera-keep-close.md) - frame height <= ~12; move set pieces together instead of pulling the camera back.
+- [Arrows + labels](manimgl-arrows-and-labels.md) - name things with Callout (label + arrow to the object) in every scene.
+- [Focus Zoom camera rule](focus-zoom-camera-rule.md) - user-named rule: smooth zoom in on the thing the VO names when it must be seen, hold, smooth zoom out, continue; focus_zoom() in camera_rules.py.
+- [Long-film scripts must be heavy](manimgl-scripts-must-be-heavy.md) - bus/fractions script judged too simple; every ManimGL film needs impossible-sounding hook, answer withheld to the end, real stakes, counterintuitive math, reframe.
+- [Scripts: minimum 1300 words](manimgl-script-min-1300-words.md) - from 2026-09-29 every long-film script >=1300 words (count for real); VO scripts delivered as plain narration, equations spelled out.
+- [PowerShell UTF-8 rewrite trap](powershell-utf8-rewrite-trap.md) - never rewrite source with Get-Content|Set-Content (double-encodes UTF-8); use Edit.
+- [Kansas chase short](kansas1-short.md) - output/shorts/kansas1 delivered 2026-09-24 as its title.mp4; four NASCAR Kansas-finish sources, fill-crop recipe.
+- [Tatjana Smith comeback short](tsmith2-short.md) - swimming/output/tsmith2 delivered 2026-09-24 as its title.mp4; subject-centred crops, ranges disjoint from tsmith1.
+- [LA 2028 triathlon short](tri1-short.md) - output/shorts/tri1 delivered 2026-09-24 as its title.mp4; Venice Beach drone + Jorgensen swim-course preview + Paris 2024 women's tri.
+- [Milak short](milak1-short.md) - swimming/output/milak1 delivered 2026-09-25 as its title.mp4; 3 Paris 2026 feeds + Tokyo Dressel WR, stamp/caption placement traps.
+- [Popovici short](popovici1-short.md) - swimming/output/popovici1 delivered 2026-09-25 as its title.mp4; Euros 2026 + Singapore 2025 feeds, LA subtitle-video rejected.
+- [3 races chase short](chase2-short.md) - output/shorts/chase2 delivered 2026-09-25 as its title.mp4; Kansas/Vegas/Charlotte 2026 footage, Bristol Larson-Hamlin cut, timestamp-drift trap.
+- [Maths shorts: script depth](maths-shorts-script-depth.md) - short scripts need a real "why" + payoff, not a simple anecdote (burger short was too simple); max 20 s (~45 words); end on an open question only the long film answers, then "Watch the <topic> video to see how."
+- [Maths shorts: 2K finals](maths-shorts-4k.md) - finals render 1440x2560 natively (4K dropped as too slow); drafts stay 540x960.
+- [Maths shorts: formulas on top](maths-shorts-formulas-on-top.md) - equations/numbers go at the TOP of the 9:16 frame; YouTube UI covers the bottom.
+- [Möbius shorts](mobius-shorts.md) - Möbius YouTube Shorts in manimgl\shorts are 9:16 vertical, short_kit + _check band test; parallel session does long films; user gives script+VO.
+- [Kansas short 2](kansas2-short.md) - output/shorts/kansas2 delivered 2026-09-25 as its title.mp4; fresh Kansas sources after kansas1/chase2, Hamlin-vs-Larson 2024 side-by-side.
+- [Kyle Larson long film (long5)](long5-film.md) - output/long5 delivered 2026-09-26 as its title.mp4; no hook, 33 graphics, chunk audio-padding concat trap (use outpoint).
+- [Zhang Yufei short](zhang1-short.md) - swimming/output/zhang1 delivered 2026-09-26 as its title.mp4; single Asian Games host-broadcast session cut into 4 sections.
+- [Shin Ohashi short](ohashi1-short.md) - swimming/output/ohashi1 delivered 2026-09-26 as its title.mp4; TWO Japanese swimmers in that final, so arena cap + pink goggles + lane 4 is the only identity proof.
+- [Yu Zidi 3-gold short](yuzidi5-short.md) - swimming/output/yuzidi5 delivered 2026-09-26 as its title.mp4; VO mix-up caught pre-build, recap-channel wrong-footage traps.
+- [Hamlin Kansas warning short](hamlin4-short.md) - output/shorts/hamlin4 delivered 2026-09-26 as its title.mp4; panning full-height crop beats the blur-panel trick for NASCAR wide shots.
+- [Keselowski crew chief short](keselowski2-short.md) - output/shorts/keselowski2 delivered 2026-09-26 as its title.mp4; no-card style, real lower-thirds only, unverifiable person kept text-only.
+- [Blaney Hocevar follow-up short](blaney3-short.md) - output/shorts/blaney3 delivered 2026-09-26 as its title.mp4; NASCAR official Bristol fight + Kansas media session, no cards, black eye not visible.
+- [Zhang Zhanshuo short](zhang2-short.md) - swimming/output/zhang2 delivered 2026-09-26 as its title.mp4; how to scout+section-download one race out of a 2.5h session upload.
+- [Kansas short 3](kansas3-short.md) - output/shorts/kansas3 delivered 2026-09-27 as its title.mp4; fresh Larson-2025/Texas-2026 footage, Toyota-vs-Chevy Kansas angle, lower-third caption collision.
+- [Yu Zidi season short](yuzidi6-short.md) - swimming/output/yuzidi6 delivered 2026-09-28 as its title.mp4; crop top 20% off to kill channel bugs; recap-cut sources hide anchor shots between swim shots.
+- [Zhang Yufei short 2](zhang3-short.md) - swimming/output/zhang4 (moved from zhang3 after a folder collision) delivered 2026-09-28 as its title.mp4; second short off zhang1s race with fresh ranges; host-feed name bars gave identity free.
+- [ShaCarri 2026 statement short](richardson3-short.md) - output/shorts/richardson3 delivered 2026-09-28 as its title.mp4; third short off richardson2 sources, fill-mode for result boards, on-screen name proof throughout.
+- [Zhang Yufei title-defense film (zhang3)](zhang3-film.md) - swimming/output/zhang3 delivered 2026-09-28 as its title.mp4, 1080p only (user cancelled the 2K upscale); rebuilt from scratch after a parallel session's short overwrote it mid-render, see [[flick-swimming-folder]].
+- [Puripol Boonson short](puripol1-short.md) - output/shorts/puripol1 delivered 2026-09-28 as its title.mp4; T Sports 7 is the clean source for Thai athletics; per-source logo handling.
+- [Yu Zidi vs McIntosh film (yuzidi7)](yuzidi7-film.md) - swimming/output/yuzidi7 delivered 2026-09-29 as its title.mp4; interleave-for-variety + shot-relevance + WION photo-montage QC lessons.
+- [Yu Zidi vs McIntosh short (yuzidi8)](yuzidi8-short.md) - swimming/output/yuzidi8 delivered 2026-09-29 as its title.mp4; 4th film off fly_full.mp4, fresh-range accounting, wrong-swimmer trap, loudness fix.
+- [Marchand-Ohashi scary short](ohashi2-short.md) - swimming/output/ohashi2 delivered 2026-09-29 as its title.mp4; two-athlete short, pin each beat to whoever the CLAUSE names, not the sentence.
+- [Zhang Zhanshuo 7-golds short](zhang5-short.md) - swimming/output/zhang5 delivered 2026-09-30 as its title.mp4; reused zhang2 sources at fresh ranges, Start List/Results broadcast graphics as identity proof.
+- [World Cup preview short](worldcup1-short.md) - swimming/output/worldcup1 delivered 2026-09-30 as its title.mp4; official World Aquatics promos carry a preview of an event that has not happened; text beats must bake fill.
+- [Surfing channel analysis](surfing-channel-analysis.md) - surfing videos started 2026-10-01; insanesurfer (6.6s cuts, photos+highlighted screenshots), Bigwavefiles (9.4s, cinematic dark archive), surfingstories (3.2s, listicle+lower-thirds); keep tokens low.
+- [World Cup opening-day short](worldcup2-short.md) - swimming/output/worldcup2 delivered 2026-10-01 as its title.mp4; named athletes with no verified footage got typographic name cards instead of guessed footage.
+- [Eddie Aikau film (eddie1)](eddie1-film.md) - surfing/eddie1, first surfing film 2026-10-01; 47-min documentary cutaways + mixed graphics; script ends at "Eddie would" (real phrase Eddie Would Go).
+- [Brachistochrone film](brachistochrone-black-floor.md) - manimgl\brachistochrone: fractions black floor + steel grid (not navy); scenes 1-6 built in studio b01-b06, 7-10 to do; real track physics kit.

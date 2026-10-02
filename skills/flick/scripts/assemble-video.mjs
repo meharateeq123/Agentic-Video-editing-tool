@@ -13,6 +13,25 @@ const aspect = valueAfter('--aspect') || '9:16';
 const [W, H] = aspect === '16:9' ? [1920, 1080] : aspect === '1:1' ? [1080, 1080] : [1080, 1920];
 const out = resolve(project, valueAfter('--out') || 'preview.mp4');
 
+// Candidate cut styles for the boundary between clips, picked from ffmpeg's xfade filter
+// and named num1..num4 so they can be tried and compared by number, then locked in with
+// --transition numN once one is picked. Deliberately all "heavy"/punchy modern short-form
+// cuts (zoom punches, whip-blur, glitch, hard wipes) rather than soft/neutral crossfades —
+// closer to the fast documentary-style editing (Dhruv Rathee-style zoom/whip cuts, Gen-Z
+// short-form pacing) than a plain dissolve. num1 is the default.
+const TRANSITIONS = {
+  num1: 'zoomin', // hard zoom-punch into the incoming clip — the classic modern punch-cut
+  num2: 'hblur', // horizontal motion-blur whip, mimics a fast whip-pan between shots
+  num3: 'fadeblack', // snap flash-through-black — used for a hard beat/impact cut
+  num4: 'radial', // radial burst sweep, energetic clock-wipe feel
+};
+const transitionArg = valueAfter('--transition') || 'num1';
+const transitionName = TRANSITIONS[transitionArg];
+if (!transitionName) {
+  console.error(`Unknown --transition "${transitionArg}". Choose one of: ${Object.entries(TRANSITIONS).map(([k, v]) => `${k} (${v})`).join(', ')}`);
+  process.exit(1);
+}
+
 const secondsOf = (segment) => ({
   start: segment.startMs != null ? segment.startMs / 1000 : segment.start ?? 0,
   end: segment.endMs != null ? segment.endMs / 1000 : segment.end ?? 0,
@@ -116,7 +135,7 @@ async function main() {
       const offset = Math.max(0, cum - dur);
       outStart.push(offset);
       const outLabel = i === usable.length - 1 ? preCardLabel : `x${i}`;
-      filterParts.push(`[${prevLabel}][v${i}]xfade=transition=fade:duration=${dur.toFixed(3)}:offset=${offset.toFixed(3)}[${outLabel}]`);
+      filterParts.push(`[${prevLabel}][v${i}]xfade=transition=${transitionName}:duration=${dur.toFixed(3)}:offset=${offset.toFixed(3)}[${outLabel}]`);
       cum = cum + usable[i].duration - dur;
       prevLabel = outLabel;
     }
@@ -196,7 +215,7 @@ async function main() {
   if (voiceover) ffArgs.push('-map', `${usable.length}:a`, '-shortest', '-c:a', 'aac');
   ffArgs.push('-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-y', tmpOut);
 
-  console.log(`Assembling ${usable.length} scene(s) into ${out} ...`);
+  console.log(`Assembling ${usable.length} scene(s) into ${out} using transition ${transitionArg} (${transitionName}) ...`);
   const result = spawnSync(ffmpegBin, ffArgs, {stdio: 'inherit'});
   if (result.error || result.status !== 0) throw new Error('ffmpeg failed to assemble the video.');
 

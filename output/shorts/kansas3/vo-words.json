@@ -1,0 +1,299 @@
+{
+  "source": "D:\\flick\\output\\shorts\\kansas3\\vo\\vo.wav",
+  "language": "en",
+  "text": "Kansas is about to start a critical three-race stretch in the chase. And Toyota has been extremely strong on 1.5 mile tracks this season, while Chevrolet has won four of the last five Kansas races. With the championship fight so tight, one late restart could change everything. Kansas could be chaos.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3120,
+      "text": "Kansas is about to start a critical three-race stretch in the chase."
+    },
+    {
+      "startMs": 3540,
+      "endMs": 8480,
+      "text": "And Toyota has been extremely strong on 1.5 mile tracks this season, while Chevrolet has"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 10680,
+      "text": "won four of the last five Kansas races."
+    },
+    {
+      "startMs": 10920,
+      "endMs": 14700,
+      "text": "With the championship fight so tight, one late restart could change everything."
+    },
+    {
+      "startMs": 15060,
+      "endMs": 16120,
+      "text": "Kansas could be chaos."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 340,
+      "text": "Kansas"
+    },
+    {
+      "startMs": 340,
+      "endMs": 580,
+      "text": "is"
+    },
+    {
+      "startMs": 580,
+      "endMs": 780,
+      "text": "about"
+    },
+    {
+      "startMs": 780,
+      "endMs": 920,
+      "text": "to"
+    },
+    {
+      "startMs": 920,
+      "endMs": 1100,
+      "text": "start"
+    },
+    {
+      "startMs": 1100,
+      "endMs": 1240,
+      "text": "a"
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1600,
+      "text": "critical"
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1900,
+      "text": "three"
+    },
+    {
+      "startMs": 1900,
+      "endMs": 2180,
+      "text": "-race"
+    },
+    {
+      "startMs": 2180,
+      "endMs": 2500,
+      "text": "stretch"
+    },
+    {
+      "startMs": 2500,
+      "endMs": 2720,
+      "text": "in"
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2800,
+      "text": "the"
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3120,
+      "text": "chase."
+    },
+    {
+      "startMs": 3540,
+      "endMs": 3640,
+      "text": "And"
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3980,
+      "text": "Toyota"
+    },
+    {
+      "startMs": 3980,
+      "endMs": 4320,
+      "text": "has"
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4460,
+      "text": "been"
+    },
+    {
+      "startMs": 4460,
+      "endMs": 5000,
+      "text": "extremely"
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5420,
+      "text": "strong"
+    },
+    {
+      "startMs": 5420,
+      "endMs": 5600,
+      "text": "on"
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5820,
+      "text": "1"
+    },
+    {
+      "startMs": 5820,
+      "endMs": 6360,
+      "text": ".5"
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6600,
+      "text": "mile"
+    },
+    {
+      "startMs": 6600,
+      "endMs": 6980,
+      "text": "tracks"
+    },
+    {
+      "startMs": 6980,
+      "endMs": 7200,
+      "text": "this"
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7580,
+      "text": "season,"
+    },
+    {
+      "startMs": 7720,
+      "endMs": 7820,
+      "text": "while"
+    },
+    {
+      "startMs": 7820,
+      "endMs": 8280,
+      "text": "Chevrolet"
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8480,
+      "text": "has"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8660,
+      "text": "won"
+    },
+    {
+      "startMs": 8660,
+      "endMs": 9020,
+      "text": "four"
+    },
+    {
+      "startMs": 9020,
+      "endMs": 9180,
+      "text": "of"
+    },
+    {
+      "startMs": 9180,
+      "endMs": 9280,
+      "text": "the"
+    },
+    {
+      "startMs": 9280,
+      "endMs": 9500,
+      "text": "last"
+    },
+    {
+      "startMs": 9500,
+      "endMs": 9840,
+      "text": "five"
+    },
+    {
+      "startMs": 9840,
+      "endMs": 10180,
+      "text": "Kansas"
+    },
+    {
+      "startMs": 10180,
+      "endMs": 10680,
+      "text": "races."
+    },
+    {
+      "startMs": 10920,
+      "endMs": 11000,
+      "text": "With"
+    },
+    {
+      "startMs": 11000,
+      "endMs": 11120,
+      "text": "the"
+    },
+    {
+      "startMs": 11120,
+      "endMs": 11660,
+      "text": "championship"
+    },
+    {
+      "startMs": 11660,
+      "endMs": 11980,
+      "text": "fight"
+    },
+    {
+      "startMs": 11980,
+      "endMs": 12280,
+      "text": "so"
+    },
+    {
+      "startMs": 12280,
+      "endMs": 12620,
+      "text": "tight,"
+    },
+    {
+      "startMs": 12940,
+      "endMs": 13060,
+      "text": "one"
+    },
+    {
+      "startMs": 13060,
+      "endMs": 13260,
+      "text": "late"
+    },
+    {
+      "startMs": 13260,
+      "endMs": 13720,
+      "text": "restart"
+    },
+    {
+      "startMs": 13720,
+      "endMs": 13960,
+      "text": "could"
+    },
+    {
+      "startMs": 13960,
+      "endMs": 14240,
+      "text": "change"
+    },
+    {
+      "startMs": 14240,
+      "endMs": 14700,
+      "text": "everything."
+    },
+    {
+      "startMs": 15060,
+      "endMs": 15380,
+      "text": "Kansas"
+    },
+    {
+      "startMs": 15380,
+      "endMs": 15580,
+      "text": "could"
+    },
+    {
+      "startMs": 15580,
+      "endMs": 15720,
+      "text": "be"
+    },
+    {
+      "startMs": 15720,
+      "endMs": 16120,
+      "text": "chaos."
+    }
+  ]
+}

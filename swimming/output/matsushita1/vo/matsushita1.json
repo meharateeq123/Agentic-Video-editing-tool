@@ -1,0 +1,299 @@
+{
+  "source": "D:\\flick\\swimming\\output\\matsushita1\\vo\\matsushita1.wav",
+  "language": "en",
+  "text": "Tomoyuki Matsushita is becoming a serious name in the 400 IM. At Japan's 2026 Inter-College Championships, he clocked an incredible 4-0-5.83, setting an Asian record. That performance also put him among the fastest swimmers ever in the event, and at just 21, Matsushita could have plenty more speed coming.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3900,
+      "text": "Tomoyuki Matsushita is becoming a serious name in the 400 IM."
+    },
+    {
+      "startMs": 4160,
+      "endMs": 10380,
+      "text": "At Japan's 2026 Inter-College Championships, he clocked an incredible 4-0-5.83, setting"
+    },
+    {
+      "startMs": 10380,
+      "endMs": 11240,
+      "text": "an Asian record."
+    },
+    {
+      "startMs": 11560,
+      "endMs": 15580,
+      "text": "That performance also put him among the fastest swimmers ever in the event, and at just"
+    },
+    {
+      "startMs": 15580,
+      "endMs": 18340,
+      "text": "21, Matsushita could have plenty more speed coming."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "text": "Tomoyuki"
+    },
+    {
+      "startMs": 500,
+      "endMs": 1240,
+      "text": "Matsushita"
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1520,
+      "text": "is"
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1780,
+      "text": "becoming"
+    },
+    {
+      "startMs": 1780,
+      "endMs": 2020,
+      "text": "a"
+    },
+    {
+      "startMs": 2020,
+      "endMs": 2400,
+      "text": "serious"
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2700,
+      "text": "name"
+    },
+    {
+      "startMs": 2700,
+      "endMs": 2900,
+      "text": "in"
+    },
+    {
+      "startMs": 2900,
+      "endMs": 2980,
+      "text": "the"
+    },
+    {
+      "startMs": 2980,
+      "endMs": 3480,
+      "text": "400"
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3900,
+      "text": "IM."
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4240,
+      "text": "At"
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4760,
+      "text": "Japan's"
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5520,
+      "text": "2026"
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5940,
+      "text": "Inter"
+    },
+    {
+      "startMs": 5940,
+      "endMs": 6260,
+      "text": "-College"
+    },
+    {
+      "startMs": 6260,
+      "endMs": 6980,
+      "text": "Championships,"
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7260,
+      "text": "he"
+    },
+    {
+      "startMs": 7260,
+      "endMs": 7680,
+      "text": "clocked"
+    },
+    {
+      "startMs": 7680,
+      "endMs": 7740,
+      "text": "an"
+    },
+    {
+      "startMs": 7740,
+      "endMs": 8240,
+      "text": "incredible"
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8600,
+      "text": "4"
+    },
+    {
+      "startMs": 8600,
+      "endMs": 8820,
+      "text": "-0"
+    },
+    {
+      "startMs": 8820,
+      "endMs": 9160,
+      "text": "-5"
+    },
+    {
+      "startMs": 9160,
+      "endMs": 9840,
+      "text": ".83,"
+    },
+    {
+      "startMs": 10220,
+      "endMs": 10380,
+      "text": "setting"
+    },
+    {
+      "startMs": 10380,
+      "endMs": 10560,
+      "text": "an"
+    },
+    {
+      "startMs": 10560,
+      "endMs": 10860,
+      "text": "Asian"
+    },
+    {
+      "startMs": 10860,
+      "endMs": 11240,
+      "text": "record."
+    },
+    {
+      "startMs": 11560,
+      "endMs": 11680,
+      "text": "That"
+    },
+    {
+      "startMs": 11680,
+      "endMs": 12160,
+      "text": "performance"
+    },
+    {
+      "startMs": 12160,
+      "endMs": 12580,
+      "text": "also"
+    },
+    {
+      "startMs": 12580,
+      "endMs": 12800,
+      "text": "put"
+    },
+    {
+      "startMs": 12800,
+      "endMs": 12920,
+      "text": "him"
+    },
+    {
+      "startMs": 12920,
+      "endMs": 13100,
+      "text": "among"
+    },
+    {
+      "startMs": 13100,
+      "endMs": 13240,
+      "text": "the"
+    },
+    {
+      "startMs": 13240,
+      "endMs": 13660,
+      "text": "fastest"
+    },
+    {
+      "startMs": 13660,
+      "endMs": 14080,
+      "text": "swimmers"
+    },
+    {
+      "startMs": 14080,
+      "endMs": 14440,
+      "text": "ever"
+    },
+    {
+      "startMs": 14440,
+      "endMs": 14600,
+      "text": "in"
+    },
+    {
+      "startMs": 14600,
+      "endMs": 14700,
+      "text": "the"
+    },
+    {
+      "startMs": 14700,
+      "endMs": 15060,
+      "text": "event,"
+    },
+    {
+      "startMs": 15260,
+      "endMs": 15320,
+      "text": "and"
+    },
+    {
+      "startMs": 15320,
+      "endMs": 15420,
+      "text": "at"
+    },
+    {
+      "startMs": 15420,
+      "endMs": 15580,
+      "text": "just"
+    },
+    {
+      "startMs": 15580,
+      "endMs": 16140,
+      "text": "21,"
+    },
+    {
+      "startMs": 16380,
+      "endMs": 16920,
+      "text": "Matsushita"
+    },
+    {
+      "startMs": 16920,
+      "endMs": 17120,
+      "text": "could"
+    },
+    {
+      "startMs": 17120,
+      "endMs": 17220,
+      "text": "have"
+    },
+    {
+      "startMs": 17220,
+      "endMs": 17500,
+      "text": "plenty"
+    },
+    {
+      "startMs": 17500,
+      "endMs": 17740,
+      "text": "more"
+    },
+    {
+      "startMs": 17740,
+      "endMs": 18000,
+      "text": "speed"
+    },
+    {
+      "startMs": 18000,
+      "endMs": 18340,
+      "text": "coming."
+    }
+  ]
+}

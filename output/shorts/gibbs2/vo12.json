@@ -1,0 +1,264 @@
+{
+  "source": "D:\\flick\\vo\\12.wav",
+  "language": "en",
+  "text": "At Darlington, Toyota drivers finished first, second and third with Christopher Bell taking the win. Now Bell sits just 12 points behind Danny Hamlin while Tai Gibbs is only 39 back. With Gateway next, Toyota has three serious championship threats. Is anyone stopping Toyota this year?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 4800,
+      "text": "At Darlington, Toyota drivers finished first, second and third with Christopher Bell taking"
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5220,
+      "text": "the win."
+    },
+    {
+      "startMs": 5520,
+      "endMs": 10220,
+      "text": "Now Bell sits just 12 points behind Danny Hamlin while Tai Gibbs is only 39 back."
+    },
+    {
+      "startMs": 10420,
+      "endMs": 13940,
+      "text": "With Gateway next, Toyota has three serious championship threats."
+    },
+    {
+      "startMs": 14400,
+      "endMs": 16040,
+      "text": "Is anyone stopping Toyota this year?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 180,
+      "text": "At"
+    },
+    {
+      "startMs": 180,
+      "endMs": 740,
+      "text": "Darlington,"
+    },
+    {
+      "startMs": 980,
+      "endMs": 1180,
+      "text": "Toyota"
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1640,
+      "text": "drivers"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2020,
+      "text": "finished"
+    },
+    {
+      "startMs": 2020,
+      "endMs": 2380,
+      "text": "first,"
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2940,
+      "text": "second"
+    },
+    {
+      "startMs": 2940,
+      "endMs": 3140,
+      "text": "and"
+    },
+    {
+      "startMs": 3140,
+      "endMs": 3480,
+      "text": "third"
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3780,
+      "text": "with"
+    },
+    {
+      "startMs": 3780,
+      "endMs": 4120,
+      "text": "Christopher"
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4440,
+      "text": "Bell"
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4800,
+      "text": "taking"
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5000,
+      "text": "the"
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5220,
+      "text": "win."
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5600,
+      "text": "Now"
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5800,
+      "text": "Bell"
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6040,
+      "text": "sits"
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6320,
+      "text": "just"
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6660,
+      "text": "12"
+    },
+    {
+      "startMs": 6660,
+      "endMs": 7020,
+      "text": "points"
+    },
+    {
+      "startMs": 7020,
+      "endMs": 7380,
+      "text": "behind"
+    },
+    {
+      "startMs": 7380,
+      "endMs": 7740,
+      "text": "Danny"
+    },
+    {
+      "startMs": 7740,
+      "endMs": 8120,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8360,
+      "text": "while"
+    },
+    {
+      "startMs": 8360,
+      "endMs": 8620,
+      "text": "Tai"
+    },
+    {
+      "startMs": 8620,
+      "endMs": 8920,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9120,
+      "text": "is"
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9320,
+      "text": "only"
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9800,
+      "text": "39"
+    },
+    {
+      "startMs": 9800,
+      "endMs": 10220,
+      "text": "back."
+    },
+    {
+      "startMs": 10420,
+      "endMs": 10540,
+      "text": "With"
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10820,
+      "text": "Gateway"
+    },
+    {
+      "startMs": 10820,
+      "endMs": 11180,
+      "text": "next,"
+    },
+    {
+      "startMs": 11540,
+      "endMs": 11780,
+      "text": "Toyota"
+    },
+    {
+      "startMs": 11780,
+      "endMs": 12080,
+      "text": "has"
+    },
+    {
+      "startMs": 12080,
+      "endMs": 12420,
+      "text": "three"
+    },
+    {
+      "startMs": 12420,
+      "endMs": 12960,
+      "text": "serious"
+    },
+    {
+      "startMs": 12960,
+      "endMs": 13580,
+      "text": "championship"
+    },
+    {
+      "startMs": 13580,
+      "endMs": 13940,
+      "text": "threats."
+    },
+    {
+      "startMs": 14400,
+      "endMs": 14480,
+      "text": "Is"
+    },
+    {
+      "startMs": 14480,
+      "endMs": 14760,
+      "text": "anyone"
+    },
+    {
+      "startMs": 14760,
+      "endMs": 15160,
+      "text": "stopping"
+    },
+    {
+      "startMs": 15160,
+      "endMs": 15500,
+      "text": "Toyota"
+    },
+    {
+      "startMs": 15500,
+      "endMs": 15820,
+      "text": "this"
+    },
+    {
+      "startMs": 15820,
+      "endMs": 16040,
+      "text": "year?"
+    }
+  ]
+}

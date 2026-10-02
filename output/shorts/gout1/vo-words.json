@@ -1,0 +1,339 @@
+{
+  "source": "D:\\flick\\output\\shorts\\gout1\\vo.wav",
+  "language": "en",
+  "text": "Goud Goud's 2026 season ended earlier than expected, but now the focus is 2027. The Australian sprint star missed the World Under 20 championships after a hamstring injury in training. But before that, he ran an incredible 19.67 for the Under 20 World record. Now the big question is simple. How fast will Goud be when he comes back?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 5500,
+      "text": "Goud Goud's 2026 season ended earlier than expected, but now the focus is 2027."
+    },
+    {
+      "startMs": 5660,
+      "endMs": 9960,
+      "text": "The Australian sprint star missed the World Under 20 championships after a hamstring"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10940,
+      "text": "injury in training."
+    },
+    {
+      "startMs": 11180,
+      "endMs": 15940,
+      "text": "But before that, he ran an incredible 19.67 for the Under 20 World record."
+    },
+    {
+      "startMs": 16200,
+      "endMs": 17720,
+      "text": "Now the big question is simple."
+    },
+    {
+      "startMs": 18000,
+      "endMs": 19920,
+      "text": "How fast will Goud be when he comes back?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 140,
+      "text": "Goud"
+    },
+    {
+      "startMs": 140,
+      "endMs": 580,
+      "text": "Goud's"
+    },
+    {
+      "startMs": 580,
+      "endMs": 1360,
+      "text": "2026"
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1840,
+      "text": "season"
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2120,
+      "text": "ended"
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2520,
+      "text": "earlier"
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2740,
+      "text": "than"
+    },
+    {
+      "startMs": 2740,
+      "endMs": 3180,
+      "text": "expected,"
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3520,
+      "text": "but"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3740,
+      "text": "now"
+    },
+    {
+      "startMs": 3740,
+      "endMs": 3900,
+      "text": "the"
+    },
+    {
+      "startMs": 3900,
+      "endMs": 4220,
+      "text": "focus"
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4480,
+      "text": "is"
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5500,
+      "text": "2027."
+    },
+    {
+      "startMs": 5660,
+      "endMs": 5740,
+      "text": "The"
+    },
+    {
+      "startMs": 5740,
+      "endMs": 6240,
+      "text": "Australian"
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6560,
+      "text": "sprint"
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6940,
+      "text": "star"
+    },
+    {
+      "startMs": 6940,
+      "endMs": 7240,
+      "text": "missed"
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7460,
+      "text": "the"
+    },
+    {
+      "startMs": 7460,
+      "endMs": 7660,
+      "text": "World"
+    },
+    {
+      "startMs": 7660,
+      "endMs": 7960,
+      "text": "Under"
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8280,
+      "text": "20"
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8920,
+      "text": "championships"
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9380,
+      "text": "after"
+    },
+    {
+      "startMs": 9380,
+      "endMs": 9520,
+      "text": "a"
+    },
+    {
+      "startMs": 9520,
+      "endMs": 9960,
+      "text": "hamstring"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10340,
+      "text": "injury"
+    },
+    {
+      "startMs": 10340,
+      "endMs": 10560,
+      "text": "in"
+    },
+    {
+      "startMs": 10560,
+      "endMs": 10940,
+      "text": "training."
+    },
+    {
+      "startMs": 11180,
+      "endMs": 11260,
+      "text": "But"
+    },
+    {
+      "startMs": 11260,
+      "endMs": 11500,
+      "text": "before"
+    },
+    {
+      "startMs": 11500,
+      "endMs": 11840,
+      "text": "that,"
+    },
+    {
+      "startMs": 12000,
+      "endMs": 12060,
+      "text": "he"
+    },
+    {
+      "startMs": 12060,
+      "endMs": 12280,
+      "text": "ran"
+    },
+    {
+      "startMs": 12280,
+      "endMs": 12420,
+      "text": "an"
+    },
+    {
+      "startMs": 12420,
+      "endMs": 12900,
+      "text": "incredible"
+    },
+    {
+      "startMs": 12900,
+      "endMs": 13320,
+      "text": "19"
+    },
+    {
+      "startMs": 13320,
+      "endMs": 14180,
+      "text": ".67"
+    },
+    {
+      "startMs": 14180,
+      "endMs": 14540,
+      "text": "for"
+    },
+    {
+      "startMs": 14540,
+      "endMs": 14640,
+      "text": "the"
+    },
+    {
+      "startMs": 14640,
+      "endMs": 14900,
+      "text": "Under"
+    },
+    {
+      "startMs": 14900,
+      "endMs": 15260,
+      "text": "20"
+    },
+    {
+      "startMs": 15260,
+      "endMs": 15520,
+      "text": "World"
+    },
+    {
+      "startMs": 15520,
+      "endMs": 15940,
+      "text": "record."
+    },
+    {
+      "startMs": 16200,
+      "endMs": 16320,
+      "text": "Now"
+    },
+    {
+      "startMs": 16320,
+      "endMs": 16460,
+      "text": "the"
+    },
+    {
+      "startMs": 16460,
+      "endMs": 16640,
+      "text": "big"
+    },
+    {
+      "startMs": 16640,
+      "endMs": 17120,
+      "text": "question"
+    },
+    {
+      "startMs": 17120,
+      "endMs": 17280,
+      "text": "is"
+    },
+    {
+      "startMs": 17280,
+      "endMs": 17720,
+      "text": "simple."
+    },
+    {
+      "startMs": 18000,
+      "endMs": 18100,
+      "text": "How"
+    },
+    {
+      "startMs": 18100,
+      "endMs": 18420,
+      "text": "fast"
+    },
+    {
+      "startMs": 18420,
+      "endMs": 18600,
+      "text": "will"
+    },
+    {
+      "startMs": 18600,
+      "endMs": 18880,
+      "text": "Goud"
+    },
+    {
+      "startMs": 18880,
+      "endMs": 19100,
+      "text": "be"
+    },
+    {
+      "startMs": 19100,
+      "endMs": 19280,
+      "text": "when"
+    },
+    {
+      "startMs": 19280,
+      "endMs": 19380,
+      "text": "he"
+    },
+    {
+      "startMs": 19380,
+      "endMs": 19600,
+      "text": "comes"
+    },
+    {
+      "startMs": 19600,
+      "endMs": 19920,
+      "text": "back?"
+    }
+  ]
+}

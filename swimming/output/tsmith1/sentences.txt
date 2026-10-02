@@ -1,0 +1,125 @@
+﻿
+=== SCENE 1  0.00 -> 12.45  (12.4s, 390f mounted)
+  [  0.0 -   3.5]  she stood on the podium in Paris with an Olympic gold medal around her neck.
+  [  3.7 -   5.6]  Then she walked away from the sport completely.
+  [  5.9 -  10.9]  Two years later, she is back in the pool, chasing an event that has never existed at the Olympics before.
+  [ 11.4 -  12.3]  What changed her mind?
+
+=== SCENE 2  12.45 -> 39.25  (26.8s, 820f mounted)
+  [  0.2 -   4.6]  So, Johnna Smith retired the moment her final race at the 2024 Paris Olympics ended.
+  [  4.9 -  10.3]  She had just won gold in the 100 meter breaststroke, the only South African to win gold at those games.
+  [ 10.6 -  18.8]  It capped a career that already included Olympic gold in the 200 meter breaststroke at Tokyo 2020, plus two Olympic silver medals across both games.
+  [ 19.1 -  23.1]  Four Olympic medals total, her decision to stop surprise people across the sport.
+  [ 23.3 -  26.6]  She was retiring at the very top, not fading out after a decline.
+
+=== SCENE 3  39.25 -> 49.23  (10.0s, 315f mounted)
+  [  0.1 -   1.9]  For two years, that retirement held.
+  [  2.3 -   4.5]  Smith stepped fully away from competitive swimming.
+  [  4.8 -   9.9]  She has said that when she made the announcement, she genuinely believed that chapter of her life was closed for good.
+
+=== SCENE 4  49.23 -> 82.05  (32.8s, 1001f mounted)
+  [  0.1 -   5.1]  Her career before that retirement was already one of the most decorated in South African sporting history.
+  [  5.4 -  13.6]  She won her first African titles as a teenager, sweeping the 50, 100 and 200 meter breaststroke at the 2013 African Junior Championships.
+  [ 13.8 -  18.0]  By 2015, she had repeated that sweep at the senior African Games.
+  [ 18.3 -  32.4]  She added Commonwealth Games medals in 2022, gold in the 200 and silver in the 100. Every step of that career pointed toward the same two events, 100 
+
+=== SCENE 5  82.05 -> 97.15  (15.1s, 469f mounted)
+  [  0.1 -   3.5]  Then in late September, 2026, everything changed.
+  [  3.5 -   6.6]  Smith confirmed she is officially reversing her retirement.
+  [  6.9 -  11.5]  She will return to racing this week at the South African Short -Course Championships in Peter Merrittsburg.
+  [ 11.7 -  14.9]  But this comeback is not about chasing the same events that made her famous.
+
+=== SCENE 6  97.15 -> 107.71  (10.6s, 333f mounted)
+  [  0.2 -   6.8]  Smith is not targeting the 100 or 200 meter breaststroke, the two distances that delivered every one of her Olympic medals.
+  [  7.1 -  10.4]  She is targeting the 50 meter breaststroke, a completely new event.
+
+=== SCENE 7  107.71 -> 128.62  (20.9s, 643f mounted)
+  [  0.1 -   1.6]  Here is why that detail matters.
+  [  1.9 -   5.6]  The 50 meter breaststroke has never appeared on the Olympic swimming program before.
+  [  5.6 -  12.3]  Los Angeles 2028 will be the first Olympics ever to include 50 meter sprint events across all four strokes.
+  [ 12.5 -  15.3]  For Smith, this is not a chance to defend old glory.
+  [ 15.6 -  20.8]  It is a genuinely new event with no Olympic history behind it and no defending champion to chase.
+
+=== SCENE 8  128.62 -> 146.39  (17.8s, 549f mounted)
+  [  0.2 -   4.0]  She has described the difference between her old races and this new one directly.
+  [  4.2 -  11.5]  The 50 is one length, no turn, and almost no room to recover if the start, the pullout, the breakout, or the touch goes even slightly wrong.
+  [ 11.8 -  17.7]  Everything has to happen at once with no chance to settle into a rhythm the way she could across 100 or 200 meters.
+
+=== SCENE 9  146.39 -> 164.91  (18.5s, 572f mounted)
+  [  0.3 -   1.9]  That difference is not just about distance.
+  [  2.3 -   4.3]  It is about a completely different kind of athlete.
+  [  4.6 -   9.4]  Smith herself compares it to the gap between a marathon runner and a 100 meter sprinter on a track.
+  [  9.6 -  12.8]  Different training, different body demands, different racing mentality.
+  [ 13.3 -  18.3]  She is essentially asking her body to become a different kind of swimmer than the one that won four Olympic medals.
+
+=== SCENE 10  164.91 -> 194.69  (29.8s, 909f mounted)
+  [  0.1 -   2.1]  This is not a hopeless long shot either.
+  [  2.4 -  14.1]  Smith already has a personal best of 30 .09 seconds in the 50 meter breaststroke setback in 2024. The current world record held by Lithuania's Ruta Mi
+  [ 14.2 -  19.7]  A gap of under a second separates Smith's existing best from the fastest woman ever to swim the event.
+  [ 19.9 -  21.5]  She is not starting from zero.
+  [ 21.8 -  29.6]  She already ranks among the fastest breaststrokers in the world at this exact distance, even though her entire competitive career was built around the
+
+=== SCENE 11  194.69 -> 221.07  (26.4s, 807f mounted)
+  [  0.2 -   3.0]  That history makes the target of her comeback even more striking.
+  [  3.3 -   7.0]  Smith is not just switching distances within a stroke, she already dominates.
+  [  7.3 -  11.9]  The 50 meter breaststroke rewards a different physical profile than the events that built her career.
+  [ 12.2 -  19.0]  Explosive power over a single length rather than the pacing and endurance she perfected over years of 100 and 200 meter racing.
+  [ 19.3 -  26.2]  At 29, she is asking her body to develop a skill set it was never specifically trained for during her entire competitive rise.
+
+=== SCENE 12  221.07 -> 252.12  (31.1s, 948f mounted)
+  [  0.2 -   5.1]  While I walk away from swimming entirely only to come back for a race she has never fully specialized in.
+  [  5.4 -   8.6]  Smith has been candid about the burnout that led to her original retirement.
+  [  8.6 -  15.8]  Years of intense competition wore her down and by the time Paris ended she needed real distance from the sport to feel like herself again.
+  [ 16.0 -  18.7]  What brought her back was not a return of that old motivation.
+  [ 19.0 -  20.4]  It was something entirely new.
+  [ 20.8 -  30.9]  When she heard the 50 meter breaststroke would debut at the Olympics for the first time she described it as a chance to become a different version of 
+
+=== SCENE 13  252.12 -> 281.33  (29.2s, 892f mounted)
+  [  0.2 -   2.7]  The comeback comes with real changes behind the scenes.
+  [  3.1 -  12.4]  Smith has relocated from Pretoria to Stellenbosch and started working with a new coach essentially rebuilding her training program from the ground up 
+  [ 12.5 -  16.4]  Her first competitive test comes this week at the South African Short Course Championships.
+  [ 17.0 -  22.4]  From there she is targeting the selection meet for the Short Course World Championships in Beijing this December.
+  [ 22.7 -  29.1]  A clear step -by -step path back toward international competition rather than an immediate jump to elite international racing.
+
+=== SCENE 14  281.33 -> 298.53  (17.2s, 532f mounted)
+  [  0.2 -   2.9]  Smith has also been clear about what this comeback is not.
+  [  3.2 -   4.6]  It is not about proving anything.
+  [  4.9 -  11.5]  She has said directly that she already achieved more in swimming than she ever imagined possible and that she has nothing left to prove to anyone.
+  [ 11.8 -  17.1]  What she wants now is simply to find out how this new chapter turns out even though she does not know the ending herself.
+
+=== SCENE 15  298.53 -> 323.55  (25.0s, 767f mounted)
+  [  0.2 -   4.4]  That honesty matters because the road back to an Olympic final is genuinely uncertain.
+  [  4.9 -   7.4]  Smith herself has been careful not to promise a result.
+  [  7.6 -   9.8]  Los Angeles 2028 is the goal.
+  [ 10.0 -  11.6]  In her own words, not a guarantee.
+  [ 12.0 -  14.1]  She still has to build an entirely new race.
+  [ 14.5 -  20.2]  Requalify through national and international standards and earn a spot on the South African Olympic team all over again.
+  [ 20.5 -  24.8]  The same process every swimmer faces with no shortcuts for past Olympic success.
+
+=== SCENE 16  323.55 -> 355.75  (32.2s, 982f mounted)
+  [  0.1 -   5.0]  The competitive field she is walking back into has also changed since she last raced internationally.
+  [  5.4 -  19.1]  Her own South African teammate, Lara Van Niekerk, has been closing in on the world's best 50 breaststroke times and swimmers like Milutite, Italy's An
+  [ 19.4 -  32.1]  The 50 breaststroke field Smith is stepping into for 2028 is deeper and faster than it was even a few years ago, which makes her own personal best of 
+
+=== SCENE 17  355.75 -> 379.79  (24.0s, 737f mounted)
+  [  0.1 -   4.1]  There is also a bigger prize sitting at the end of this comeback beyond the medal itself.
+  [  4.5 -  14.0]  If Smith reaches the podium in Los Angeles in any color, she becomes the first athlete in South African history across every Olympic sport to reach fi
+  [ 14.3 -  18.6]  No South African swimmer, sprinter or athlete in any discipline has ever done that.
+  [ 18.6 -  23.8]  A comeback built around an event with zero Olympic history could end up making history of its own kind.
+
+=== SCENE 18  379.79 -> 403.47  (23.7s, 726f mounted)
+  [  0.2 -   3.9]  What makes this story different from a typical athlete comeback is the target itself.
+  [  4.2 -   7.8]  Most comebacks chase old records or attempt to reclaim a title that was lost.
+  [  8.0 -   9.1]  Smith is doing neither.
+  [  9.4 -  13.3]  She retired as a champion in her original events and has no plans to return to them.
+  [ 13.5 -  23.5]  Instead, she picked the one event in the entire sport with no past champions, no existing Olympic record and no expectations built from history and de
+  [ 23.5 -  27.4]  Does touching a Smith make the South African Olympic team in this brand new event?
+
+=== SCENE 19  403.47 -> 414.96  (11.5s, 361f mounted)
+  [  4.0 -   7.8]  Does she become the first South African athlete ever to reach five Olympic medals?
+  [  8.0 -   9.6]  Drop your prediction in the comments below.
+  [ 10.0 -  11.4]  I read every single one.
+
+=== SCENE 20  414.96 -> 427.48  (12.5s, 392f mounted)
+  [  0.2 -   6.6]  If you want to follow Tejana Smith's comeback from her first race back this week all the way to Los Angeles 2028, subscribe now.
+  [  6.9 -  12.0]  A two -time Olympic champion just chose to start over in an event that has never existed before.

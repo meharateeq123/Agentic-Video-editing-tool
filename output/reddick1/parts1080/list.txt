@@ -1,0 +1,7 @@
+file 'D:/flick/output/reddick1/parts1080/part01.mp4'
+file 'D:/flick/output/reddick1/parts1080/part02.mp4'
+file 'D:/flick/output/reddick1/parts1080/part03.mp4'
+file 'D:/flick/output/reddick1/parts1080/part04.mp4'
+file 'D:/flick/output/reddick1/parts1080/part05.mp4'
+file 'D:/flick/output/reddick1/parts1080/part06.mp4'
+file 'D:/flick/output/reddick1/parts1080/part07.mp4'

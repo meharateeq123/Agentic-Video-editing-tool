@@ -1,0 +1,294 @@
+{
+  "source": "D:\\flick\\output\\shorts\\hamlin4\\vo\\c67.wav",
+  "language": "en",
+  "text": "Danny Hamlin has dominated Kansas before, but there's a problem. He's lost the last two Kansas races after overtime restarts, despite leading 290 of the last 547 laps here. Now the championship fight is incredibly tight. Can Hamlin finally finish the job at Kansas, or will another late restart destroy his race?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3220,
+      "text": "Danny Hamlin has dominated Kansas before, but there's a problem."
+    },
+    {
+      "startMs": 3540,
+      "endMs": 8900,
+      "text": "He's lost the last two Kansas races after overtime restarts, despite leading 290 of the last"
+    },
+    {
+      "startMs": 8900,
+      "endMs": 10680,
+      "text": "547 laps here."
+    },
+    {
+      "startMs": 10920,
+      "endMs": 13120,
+      "text": "Now the championship fight is incredibly tight."
+    },
+    {
+      "startMs": 13360,
+      "endMs": 17740,
+      "text": "Can Hamlin finally finish the job at Kansas, or will another late restart destroy his race?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 200,
+      "text": "Danny"
+    },
+    {
+      "startMs": 200,
+      "endMs": 620,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 620,
+      "endMs": 820,
+      "text": "has"
+    },
+    {
+      "startMs": 820,
+      "endMs": 1260,
+      "text": "dominated"
+    },
+    {
+      "startMs": 1260,
+      "endMs": 1620,
+      "text": "Kansas"
+    },
+    {
+      "startMs": 1620,
+      "endMs": 2100,
+      "text": "before,"
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2480,
+      "text": "but"
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2740,
+      "text": "there's"
+    },
+    {
+      "startMs": 2740,
+      "endMs": 2820,
+      "text": "a"
+    },
+    {
+      "startMs": 2820,
+      "endMs": 3220,
+      "text": "problem."
+    },
+    {
+      "startMs": 3540,
+      "endMs": 3760,
+      "text": "He's"
+    },
+    {
+      "startMs": 3760,
+      "endMs": 3940,
+      "text": "lost"
+    },
+    {
+      "startMs": 3940,
+      "endMs": 4160,
+      "text": "the"
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4380,
+      "text": "last"
+    },
+    {
+      "startMs": 4380,
+      "endMs": 4640,
+      "text": "two"
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4980,
+      "text": "Kansas"
+    },
+    {
+      "startMs": 4980,
+      "endMs": 5380,
+      "text": "races"
+    },
+    {
+      "startMs": 5380,
+      "endMs": 5760,
+      "text": "after"
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6240,
+      "text": "overtime"
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6820,
+      "text": "restarts,"
+    },
+    {
+      "startMs": 7020,
+      "endMs": 7220,
+      "text": "despite"
+    },
+    {
+      "startMs": 7220,
+      "endMs": 7580,
+      "text": "leading"
+    },
+    {
+      "startMs": 7580,
+      "endMs": 8360,
+      "text": "290"
+    },
+    {
+      "startMs": 8360,
+      "endMs": 8640,
+      "text": "of"
+    },
+    {
+      "startMs": 8640,
+      "endMs": 8700,
+      "text": "the"
+    },
+    {
+      "startMs": 8700,
+      "endMs": 8900,
+      "text": "last"
+    },
+    {
+      "startMs": 8900,
+      "endMs": 9980,
+      "text": "547"
+    },
+    {
+      "startMs": 9980,
+      "endMs": 10360,
+      "text": "laps"
+    },
+    {
+      "startMs": 10360,
+      "endMs": 10680,
+      "text": "here."
+    },
+    {
+      "startMs": 10920,
+      "endMs": 11060,
+      "text": "Now"
+    },
+    {
+      "startMs": 11060,
+      "endMs": 11220,
+      "text": "the"
+    },
+    {
+      "startMs": 11220,
+      "endMs": 11720,
+      "text": "championship"
+    },
+    {
+      "startMs": 11720,
+      "endMs": 12060,
+      "text": "fight"
+    },
+    {
+      "startMs": 12060,
+      "endMs": 12260,
+      "text": "is"
+    },
+    {
+      "startMs": 12260,
+      "endMs": 12760,
+      "text": "incredibly"
+    },
+    {
+      "startMs": 12760,
+      "endMs": 13120,
+      "text": "tight."
+    },
+    {
+      "startMs": 13360,
+      "endMs": 13440,
+      "text": "Can"
+    },
+    {
+      "startMs": 13440,
+      "endMs": 13800,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 13800,
+      "endMs": 14140,
+      "text": "finally"
+    },
+    {
+      "startMs": 14140,
+      "endMs": 14460,
+      "text": "finish"
+    },
+    {
+      "startMs": 14460,
+      "endMs": 14620,
+      "text": "the"
+    },
+    {
+      "startMs": 14620,
+      "endMs": 14840,
+      "text": "job"
+    },
+    {
+      "startMs": 14840,
+      "endMs": 15000,
+      "text": "at"
+    },
+    {
+      "startMs": 15000,
+      "endMs": 15400,
+      "text": "Kansas,"
+    },
+    {
+      "startMs": 15620,
+      "endMs": 15680,
+      "text": "or"
+    },
+    {
+      "startMs": 15680,
+      "endMs": 15780,
+      "text": "will"
+    },
+    {
+      "startMs": 15780,
+      "endMs": 16060,
+      "text": "another"
+    },
+    {
+      "startMs": 16060,
+      "endMs": 16360,
+      "text": "late"
+    },
+    {
+      "startMs": 16360,
+      "endMs": 16780,
+      "text": "restart"
+    },
+    {
+      "startMs": 16780,
+      "endMs": 17180,
+      "text": "destroy"
+    },
+    {
+      "startMs": 17180,
+      "endMs": 17460,
+      "text": "his"
+    },
+    {
+      "startMs": 17460,
+      "endMs": 17740,
+      "text": "race?"
+    }
+  ]
+}

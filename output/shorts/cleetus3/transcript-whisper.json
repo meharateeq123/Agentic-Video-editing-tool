@@ -1,0 +1,319 @@
+{
+  "source": "D:\\flick\\vo\\cleetus short.wav",
+  "language": "en",
+  "text": "Cletus McFarlane's final NASCAR race of 2026 is coming and it's a big one. On October 23rd, Cletus is set to return to Talladega for a truck series race. After a wild year of racing, this could be his last NASCAR start of the season. But can Cletus finish 2026 with a huge statement at Talladega? Ashash!",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 4740,
+      "text": "Cletus McFarlane's final NASCAR race of 2026 is coming and it's a big one."
+    },
+    {
+      "startMs": 5040,
+      "endMs": 9320,
+      "text": "On October 23rd, Cletus is set to return to Talladega for a truck series race."
+    },
+    {
+      "startMs": 9540,
+      "endMs": 13560,
+      "text": "After a wild year of racing, this could be his last NASCAR start of the season."
+    },
+    {
+      "startMs": 13820,
+      "endMs": 17380,
+      "text": "But can Cletus finish 2026 with a huge statement at Talladega?"
+    },
+    {
+      "startMs": 17800,
+      "endMs": 18180,
+      "text": "Ashash!"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 260,
+      "text": "Cletus"
+    },
+    {
+      "startMs": 260,
+      "endMs": 1160,
+      "text": "McFarlane's"
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1380,
+      "text": "final"
+    },
+    {
+      "startMs": 1380,
+      "endMs": 1800,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2080,
+      "text": "race"
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2280,
+      "text": "of"
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3000,
+      "text": "2026"
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3240,
+      "text": "is"
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3560,
+      "text": "coming"
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3880,
+      "text": "and"
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4100,
+      "text": "it's"
+    },
+    {
+      "startMs": 4100,
+      "endMs": 4200,
+      "text": "a"
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4420,
+      "text": "big"
+    },
+    {
+      "startMs": 4420,
+      "endMs": 4740,
+      "text": "one."
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5100,
+      "text": "On"
+    },
+    {
+      "startMs": 5100,
+      "endMs": 5380,
+      "text": "October"
+    },
+    {
+      "startMs": 5380,
+      "endMs": 6220,
+      "text": "23rd,"
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6560,
+      "text": "Cletus"
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6740,
+      "text": "is"
+    },
+    {
+      "startMs": 6740,
+      "endMs": 6900,
+      "text": "set"
+    },
+    {
+      "startMs": 6900,
+      "endMs": 7060,
+      "text": "to"
+    },
+    {
+      "startMs": 7060,
+      "endMs": 7340,
+      "text": "return"
+    },
+    {
+      "startMs": 7340,
+      "endMs": 7500,
+      "text": "to"
+    },
+    {
+      "startMs": 7500,
+      "endMs": 8020,
+      "text": "Talladega"
+    },
+    {
+      "startMs": 8020,
+      "endMs": 8240,
+      "text": "for"
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8320,
+      "text": "a"
+    },
+    {
+      "startMs": 8320,
+      "endMs": 8520,
+      "text": "truck"
+    },
+    {
+      "startMs": 8520,
+      "endMs": 8900,
+      "text": "series"
+    },
+    {
+      "startMs": 8900,
+      "endMs": 9320,
+      "text": "race."
+    },
+    {
+      "startMs": 9540,
+      "endMs": 9880,
+      "text": "After"
+    },
+    {
+      "startMs": 9880,
+      "endMs": 10040,
+      "text": "a"
+    },
+    {
+      "startMs": 10040,
+      "endMs": 10360,
+      "text": "wild"
+    },
+    {
+      "startMs": 10360,
+      "endMs": 10540,
+      "text": "year"
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10700,
+      "text": "of"
+    },
+    {
+      "startMs": 10700,
+      "endMs": 11040,
+      "text": "racing,"
+    },
+    {
+      "startMs": 11300,
+      "endMs": 11420,
+      "text": "this"
+    },
+    {
+      "startMs": 11420,
+      "endMs": 11540,
+      "text": "could"
+    },
+    {
+      "startMs": 11540,
+      "endMs": 11700,
+      "text": "be"
+    },
+    {
+      "startMs": 11700,
+      "endMs": 11880,
+      "text": "his"
+    },
+    {
+      "startMs": 11880,
+      "endMs": 12100,
+      "text": "last"
+    },
+    {
+      "startMs": 12100,
+      "endMs": 12640,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 12640,
+      "endMs": 12880,
+      "text": "start"
+    },
+    {
+      "startMs": 12880,
+      "endMs": 13060,
+      "text": "of"
+    },
+    {
+      "startMs": 13060,
+      "endMs": 13160,
+      "text": "the"
+    },
+    {
+      "startMs": 13160,
+      "endMs": 13560,
+      "text": "season."
+    },
+    {
+      "startMs": 13820,
+      "endMs": 13900,
+      "text": "But"
+    },
+    {
+      "startMs": 13900,
+      "endMs": 14040,
+      "text": "can"
+    },
+    {
+      "startMs": 14040,
+      "endMs": 14380,
+      "text": "Cletus"
+    },
+    {
+      "startMs": 14380,
+      "endMs": 14680,
+      "text": "finish"
+    },
+    {
+      "startMs": 14680,
+      "endMs": 15520,
+      "text": "2026"
+    },
+    {
+      "startMs": 15520,
+      "endMs": 15800,
+      "text": "with"
+    },
+    {
+      "startMs": 15800,
+      "endMs": 15920,
+      "text": "a"
+    },
+    {
+      "startMs": 15920,
+      "endMs": 16320,
+      "text": "huge"
+    },
+    {
+      "startMs": 16320,
+      "endMs": 16620,
+      "text": "statement"
+    },
+    {
+      "startMs": 16620,
+      "endMs": 16800,
+      "text": "at"
+    },
+    {
+      "startMs": 16800,
+      "endMs": 17380,
+      "text": "Talladega?"
+    },
+    {
+      "startMs": 17800,
+      "endMs": 18180,
+      "text": "Ashash!"
+    }
+  ]
+}

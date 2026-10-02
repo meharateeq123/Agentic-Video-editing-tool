@@ -1,0 +1,334 @@
+{
+  "source": "D:\\flick\\swimming\\output\\zhang5\\vo\\cand86.wav",
+  "language": "en",
+  "text": "Zhang Zhanshuo just made Asian Games history. The 19 year old Chinese swimmer won a record as even gold medals at the 2026 Games, becoming the first swimmer ever to reach that number at a single Asian Games. He also set an Asian record in the 200 meter freestyle with 143.49, 7 golds, 1 swimmer, and he's only 19.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 2540,
+      "text": "Zhang Zhanshuo just made Asian Games history."
+    },
+    {
+      "startMs": 2940,
+      "endMs": 8080,
+      "text": "The 19 year old Chinese swimmer won a record as even gold medals at the 2026 Games, becoming"
+    },
+    {
+      "startMs": 8080,
+      "endMs": 11500,
+      "text": "the first swimmer ever to reach that number at a single Asian Games."
+    },
+    {
+      "startMs": 11800,
+      "endMs": 18300,
+      "text": "He also set an Asian record in the 200 meter freestyle with 143.49, 7 golds, 1 swimmer,"
+    },
+    {
+      "startMs": 18460,
+      "endMs": 19580,
+      "text": "and he's only 19."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 200,
+      "text": "Zhang"
+    },
+    {
+      "startMs": 200,
+      "endMs": 840,
+      "text": "Zhanshuo"
+    },
+    {
+      "startMs": 840,
+      "endMs": 1040,
+      "text": "just"
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1260,
+      "text": "made"
+    },
+    {
+      "startMs": 1260,
+      "endMs": 1680,
+      "text": "Asian"
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2040,
+      "text": "Games"
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2540,
+      "text": "history."
+    },
+    {
+      "startMs": 2940,
+      "endMs": 2980,
+      "text": "The"
+    },
+    {
+      "startMs": 2980,
+      "endMs": 3240,
+      "text": "19"
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3520,
+      "text": "year"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3660,
+      "text": "old"
+    },
+    {
+      "startMs": 3660,
+      "endMs": 3960,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4460,
+      "text": "swimmer"
+    },
+    {
+      "startMs": 4460,
+      "endMs": 4620,
+      "text": "won"
+    },
+    {
+      "startMs": 4620,
+      "endMs": 4780,
+      "text": "a"
+    },
+    {
+      "startMs": 4780,
+      "endMs": 5060,
+      "text": "record"
+    },
+    {
+      "startMs": 5060,
+      "endMs": 5280,
+      "text": "as"
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5540,
+      "text": "even"
+    },
+    {
+      "startMs": 5540,
+      "endMs": 5780,
+      "text": "gold"
+    },
+    {
+      "startMs": 5780,
+      "endMs": 6120,
+      "text": "medals"
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6320,
+      "text": "at"
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6400,
+      "text": "the"
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7080,
+      "text": "2026"
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7680,
+      "text": "Games,"
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8080,
+      "text": "becoming"
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8320,
+      "text": "the"
+    },
+    {
+      "startMs": 8320,
+      "endMs": 8520,
+      "text": "first"
+    },
+    {
+      "startMs": 8520,
+      "endMs": 8940,
+      "text": "swimmer"
+    },
+    {
+      "startMs": 8940,
+      "endMs": 9160,
+      "text": "ever"
+    },
+    {
+      "startMs": 9160,
+      "endMs": 9320,
+      "text": "to"
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9540,
+      "text": "reach"
+    },
+    {
+      "startMs": 9540,
+      "endMs": 9800,
+      "text": "that"
+    },
+    {
+      "startMs": 9800,
+      "endMs": 10160,
+      "text": "number"
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10360,
+      "text": "at"
+    },
+    {
+      "startMs": 10360,
+      "endMs": 10440,
+      "text": "a"
+    },
+    {
+      "startMs": 10440,
+      "endMs": 10700,
+      "text": "single"
+    },
+    {
+      "startMs": 10700,
+      "endMs": 11060,
+      "text": "Asian"
+    },
+    {
+      "startMs": 11060,
+      "endMs": 11500,
+      "text": "Games."
+    },
+    {
+      "startMs": 11800,
+      "endMs": 11880,
+      "text": "He"
+    },
+    {
+      "startMs": 11880,
+      "endMs": 12200,
+      "text": "also"
+    },
+    {
+      "startMs": 12200,
+      "endMs": 12460,
+      "text": "set"
+    },
+    {
+      "startMs": 12460,
+      "endMs": 12580,
+      "text": "an"
+    },
+    {
+      "startMs": 12580,
+      "endMs": 12860,
+      "text": "Asian"
+    },
+    {
+      "startMs": 12860,
+      "endMs": 13220,
+      "text": "record"
+    },
+    {
+      "startMs": 13220,
+      "endMs": 13380,
+      "text": "in"
+    },
+    {
+      "startMs": 13380,
+      "endMs": 13460,
+      "text": "the"
+    },
+    {
+      "startMs": 13460,
+      "endMs": 13840,
+      "text": "200"
+    },
+    {
+      "startMs": 13840,
+      "endMs": 14180,
+      "text": "meter"
+    },
+    {
+      "startMs": 14180,
+      "endMs": 14600,
+      "text": "freestyle"
+    },
+    {
+      "startMs": 14600,
+      "endMs": 15000,
+      "text": "with"
+    },
+    {
+      "startMs": 15000,
+      "endMs": 15800,
+      "text": "143"
+    },
+    {
+      "startMs": 15800,
+      "endMs": 16460,
+      "text": ".49,"
+    },
+    {
+      "startMs": 16680,
+      "endMs": 16900,
+      "text": "7"
+    },
+    {
+      "startMs": 16900,
+      "endMs": 17580,
+      "text": "golds,"
+    },
+    {
+      "startMs": 17700,
+      "endMs": 17820,
+      "text": "1"
+    },
+    {
+      "startMs": 17820,
+      "endMs": 18300,
+      "text": "swimmer,"
+    },
+    {
+      "startMs": 18460,
+      "endMs": 18520,
+      "text": "and"
+    },
+    {
+      "startMs": 18520,
+      "endMs": 18780,
+      "text": "he's"
+    },
+    {
+      "startMs": 18780,
+      "endMs": 19020,
+      "text": "only"
+    },
+    {
+      "startMs": 19020,
+      "endMs": 19580,
+      "text": "19."
+    }
+  ]
+}

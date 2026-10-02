@@ -1,5 +1,7 @@
 # Character / Person Visual Rule — Strict
 
+When the person is named while a *different but relevant* clip is already playing as the background (not the exact person's own footage), see [person-id-card-overlay-rule.md](person-id-card-overlay-rule.md) for the on-screen treatment: keep that clip playing, blur it, and overlay a cinematic ID card rather than hard-cutting away.
+
 Whenever the narration mentions a specific person, character, player, driver, athlete, celebrity, historical figure, politician, scientist, or any other identifiable individual, the system MUST recognize that person as a visual entity.
 
 ## Character detection

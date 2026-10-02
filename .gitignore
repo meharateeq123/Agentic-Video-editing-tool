@@ -25,3 +25,24 @@ flick-*/
 analysis/
 INPUT/
 *.lnk
+
+# Heavy binaries: renders, source footage, audio, archives - not needed to resume work,
+# only the code/scripts/CLAUDE.md/skill docs are (see flick memory: shift-to-new-device note).
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.webm
+Compressed/
+**/dl/
+**/bed-pool/
+**/sheets/
+**/bundle/
+**/*-raw*.mp4
+**/*.tmp.mp4
+*.part
+*.m4a
+**/qc/
+**/qc2/
+**/qc_*/
+**/stills/

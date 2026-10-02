@@ -1,0 +1,309 @@
+{
+  "source": "D:\\flick\\swimming\\output\\worldcup2\\vo\\cand.wav",
+  "language": "en",
+  "text": "The 2026 swimming world cup officially opens in Baku, Azerbaijan with 216 swimmers from 44 nations ready to race. Olympic champion Cameron McAvoy, Suvon Howey, Merit Steenberg and Chin Haiyang are among the big names competing. And with $1.2 million in prize money plus Beijing championship spots on the line, could we see another world record?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 7640,
+      "text": "The 2026 swimming world cup officially opens in Baku, Azerbaijan with 216 swimmers from 44 nations ready to race."
+    },
+    {
+      "startMs": 7880,
+      "endMs": 14260,
+      "text": "Olympic champion Cameron McAvoy, Suvon Howey, Merit Steenberg and Chin Haiyang are among the big names competing."
+    },
+    {
+      "startMs": 14680,
+      "endMs": 21160,
+      "text": "And with $1.2 million in prize money plus Beijing championship spots on the line, could we see another world record?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 80,
+      "text": "The"
+    },
+    {
+      "startMs": 80,
+      "endMs": 840,
+      "text": "2026"
+    },
+    {
+      "startMs": 840,
+      "endMs": 1220,
+      "text": "swimming"
+    },
+    {
+      "startMs": 1220,
+      "endMs": 1520,
+      "text": "world"
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1820,
+      "text": "cup"
+    },
+    {
+      "startMs": 1820,
+      "endMs": 2200,
+      "text": "officially"
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2620,
+      "text": "opens"
+    },
+    {
+      "startMs": 2620,
+      "endMs": 2840,
+      "text": "in"
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3280,
+      "text": "Baku,"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3720,
+      "text": "Azerbaijan"
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4360,
+      "text": "with"
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5220,
+      "text": "216"
+    },
+    {
+      "startMs": 5220,
+      "endMs": 5680,
+      "text": "swimmers"
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5900,
+      "text": "from"
+    },
+    {
+      "startMs": 5900,
+      "endMs": 6380,
+      "text": "44"
+    },
+    {
+      "startMs": 6380,
+      "endMs": 6800,
+      "text": "nations"
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7100,
+      "text": "ready"
+    },
+    {
+      "startMs": 7100,
+      "endMs": 7240,
+      "text": "to"
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7640,
+      "text": "race."
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8120,
+      "text": "Olympic"
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8680,
+      "text": "champion"
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9060,
+      "text": "Cameron"
+    },
+    {
+      "startMs": 9060,
+      "endMs": 9640,
+      "text": "McAvoy,"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10340,
+      "text": "Suvon"
+    },
+    {
+      "startMs": 10340,
+      "endMs": 10740,
+      "text": "Howey,"
+    },
+    {
+      "startMs": 10960,
+      "endMs": 11160,
+      "text": "Merit"
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11620,
+      "text": "Steenberg"
+    },
+    {
+      "startMs": 11620,
+      "endMs": 11900,
+      "text": "and"
+    },
+    {
+      "startMs": 11900,
+      "endMs": 12120,
+      "text": "Chin"
+    },
+    {
+      "startMs": 12120,
+      "endMs": 12700,
+      "text": "Haiyang"
+    },
+    {
+      "startMs": 12700,
+      "endMs": 12880,
+      "text": "are"
+    },
+    {
+      "startMs": 12880,
+      "endMs": 13140,
+      "text": "among"
+    },
+    {
+      "startMs": 13140,
+      "endMs": 13280,
+      "text": "the"
+    },
+    {
+      "startMs": 13280,
+      "endMs": 13520,
+      "text": "big"
+    },
+    {
+      "startMs": 13520,
+      "endMs": 13760,
+      "text": "names"
+    },
+    {
+      "startMs": 13760,
+      "endMs": 14260,
+      "text": "competing."
+    },
+    {
+      "startMs": 14680,
+      "endMs": 14760,
+      "text": "And"
+    },
+    {
+      "startMs": 14760,
+      "endMs": 14900,
+      "text": "with"
+    },
+    {
+      "startMs": 14900,
+      "endMs": 15160,
+      "text": "$1"
+    },
+    {
+      "startMs": 15160,
+      "endMs": 15680,
+      "text": ".2"
+    },
+    {
+      "startMs": 15680,
+      "endMs": 16040,
+      "text": "million"
+    },
+    {
+      "startMs": 16040,
+      "endMs": 16680,
+      "text": "in"
+    },
+    {
+      "startMs": 16680,
+      "endMs": 16940,
+      "text": "prize"
+    },
+    {
+      "startMs": 16940,
+      "endMs": 17280,
+      "text": "money"
+    },
+    {
+      "startMs": 17280,
+      "endMs": 17580,
+      "text": "plus"
+    },
+    {
+      "startMs": 17580,
+      "endMs": 17980,
+      "text": "Beijing"
+    },
+    {
+      "startMs": 17980,
+      "endMs": 18540,
+      "text": "championship"
+    },
+    {
+      "startMs": 18540,
+      "endMs": 18940,
+      "text": "spots"
+    },
+    {
+      "startMs": 18940,
+      "endMs": 19180,
+      "text": "on"
+    },
+    {
+      "startMs": 19180,
+      "endMs": 19280,
+      "text": "the"
+    },
+    {
+      "startMs": 19280,
+      "endMs": 19620,
+      "text": "line,"
+    },
+    {
+      "startMs": 19860,
+      "endMs": 19960,
+      "text": "could"
+    },
+    {
+      "startMs": 19960,
+      "endMs": 20080,
+      "text": "we"
+    },
+    {
+      "startMs": 20080,
+      "endMs": 20260,
+      "text": "see"
+    },
+    {
+      "startMs": 20260,
+      "endMs": 20500,
+      "text": "another"
+    },
+    {
+      "startMs": 20500,
+      "endMs": 20800,
+      "text": "world"
+    },
+    {
+      "startMs": 20800,
+      "endMs": 21160,
+      "text": "record?"
+    }
+  ]
+}

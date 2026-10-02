@@ -1,0 +1,374 @@
+{
+  "source": "D:\\flick\\vo\\2.wav",
+  "language": "en",
+  "text": "Ty Gibbs just proved he's not a future champion anymore. He's a threat right now. Starting 28th at Darlington, Gibbs charged all the way to second in the Southern 500. That huge finish puts him just 39 points behind Danny Hamlin in the chase. With nine races still left, Gibbs has a real chance to shock NASCAR. Could Ty Gibbs actually win it all?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3040,
+      "text": "Ty Gibbs just proved he's not a future champion anymore."
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4700,
+      "text": "He's a threat right now."
+    },
+    {
+      "startMs": 4960,
+      "endMs": 6480,
+      "text": "Starting 28th at Darlington,"
+    },
+    {
+      "startMs": 6700,
+      "endMs": 9660,
+      "text": "Gibbs charged all the way to second in the Southern 500."
+    },
+    {
+      "startMs": 9900,
+      "endMs": 12300,
+      "text": "That huge finish puts him just 39 points"
+    },
+    {
+      "startMs": 12300,
+      "endMs": 13940,
+      "text": "behind Danny Hamlin in the chase."
+    },
+    {
+      "startMs": 14300,
+      "endMs": 15620,
+      "text": "With nine races still left,"
+    },
+    {
+      "startMs": 15820,
+      "endMs": 17940,
+      "text": "Gibbs has a real chance to shock NASCAR."
+    },
+    {
+      "startMs": 18100,
+      "endMs": 19800,
+      "text": "Could Ty Gibbs actually win it all?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 180,
+      "text": "Ty"
+    },
+    {
+      "startMs": 180,
+      "endMs": 440,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 440,
+      "endMs": 780,
+      "text": "just"
+    },
+    {
+      "startMs": 780,
+      "endMs": 1180,
+      "text": "proved"
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1480,
+      "text": "he's"
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1640,
+      "text": "not"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1780,
+      "text": "a"
+    },
+    {
+      "startMs": 1780,
+      "endMs": 2040,
+      "text": "future"
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2540,
+      "text": "champion"
+    },
+    {
+      "startMs": 2540,
+      "endMs": 3040,
+      "text": "anymore."
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3600,
+      "text": "He's"
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3660,
+      "text": "a"
+    },
+    {
+      "startMs": 3660,
+      "endMs": 3920,
+      "text": "threat"
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4240,
+      "text": "right"
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4700,
+      "text": "now."
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5160,
+      "text": "Starting"
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5900,
+      "text": "28th"
+    },
+    {
+      "startMs": 5900,
+      "endMs": 5960,
+      "text": "at"
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6480,
+      "text": "Darlington,"
+    },
+    {
+      "startMs": 6700,
+      "endMs": 6780,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 6780,
+      "endMs": 7360,
+      "text": "charged"
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7660,
+      "text": "all"
+    },
+    {
+      "startMs": 7660,
+      "endMs": 7860,
+      "text": "the"
+    },
+    {
+      "startMs": 7860,
+      "endMs": 8000,
+      "text": "way"
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8120,
+      "text": "to"
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8480,
+      "text": "second"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8680,
+      "text": "in"
+    },
+    {
+      "startMs": 8680,
+      "endMs": 8780,
+      "text": "the"
+    },
+    {
+      "startMs": 8780,
+      "endMs": 9000,
+      "text": "Southern"
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9660,
+      "text": "500."
+    },
+    {
+      "startMs": 9900,
+      "endMs": 10020,
+      "text": "That"
+    },
+    {
+      "startMs": 10020,
+      "endMs": 10380,
+      "text": "huge"
+    },
+    {
+      "startMs": 10380,
+      "endMs": 10760,
+      "text": "finish"
+    },
+    {
+      "startMs": 10760,
+      "endMs": 11000,
+      "text": "puts"
+    },
+    {
+      "startMs": 11000,
+      "endMs": 11180,
+      "text": "him"
+    },
+    {
+      "startMs": 11180,
+      "endMs": 11360,
+      "text": "just"
+    },
+    {
+      "startMs": 11360,
+      "endMs": 11880,
+      "text": "39"
+    },
+    {
+      "startMs": 11880,
+      "endMs": 12300,
+      "text": "points"
+    },
+    {
+      "startMs": 12300,
+      "endMs": 12680,
+      "text": "behind"
+    },
+    {
+      "startMs": 12680,
+      "endMs": 13020,
+      "text": "Danny"
+    },
+    {
+      "startMs": 13020,
+      "endMs": 13440,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 13440,
+      "endMs": 13580,
+      "text": "in"
+    },
+    {
+      "startMs": 13580,
+      "endMs": 13680,
+      "text": "the"
+    },
+    {
+      "startMs": 13680,
+      "endMs": 13940,
+      "text": "chase."
+    },
+    {
+      "startMs": 14300,
+      "endMs": 14380,
+      "text": "With"
+    },
+    {
+      "startMs": 14380,
+      "endMs": 14620,
+      "text": "nine"
+    },
+    {
+      "startMs": 14620,
+      "endMs": 14980,
+      "text": "races"
+    },
+    {
+      "startMs": 14980,
+      "endMs": 15280,
+      "text": "still"
+    },
+    {
+      "startMs": 15280,
+      "endMs": 15620,
+      "text": "left,"
+    },
+    {
+      "startMs": 15820,
+      "endMs": 15920,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 15920,
+      "endMs": 16180,
+      "text": "has"
+    },
+    {
+      "startMs": 16180,
+      "endMs": 16340,
+      "text": "a"
+    },
+    {
+      "startMs": 16340,
+      "endMs": 16560,
+      "text": "real"
+    },
+    {
+      "startMs": 16560,
+      "endMs": 16880,
+      "text": "chance"
+    },
+    {
+      "startMs": 16880,
+      "endMs": 17080,
+      "text": "to"
+    },
+    {
+      "startMs": 17080,
+      "endMs": 17360,
+      "text": "shock"
+    },
+    {
+      "startMs": 17360,
+      "endMs": 17940,
+      "text": "NASCAR."
+    },
+    {
+      "startMs": 18100,
+      "endMs": 18140,
+      "text": "Could"
+    },
+    {
+      "startMs": 18140,
+      "endMs": 18420,
+      "text": "Ty"
+    },
+    {
+      "startMs": 18420,
+      "endMs": 18720,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 18720,
+      "endMs": 19200,
+      "text": "actually"
+    },
+    {
+      "startMs": 19200,
+      "endMs": 19440,
+      "text": "win"
+    },
+    {
+      "startMs": 19440,
+      "endMs": 19560,
+      "text": "it"
+    },
+    {
+      "startMs": 19560,
+      "endMs": 19800,
+      "text": "all?"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "clips": [
+    {
+      "file": "01-cleetus-mcfarland-just-crashed-his-super.mp4",
+      "scene": 1,
+      "isImage": false,
+      "narration": "Cleetus McFarland just crashed his Super Late Model. And instead of piling on with the critics, Dale Earnhardt Jr. did the opposite. He defended him. On air. In blunt terms. And what he said next explains why this crash might actually be good news for Cleetus's NASCAR future.",
+      "source": "@NASCAR",
+      "title": "\"That Was Intense\": How Cleetus McFarland's 1st O'Reilly Series Race Unfolded"
+    },
+    {
+      "file": "02-let-s-break-down-what-happened-what-dale.mp4",
+      "scene": 2,
+      "isImage": false,
+      "narration": "Let's break down what happened, what Dale Jr. actually said, and why this moment matters more than a single bad finish.",
+      "source": "@dirtymomedia",
+      "title": "Dale Jr. Download - The Time Dale Earnhardt Whipped A Guy’s A**"
+    },
+    {
+      "file": "03-on-august-12-cleetus-mcfarland-real-name.mp4",
+      "scene": 3,
+      "isImage": false,
+      "narration": "On August 12, Cleetus McFarland, real name Garrett Mitchell, took his Super Late Model to Berlin Raceway in Michigan for the Tekton 250 Battle at Berlin. This was his first time racing this specific car, bought for one reason: to sharpen his race craft on short tracks.",
+      "source": "@FloRacing",
+      "title": "Cleetus McFarland Makes Super Late Model Debut | 2026 Tekton 250 Battle at Berlin Highlights"
+    },
+    {
+      "file": "08-that-s-where-dale-earnhardt-jr-stepped-i.mp4",
+      "scene": 8,
+      "isImage": false,
+      "narration": "That's where Dale Earnhardt Jr. stepped in. On a recent episode of the Dale Jr. Download podcast, he didn't just brush off the criticism, he directly called it out.",
+      "source": "@NASCARonFOX",
+      "title": "NASCAR Victory Lane: Dale Earnhardt Jr. - 2014 Daytona 500"
+    },
+    {
+      "file": "12-earnhardt-also-pushed-back-on-the-online.mp4",
+      "scene": 12,
+      "isImage": false,
+      "narration": "Earnhardt also pushed back on the online reaction itself, saying much of the criticism ignored the obvious, that Cleetus was simply doing what people had asked him to do, and getting punished for it anyway.",
+      "source": "@NASCARonFOX",
+      "title": "Dale Earnhardt Jr. Hard Crash - Texas - 2014 NASCAR Sprint Cup"
+    },
+    {
+      "file": "14-this-time-the-improvement-dale-jr-wanted.mp4",
+      "scene": 14,
+      "isImage": false,
+      "narration": "This time, the improvement Dale Jr. wanted to see actually showed up. Cleetus qualified well again and spent roughly the first 30 laps running second, before tire wear caught up with him and he faded to a 13th-place finish.",
+      "source": "@dirtymomedia",
+      "title": "Dale Jr. Discusses His Ideal Beach Day"
+    },
+    {
+      "file": "15-no-crash-no-late-spin-just-a-driver-mana.mp4",
+      "scene": 15,
+      "isImage": false,
+      "narration": "No crash. No late spin. Just a driver managing a long green-flag run and bringing the car home in one piece.",
+      "source": "@NASCARonFOX",
+      "title": "Snider spins Gragson causing 'Big One' at Pocono | NASCAR ON FOX HIGHLIGHTS"
+    },
+    {
+      "file": "16-earnhardt-highlighted-that-second-run-as.mp4",
+      "scene": 16,
+      "isImage": false,
+      "narration": "Earnhardt highlighted that second run as the real story, saying Cleetus performed impressively and was clearly enjoying the experience, texting him afterward about how much fun he was having.",
+      "source": "@NASCARonFOX",
+      "title": "Dale Earnhardt Jr. breaks down the origin story of The Intimidator at Metrolina Speedway | NASCAR"
+    },
+    {
+      "file": "19-his-o-reilly-series-debut-at-rockingham-.mp4",
+      "scene": 19,
+      "isImage": false,
+      "narration": "His O'Reilly Series debut at Rockingham in April was rough. He spun multiple times and finished six laps down. NASCAR even denied his request to run Talladega afterward, citing a lack of experience. But he was later approved for Nashville, and he keeps getting invited back, both by RCR and by other teams.",
+      "source": "@NASCAR",
+      "title": "Cleetus McFarland’s Honest Reaction to His NASCAR O’Reilly Series Debut | 2026 Rockingham Speedway"
+    },
+    {
+      "file": "25-the-road-to-daytona-doesn-t-run-in-a-str.mp4",
+      "scene": 25,
+      "isImage": false,
+      "narration": "The road to Daytona doesn't run in a straight line. For Cleetus McFarland, right now, it's running through short tracks in Michigan, one spin and one strong run at a time.",
+      "source": "@NASCARonFOX",
+      "title": "Kevin Harvick wins Duel #1 as Kligerman races his way in | 2019 DAYTONA 500 | NASCAR on FOX"
+    }
+  ],
+  "graphicScenes": [
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    13,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "totalScenes": 25
+}

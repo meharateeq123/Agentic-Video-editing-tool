@@ -80,6 +80,12 @@ Read this catalog before building a scene. Reuse an asset only when its visual p
 **Use for:** Introducing one website, resource, tool, guide, framework, or product page.
 **Avoid for:** Real screen recordings, product comparisons, workflows, or abstract visual concepts.
 
+## realistic-earth-globe
+**File:** `realistic-earth-globe/RealisticGlobe.tsx` (+ `geo3d.ts`) — see `realistic-earth-globe/USAGE.md` for the full setup (shared textures + a per-country build step, not just a drop-in file).
+**Pattern:** A real 3D satellite-textured Earth (three.js, not a 2D projection) with visible country borders and readable name labels. The camera dollies in from a wide establishing view to arrive directly over one target country, which then gets a soft pulsing gold highlight while every other country stays natural.
+**Use for:** A cinematic, documentary-realistic globe moment naming one country — replaces the flatter hand-drawn `Globe` in `components/Maps.tsx` when the brief calls for satellite realism specifically.
+**Avoid for:** A scene about a route between several named places (a flat map reads clearer for that — see `components/Maps.tsx`'s `USMap`/`Route`), or a project that hasn't budgeted the one-time per-country asset-build step.
+
 ## page-scroll-and-title-focus
 **File:** `page-scroll-and-title-focus/GraphifyApprovedScenes.tsx` — `GraphifyScene1`
 **Pattern:** A captured page appears inside a framed screen with a blurred matching background. A large circular logo enters and exits while the page scrolls, then the camera zooms into the page header and highlights one title area.

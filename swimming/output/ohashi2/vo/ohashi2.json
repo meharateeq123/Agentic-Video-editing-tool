@@ -1,0 +1,369 @@
+{
+  "source": "D:\\flick\\swimming\\output\\ohashi2\\vo\\c85.wav",
+  "language": "en",
+  "text": "But Leon Marshawn has already noticed swimming's newest rising star. After Shinohashi broke the 200 meter breaststroke world record in 2, 0 4.83, Marshawn called the 17 year old Japanese swimmer a scary competitor. Ohashi is now looking toward LA 2028, where Marshawn could become one of his biggest rivals. And Ohashi says he's ready for the challenge. Could this become a huge Olympic battle?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3300,
+      "text": "But Leon Marshawn has already noticed swimming's newest rising star."
+    },
+    {
+      "startMs": 3660,
+      "endMs": 9940,
+      "text": "After Shinohashi broke the 200 meter breaststroke world record in 2, 0 4.83, Marshawn called"
+    },
+    {
+      "startMs": 9940,
+      "endMs": 13040,
+      "text": "the 17 year old Japanese swimmer a scary competitor."
+    },
+    {
+      "startMs": 13380,
+      "endMs": 18300,
+      "text": "Ohashi is now looking toward LA 2028, where Marshawn could become one of his biggest rivals."
+    },
+    {
+      "startMs": 18720,
+      "endMs": 20640,
+      "text": "And Ohashi says he's ready for the challenge."
+    },
+    {
+      "startMs": 20940,
+      "endMs": 22940,
+      "text": "Could this become a huge Olympic battle?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 80,
+      "text": "But"
+    },
+    {
+      "startMs": 80,
+      "endMs": 240,
+      "text": "Leon"
+    },
+    {
+      "startMs": 240,
+      "endMs": 900,
+      "text": "Marshawn"
+    },
+    {
+      "startMs": 900,
+      "endMs": 1040,
+      "text": "has"
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1360,
+      "text": "already"
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1660,
+      "text": "noticed"
+    },
+    {
+      "startMs": 1660,
+      "endMs": 2240,
+      "text": "swimming's"
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2520,
+      "text": "newest"
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2880,
+      "text": "rising"
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3300,
+      "text": "star."
+    },
+    {
+      "startMs": 3660,
+      "endMs": 3920,
+      "text": "After"
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4560,
+      "text": "Shinohashi"
+    },
+    {
+      "startMs": 4560,
+      "endMs": 4840,
+      "text": "broke"
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5020,
+      "text": "the"
+    },
+    {
+      "startMs": 5020,
+      "endMs": 5400,
+      "text": "200"
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5640,
+      "text": "meter"
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6220,
+      "text": "breaststroke"
+    },
+    {
+      "startMs": 6220,
+      "endMs": 6480,
+      "text": "world"
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6840,
+      "text": "record"
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7020,
+      "text": "in"
+    },
+    {
+      "startMs": 7020,
+      "endMs": 7300,
+      "text": "2,"
+    },
+    {
+      "startMs": 7620,
+      "endMs": 7820,
+      "text": "0"
+    },
+    {
+      "startMs": 7820,
+      "endMs": 8180,
+      "text": "4"
+    },
+    {
+      "startMs": 8180,
+      "endMs": 8840,
+      "text": ".83,"
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9740,
+      "text": "Marshawn"
+    },
+    {
+      "startMs": 9740,
+      "endMs": 9940,
+      "text": "called"
+    },
+    {
+      "startMs": 9940,
+      "endMs": 10120,
+      "text": "the"
+    },
+    {
+      "startMs": 10120,
+      "endMs": 10500,
+      "text": "17"
+    },
+    {
+      "startMs": 10500,
+      "endMs": 10780,
+      "text": "year"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 10940,
+      "text": "old"
+    },
+    {
+      "startMs": 10940,
+      "endMs": 11280,
+      "text": "Japanese"
+    },
+    {
+      "startMs": 11280,
+      "endMs": 11880,
+      "text": "swimmer"
+    },
+    {
+      "startMs": 11880,
+      "endMs": 12080,
+      "text": "a"
+    },
+    {
+      "startMs": 12080,
+      "endMs": 12440,
+      "text": "scary"
+    },
+    {
+      "startMs": 12440,
+      "endMs": 13040,
+      "text": "competitor."
+    },
+    {
+      "startMs": 13380,
+      "endMs": 13860,
+      "text": "Ohashi"
+    },
+    {
+      "startMs": 13860,
+      "endMs": 14060,
+      "text": "is"
+    },
+    {
+      "startMs": 14060,
+      "endMs": 14200,
+      "text": "now"
+    },
+    {
+      "startMs": 14200,
+      "endMs": 14500,
+      "text": "looking"
+    },
+    {
+      "startMs": 14500,
+      "endMs": 14800,
+      "text": "toward"
+    },
+    {
+      "startMs": 14800,
+      "endMs": 15080,
+      "text": "LA"
+    },
+    {
+      "startMs": 15080,
+      "endMs": 15980,
+      "text": "2028,"
+    },
+    {
+      "startMs": 16160,
+      "endMs": 16240,
+      "text": "where"
+    },
+    {
+      "startMs": 16240,
+      "endMs": 16800,
+      "text": "Marshawn"
+    },
+    {
+      "startMs": 16800,
+      "endMs": 16920,
+      "text": "could"
+    },
+    {
+      "startMs": 16920,
+      "endMs": 17160,
+      "text": "become"
+    },
+    {
+      "startMs": 17160,
+      "endMs": 17380,
+      "text": "one"
+    },
+    {
+      "startMs": 17380,
+      "endMs": 17460,
+      "text": "of"
+    },
+    {
+      "startMs": 17460,
+      "endMs": 17600,
+      "text": "his"
+    },
+    {
+      "startMs": 17600,
+      "endMs": 17860,
+      "text": "biggest"
+    },
+    {
+      "startMs": 17860,
+      "endMs": 18300,
+      "text": "rivals."
+    },
+    {
+      "startMs": 18720,
+      "endMs": 18800,
+      "text": "And"
+    },
+    {
+      "startMs": 18800,
+      "endMs": 19220,
+      "text": "Ohashi"
+    },
+    {
+      "startMs": 19220,
+      "endMs": 19500,
+      "text": "says"
+    },
+    {
+      "startMs": 19500,
+      "endMs": 19780,
+      "text": "he's"
+    },
+    {
+      "startMs": 19780,
+      "endMs": 19980,
+      "text": "ready"
+    },
+    {
+      "startMs": 19980,
+      "endMs": 20160,
+      "text": "for"
+    },
+    {
+      "startMs": 20160,
+      "endMs": 20260,
+      "text": "the"
+    },
+    {
+      "startMs": 20260,
+      "endMs": 20640,
+      "text": "challenge."
+    },
+    {
+      "startMs": 20940,
+      "endMs": 21000,
+      "text": "Could"
+    },
+    {
+      "startMs": 21000,
+      "endMs": 21160,
+      "text": "this"
+    },
+    {
+      "startMs": 21160,
+      "endMs": 21440,
+      "text": "become"
+    },
+    {
+      "startMs": 21440,
+      "endMs": 21640,
+      "text": "a"
+    },
+    {
+      "startMs": 21640,
+      "endMs": 22140,
+      "text": "huge"
+    },
+    {
+      "startMs": 22140,
+      "endMs": 22500,
+      "text": "Olympic"
+    },
+    {
+      "startMs": 22500,
+      "endMs": 22940,
+      "text": "battle?"
+    }
+  ]
+}

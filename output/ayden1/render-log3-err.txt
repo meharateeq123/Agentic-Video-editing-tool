@@ -1,0 +1,101 @@
+ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712407c40] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'D:\flick\output\ayden1\parts1080\list.txt':
+  Duration: N/A, start: 0.000000, bitrate: 14591 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 14591 kb/s, 30 fps, 30 tbr, 90k tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+    Side data:
+      ICC Profile
+Output #0, mp4, to 'D:\flick\output\ayden1\video-only-1080p.mp4':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 14591 kb/s, 30 fps, 30 tbr, 90k tbn
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+    Side data:
+      ICC Profile
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+size=       0kB time=-00:00:00.06 bitrate=  -0.0kbits/s speed=N/A    size=   64512kB time=00:00:37.13 bitrate=14232.0kbits/s speed=  74x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  117504kB time=00:01:05.56 bitrate=14681.1kbits/s speed=65.3x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  184064kB time=00:01:39.96 bitrate=15083.6kbits/s speed=63.8x    size=  244736kB time=00:02:08.80 bitrate=15565.8kbits/s speed=62.3x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  307456kB time=00:02:45.20 bitrate=15246.2kbits/s speed=64.3x    size=  326144kB time=00:02:53.33 bitrate=15414.1kbits/s speed=56.4x    size=  338432kB time=00:02:59.56 bitrate=15439.6kbits/s speed=50.1x    size=  349952kB time=00:03:05.50 bitrate=15454.5kbits/s speed=45.4x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  375808kB time=00:03:19.96 bitrate=15395.7kbits/s speed=43.3x    size=  442880kB time=00:03:53.36 bitrate=15546.7kbits/s speed=45.6x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  481024kB time=00:04:13.93 bitrate=15518.0kbits/s speed=45.2x    size=  489216kB time=00:04:19.76 bitrate=15427.9kbits/s speed=42.4x    size=  520960kB time=00:04:33.30 bitrate=15615.5kbits/s speed=41.3x    size=  538112kB time=00:04:42.06 bitrate=15628.3kbits/s speed=39.6x    size=  567552kB time=00:04:56.63 bitrate=15673.9kbits/s speed=38.9x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  624896kB time=00:05:25.96 bitrate=15704.5kbits/s speed=  40x    size=  635904kB time=00:05:31.50 bitrate=15714.4kbits/s speed=38.3x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  689920kB time=00:05:58.23 bitrate=15776.9kbits/s speed=39.1x    size=  736256kB time=00:06:25.90 bitrate=15629.5kbits/s speed=  40x    size=  747776kB time=00:06:31.60 bitrate=15643.0kbits/s speed=38.5x    size=  756736kB time=00:06:37.23 bitrate=15605.9kbits/s speed=37.2x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+size=  762368kB time=00:06:39.96 bitrate=15614.6kbits/s speed=35.4x    size=  834048kB time=00:07:15.83 bitrate=15676.9kbits/s speed=  37x    [mov,mp4,m4a,3gp,3g2,mj2 @ 000001d712425040] Auto-inserting h264_mp4toannexb bitstream filter
+[out#0/mp4 @ 000001d71240a880] video:880214kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.019378%
+size=  880384kB time=00:07:43.86 bitrate=15547.8kbits/s speed=38.5x    
+ffmpeg version 6.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --pkg-config=pkgconf --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-dxva2 --enable-d3d11va --enable-libvpl --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'D:\flick\output\ayden1\video-only-1080p.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:07:43.97, start: 0.000000, bitrate: 15544 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 15541 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+    Side data:
+      ICC Profile
+[wav @ 0000023a0ea33040] Estimating duration from bitrate, this may be inaccurate
+[aist#1:0/pcm_s16le @ 0000023a0e446e80] Guessed Channel Layout: mono
+Input #1, wav, from 'D:\flick\output\ayden1\remotion\public\vo\ayden-tan.wav':
+  Duration: 00:07:44.44, bitrate: 384 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, 1 channels, s16, 384 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[aac @ 0000023a0e456380] Too many bits 8192.000000 > 6144 per frame requested, clamping to max
+Output #0, mp4, to 'D:\flick\output\ayden1\final-film-1080p.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 15541 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+    Side data:
+      ICC Profile
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 144 kb/s
+    Metadata:
+      encoder         : Lavc60.31.102 aac
+size=       0kB time=-00:00:00.04 bitrate=  -0.0kbits/s speed=N/A    size=    1536kB time=00:00:02.26 bitrate=5551.5kbits/s speed=4.51x    size=   20480kB time=00:00:13.36 bitrate=12551.6kbits/s speed=13.3x    size=   35328kB time=00:00:22.33 bitrate=12958.5kbits/s speed=14.8x    size=   55040kB time=00:00:33.00 bitrate=13663.3kbits/s speed=16.4x    size=   76544kB time=00:00:43.83 bitrate=14305.3kbits/s speed=17.4x    size=   98304kB time=00:00:54.33 bitrate=14821.6kbits/s speed=  18x    size=  116480kB time=00:01:04.83 bitrate=14717.8kbits/s speed=18.4x    size=  136960kB time=00:01:15.73 bitrate=14814.8kbits/s speed=18.8x    size=  158208kB time=00:01:25.90 bitrate=15087.8kbits/s speed=  19x    size=  178176kB time=00:01:36.73 bitrate=15089.1kbits/s speed=19.3x    size=  202496kB time=00:01:47.56 bitrate=15421.6kbits/s speed=19.5x    size=  226048kB time=00:01:58.57 bitrate=15617.6kbits/s speed=19.7x    size=  248064kB time=00:02:09.40 bitrate=15703.4kbits/s speed=19.8x    size=  261888kB time=00:02:19.90 bitrate=15334.7kbits/s speed=19.9x    size=  281088kB time=00:02:30.50 bitrate=15300.2kbits/s speed=  20x    size=  304640kB time=00:02:41.40 bitrate=15461.5kbits/s speed=20.1x    size=  325376kB time=00:02:52.16 bitrate=15482.0kbits/s speed=20.2x    size=  347136kB time=00:03:03.10 bitrate=15531.1kbits/s speed=20.3x    size=  368896kB time=00:03:13.66 bitrate=15604.1kbits/s speed=20.3x    size=  385280kB time=00:03:24.07 bitrate=15466.0kbits/s speed=20.3x    size=  405248kB time=00:03:34.74 bitrate=15459.5kbits/s speed=20.4x    size=  431104kB time=00:03:45.40 bitrate=15667.6kbits/s speed=20.4x    size=  451328kB time=00:03:56.43 bitrate=15637.7kbits/s speed=20.5x    size=  468992kB time=00:04:07.16 bitrate=15544.0kbits/s speed=20.5x    size=  488192kB time=00:04:17.93 bitrate=15505.1kbits/s speed=20.5x    size=  513536kB time=00:04:28.76 bitrate=15652.6kbits/s speed=20.6x    size=  536064kB time=00:04:39.16 bitrate=15730.4kbits/s speed=20.6x    size=  553984kB time=00:04:49.66 bitrate=15667.1kbits/s speed=20.6x    size=  575488kB time=00:05:00.67 bitrate=15679.5kbits/s speed=20.6x    size=  598528kB time=00:05:11.33 bitrate=15748.6kbits/s speed=20.7x    size=  622080kB time=00:05:22.10 bitrate=15821.4kbits/s speed=20.7x    size=  641792kB time=00:05:32.50 bitrate=15812.1kbits/s speed=20.7x    size=  655360kB time=00:05:41.30 bitrate=15730.2kbits/s speed=20.6x    size=  680448kB time=00:05:52.56 bitrate=15810.4kbits/s speed=20.7x    size=  703232kB time=00:06:03.66 bitrate=15841.1kbits/s speed=20.7x    size=  721408kB time=00:06:14.06 bitrate=15798.7kbits/s speed=20.7x    size=  739328kB time=00:06:24.90 bitrate=15735.5kbits/s speed=20.7x    size=  757248kB time=00:06:35.40 bitrate=15688.9kbits/s speed=20.7x    size=  781312kB time=00:06:46.06 bitrate=15762.2kbits/s speed=20.7x    size=  801280kB time=00:06:57.06 bitrate=15738.7kbits/s speed=20.8x    size=  820992kB time=00:07:07.73 bitrate=15723.7kbits/s speed=20.8x    size=  845312kB time=00:07:18.66 bitrate=15786.0kbits/s speed=20.8x    size=  862208kB time=00:07:29.83 bitrate=15701.8kbits/s speed=20.8x    size=  879872kB time=00:07:40.33 bitrate=15658.0kbits/s speed=20.8x    [wav @ 0000023a0ea33040] Packet corrupt (stream = 0, dts = NOPTS).
+[in#1/wav @ 0000023a0e445c80] corrupt input packet in stream 0
+[out#0/mp4 @ 0000023a0ea33900] video:880214kB audio:5757kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.040424%
+size=  886329kB time=00:07:44.42 bitrate=15633.9kbits/s speed=20.8x    
+[aac @ 0000023a0e456380] Qavg: 65431.496

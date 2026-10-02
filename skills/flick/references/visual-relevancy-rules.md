@@ -4,6 +4,8 @@ Do not carry a source clip's own baked-in text, captions, subtitles, or lower-th
 
 Do not caption every line of narration. Only add an on-screen text element where it's a genuinely important heading/callout (a key fact, a name, a stat, a quote) — the kind of short on-screen text already specified per-beat in the beat sheet. Most scenes should carry no on-screen text at all and let the footage speak for itself.
 
+When a heading is warranted, anchor it **top-left** of the frame, inside the safe margin — not a bottom-third caption bar. This keeps it out of the way of any bottom-left source-credit card (`footage-rules.md`) and any bottom-safe lower-third motion graphic, so a heading and either of those can coexist on the same frame without ever overlapping.
+
 ---
 
 # Strict Scene Relevancy + Visual Continuity + Footage-First Rule

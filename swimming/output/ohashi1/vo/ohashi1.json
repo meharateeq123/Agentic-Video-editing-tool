@@ -1,0 +1,389 @@
+{
+  "source": "D:\\flick\\swimming\\output\\ohashi1\\vo\\cand57.wav",
+  "language": "en",
+  "text": "Shinohashi just broke the 200 breaststroke world record, and he's only seventh. The Japanese teenager destroyed the old mark with a stunning 2-0 4.83, becoming the first man ever under 2000, but here's the crazy part. This is only his first world record. Ohashi is still just 17, meaning he has years to improve, so the biggest question now is simple. How fast can Shinohashi really go?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 4460,
+      "text": "Shinohashi just broke the 200 breaststroke world record, and he's only seventh."
+    },
+    {
+      "startMs": 4700,
+      "endMs": 9860,
+      "text": "The Japanese teenager destroyed the old mark with a stunning 2-0 4.83, becoming the first"
+    },
+    {
+      "startMs": 9860,
+      "endMs": 12480,
+      "text": "man ever under 2000, but here's the crazy part."
+    },
+    {
+      "startMs": 12660,
+      "endMs": 14340,
+      "text": "This is only his first world record."
+    },
+    {
+      "startMs": 14640,
+      "endMs": 19740,
+      "text": "Ohashi is still just 17, meaning he has years to improve, so the biggest question now is"
+    },
+    {
+      "startMs": 19740,
+      "endMs": 20120,
+      "text": "simple."
+    },
+    {
+      "startMs": 20440,
+      "endMs": 22620,
+      "text": "How fast can Shinohashi really go?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 680,
+      "text": "Shinohashi"
+    },
+    {
+      "startMs": 680,
+      "endMs": 1020,
+      "text": "just"
+    },
+    {
+      "startMs": 1020,
+      "endMs": 1420,
+      "text": "broke"
+    },
+    {
+      "startMs": 1420,
+      "endMs": 1620,
+      "text": "the"
+    },
+    {
+      "startMs": 1620,
+      "endMs": 2060,
+      "text": "200"
+    },
+    {
+      "startMs": 2060,
+      "endMs": 2620,
+      "text": "breaststroke"
+    },
+    {
+      "startMs": 2620,
+      "endMs": 2880,
+      "text": "world"
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3300,
+      "text": "record,"
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3640,
+      "text": "and"
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3860,
+      "text": "he's"
+    },
+    {
+      "startMs": 3860,
+      "endMs": 4040,
+      "text": "only"
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4460,
+      "text": "seventh."
+    },
+    {
+      "startMs": 4700,
+      "endMs": 4700,
+      "text": "The"
+    },
+    {
+      "startMs": 4700,
+      "endMs": 5100,
+      "text": "Japanese"
+    },
+    {
+      "startMs": 5100,
+      "endMs": 5700,
+      "text": "teenager"
+    },
+    {
+      "startMs": 5700,
+      "endMs": 6100,
+      "text": "destroyed"
+    },
+    {
+      "startMs": 6100,
+      "endMs": 6380,
+      "text": "the"
+    },
+    {
+      "startMs": 6380,
+      "endMs": 6520,
+      "text": "old"
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6780,
+      "text": "mark"
+    },
+    {
+      "startMs": 6780,
+      "endMs": 7000,
+      "text": "with"
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7120,
+      "text": "a"
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7400,
+      "text": "stunning"
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7700,
+      "text": "2"
+    },
+    {
+      "startMs": 7700,
+      "endMs": 7900,
+      "text": "-0"
+    },
+    {
+      "startMs": 7900,
+      "endMs": 8240,
+      "text": "4"
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8840,
+      "text": ".83,"
+    },
+    {
+      "startMs": 9180,
+      "endMs": 9360,
+      "text": "becoming"
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9620,
+      "text": "the"
+    },
+    {
+      "startMs": 9620,
+      "endMs": 9860,
+      "text": "first"
+    },
+    {
+      "startMs": 9860,
+      "endMs": 10100,
+      "text": "man"
+    },
+    {
+      "startMs": 10100,
+      "endMs": 10500,
+      "text": "ever"
+    },
+    {
+      "startMs": 10500,
+      "endMs": 10740,
+      "text": "under"
+    },
+    {
+      "startMs": 10740,
+      "endMs": 11120,
+      "text": "2000,"
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11420,
+      "text": "but"
+    },
+    {
+      "startMs": 11420,
+      "endMs": 11740,
+      "text": "here's"
+    },
+    {
+      "startMs": 11740,
+      "endMs": 11820,
+      "text": "the"
+    },
+    {
+      "startMs": 11820,
+      "endMs": 12140,
+      "text": "crazy"
+    },
+    {
+      "startMs": 12140,
+      "endMs": 12480,
+      "text": "part."
+    },
+    {
+      "startMs": 12660,
+      "endMs": 12780,
+      "text": "This"
+    },
+    {
+      "startMs": 12780,
+      "endMs": 12920,
+      "text": "is"
+    },
+    {
+      "startMs": 12920,
+      "endMs": 13180,
+      "text": "only"
+    },
+    {
+      "startMs": 13180,
+      "endMs": 13340,
+      "text": "his"
+    },
+    {
+      "startMs": 13340,
+      "endMs": 13620,
+      "text": "first"
+    },
+    {
+      "startMs": 13620,
+      "endMs": 13920,
+      "text": "world"
+    },
+    {
+      "startMs": 13920,
+      "endMs": 14340,
+      "text": "record."
+    },
+    {
+      "startMs": 14640,
+      "endMs": 15120,
+      "text": "Ohashi"
+    },
+    {
+      "startMs": 15120,
+      "endMs": 15280,
+      "text": "is"
+    },
+    {
+      "startMs": 15280,
+      "endMs": 15480,
+      "text": "still"
+    },
+    {
+      "startMs": 15480,
+      "endMs": 15660,
+      "text": "just"
+    },
+    {
+      "startMs": 15660,
+      "endMs": 16200,
+      "text": "17,"
+    },
+    {
+      "startMs": 16520,
+      "endMs": 16680,
+      "text": "meaning"
+    },
+    {
+      "startMs": 16680,
+      "endMs": 16920,
+      "text": "he"
+    },
+    {
+      "startMs": 16920,
+      "endMs": 17080,
+      "text": "has"
+    },
+    {
+      "startMs": 17080,
+      "endMs": 17500,
+      "text": "years"
+    },
+    {
+      "startMs": 17500,
+      "endMs": 17780,
+      "text": "to"
+    },
+    {
+      "startMs": 17780,
+      "endMs": 18140,
+      "text": "improve,"
+    },
+    {
+      "startMs": 18420,
+      "endMs": 18540,
+      "text": "so"
+    },
+    {
+      "startMs": 18540,
+      "endMs": 18660,
+      "text": "the"
+    },
+    {
+      "startMs": 18660,
+      "endMs": 18880,
+      "text": "biggest"
+    },
+    {
+      "startMs": 18880,
+      "endMs": 19320,
+      "text": "question"
+    },
+    {
+      "startMs": 19320,
+      "endMs": 19560,
+      "text": "now"
+    },
+    {
+      "startMs": 19560,
+      "endMs": 19740,
+      "text": "is"
+    },
+    {
+      "startMs": 19740,
+      "endMs": 20120,
+      "text": "simple."
+    },
+    {
+      "startMs": 20440,
+      "endMs": 20580,
+      "text": "How"
+    },
+    {
+      "startMs": 20580,
+      "endMs": 20980,
+      "text": "fast"
+    },
+    {
+      "startMs": 20980,
+      "endMs": 21180,
+      "text": "can"
+    },
+    {
+      "startMs": 21180,
+      "endMs": 21940,
+      "text": "Shinohashi"
+    },
+    {
+      "startMs": 21940,
+      "endMs": 22300,
+      "text": "really"
+    },
+    {
+      "startMs": 22300,
+      "endMs": 22620,
+      "text": "go?"
+    }
+  ]
+}

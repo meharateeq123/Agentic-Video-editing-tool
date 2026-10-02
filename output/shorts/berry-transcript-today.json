@@ -1,0 +1,384 @@
+{
+  "source": "D:\\flick\\vo\\TODAY.wav",
+  "language": "en",
+  "text": "Josh Barry just got a huge NASCAR opportunity for 2027. Legacy Motor Club has announced Barry will take over the number 42 Toyota next season, replacing John Hunter Nemechek, and the timing is wild. Barry is coming off 6 straight top 10 finishes, showing serious speed at the right moment. Now he gets a fresh start with Legacy Motor Club. Could this be the move that changes Barry's career?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3900,
+      "text": "Josh Barry just got a huge NASCAR opportunity for 2027."
+    },
+    {
+      "startMs": 4140,
+      "endMs": 8660,
+      "text": "Legacy Motor Club has announced Barry will take over the number 42 Toyota next season,"
+    },
+    {
+      "startMs": 8820,
+      "endMs": 11640,
+      "text": "replacing John Hunter Nemechek, and the timing is wild."
+    },
+    {
+      "startMs": 11900,
+      "endMs": 16460,
+      "text": "Barry is coming off 6 straight top 10 finishes, showing serious speed at the right moment."
+    },
+    {
+      "startMs": 16720,
+      "endMs": 18900,
+      "text": "Now he gets a fresh start with Legacy Motor Club."
+    },
+    {
+      "startMs": 19080,
+      "endMs": 21060,
+      "text": "Could this be the move that changes Barry's career?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 220,
+      "text": "Josh"
+    },
+    {
+      "startMs": 220,
+      "endMs": 540,
+      "text": "Barry"
+    },
+    {
+      "startMs": 540,
+      "endMs": 820,
+      "text": "just"
+    },
+    {
+      "startMs": 820,
+      "endMs": 1140,
+      "text": "got"
+    },
+    {
+      "startMs": 1140,
+      "endMs": 1280,
+      "text": "a"
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1720,
+      "text": "huge"
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2160,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2660,
+      "text": "opportunity"
+    },
+    {
+      "startMs": 2660,
+      "endMs": 2940,
+      "text": "for"
+    },
+    {
+      "startMs": 2940,
+      "endMs": 3900,
+      "text": "2027."
+    },
+    {
+      "startMs": 4140,
+      "endMs": 4380,
+      "text": "Legacy"
+    },
+    {
+      "startMs": 4380,
+      "endMs": 4700,
+      "text": "Motor"
+    },
+    {
+      "startMs": 4700,
+      "endMs": 5020,
+      "text": "Club"
+    },
+    {
+      "startMs": 5020,
+      "endMs": 5200,
+      "text": "has"
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5500,
+      "text": "announced"
+    },
+    {
+      "startMs": 5500,
+      "endMs": 5920,
+      "text": "Barry"
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6140,
+      "text": "will"
+    },
+    {
+      "startMs": 6140,
+      "endMs": 6340,
+      "text": "take"
+    },
+    {
+      "startMs": 6340,
+      "endMs": 6640,
+      "text": "over"
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6760,
+      "text": "the"
+    },
+    {
+      "startMs": 6760,
+      "endMs": 6980,
+      "text": "number"
+    },
+    {
+      "startMs": 6980,
+      "endMs": 7480,
+      "text": "42"
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7980,
+      "text": "Toyota"
+    },
+    {
+      "startMs": 7980,
+      "endMs": 8200,
+      "text": "next"
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8660,
+      "text": "season,"
+    },
+    {
+      "startMs": 8820,
+      "endMs": 9140,
+      "text": "replacing"
+    },
+    {
+      "startMs": 9140,
+      "endMs": 9480,
+      "text": "John"
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9800,
+      "text": "Hunter"
+    },
+    {
+      "startMs": 9800,
+      "endMs": 10420,
+      "text": "Nemechek,"
+    },
+    {
+      "startMs": 10560,
+      "endMs": 10620,
+      "text": "and"
+    },
+    {
+      "startMs": 10620,
+      "endMs": 10780,
+      "text": "the"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 11080,
+      "text": "timing"
+    },
+    {
+      "startMs": 11080,
+      "endMs": 11300,
+      "text": "is"
+    },
+    {
+      "startMs": 11300,
+      "endMs": 11640,
+      "text": "wild."
+    },
+    {
+      "startMs": 11900,
+      "endMs": 12100,
+      "text": "Barry"
+    },
+    {
+      "startMs": 12100,
+      "endMs": 12280,
+      "text": "is"
+    },
+    {
+      "startMs": 12280,
+      "endMs": 12480,
+      "text": "coming"
+    },
+    {
+      "startMs": 12480,
+      "endMs": 12700,
+      "text": "off"
+    },
+    {
+      "startMs": 12700,
+      "endMs": 12940,
+      "text": "6"
+    },
+    {
+      "startMs": 12940,
+      "endMs": 13320,
+      "text": "straight"
+    },
+    {
+      "startMs": 13320,
+      "endMs": 13600,
+      "text": "top"
+    },
+    {
+      "startMs": 13600,
+      "endMs": 13880,
+      "text": "10"
+    },
+    {
+      "startMs": 13880,
+      "endMs": 14340,
+      "text": "finishes,"
+    },
+    {
+      "startMs": 14620,
+      "endMs": 14820,
+      "text": "showing"
+    },
+    {
+      "startMs": 14820,
+      "endMs": 15240,
+      "text": "serious"
+    },
+    {
+      "startMs": 15240,
+      "endMs": 15620,
+      "text": "speed"
+    },
+    {
+      "startMs": 15620,
+      "endMs": 15800,
+      "text": "at"
+    },
+    {
+      "startMs": 15800,
+      "endMs": 15920,
+      "text": "the"
+    },
+    {
+      "startMs": 15920,
+      "endMs": 16080,
+      "text": "right"
+    },
+    {
+      "startMs": 16080,
+      "endMs": 16460,
+      "text": "moment."
+    },
+    {
+      "startMs": 16720,
+      "endMs": 16820,
+      "text": "Now"
+    },
+    {
+      "startMs": 16820,
+      "endMs": 16940,
+      "text": "he"
+    },
+    {
+      "startMs": 16940,
+      "endMs": 17040,
+      "text": "gets"
+    },
+    {
+      "startMs": 17040,
+      "endMs": 17180,
+      "text": "a"
+    },
+    {
+      "startMs": 17180,
+      "endMs": 17380,
+      "text": "fresh"
+    },
+    {
+      "startMs": 17380,
+      "endMs": 17720,
+      "text": "start"
+    },
+    {
+      "startMs": 17720,
+      "endMs": 17920,
+      "text": "with"
+    },
+    {
+      "startMs": 17920,
+      "endMs": 18240,
+      "text": "Legacy"
+    },
+    {
+      "startMs": 18240,
+      "endMs": 18560,
+      "text": "Motor"
+    },
+    {
+      "startMs": 18560,
+      "endMs": 18900,
+      "text": "Club."
+    },
+    {
+      "startMs": 19080,
+      "endMs": 19160,
+      "text": "Could"
+    },
+    {
+      "startMs": 19160,
+      "endMs": 19320,
+      "text": "this"
+    },
+    {
+      "startMs": 19320,
+      "endMs": 19500,
+      "text": "be"
+    },
+    {
+      "startMs": 19500,
+      "endMs": 19600,
+      "text": "the"
+    },
+    {
+      "startMs": 19600,
+      "endMs": 19800,
+      "text": "move"
+    },
+    {
+      "startMs": 19800,
+      "endMs": 20000,
+      "text": "that"
+    },
+    {
+      "startMs": 20000,
+      "endMs": 20300,
+      "text": "changes"
+    },
+    {
+      "startMs": 20300,
+      "endMs": 20760,
+      "text": "Barry's"
+    },
+    {
+      "startMs": 20760,
+      "endMs": 21060,
+      "text": "career?"
+    }
+  ]
+}

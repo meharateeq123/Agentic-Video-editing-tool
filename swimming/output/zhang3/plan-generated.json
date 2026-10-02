@@ -1,0 +1,203 @@
+{
+  "1": [
+    "JK_ID@0",
+    "JK_ID@3.4",
+    "FK_INTRO@0",
+    "RC_REC@0"
+  ],
+  "2": [
+    "N5_LINE@108",
+    "N5_LINE@111.4",
+    "RC_SL@14",
+    "PD_WALK@40",
+    "PD_WALK@43.4"
+  ],
+  "3": [
+    "RC_RES@408",
+    "N5_REC@0",
+    "RC_SL@17.4",
+    "PD_WALK@46.8"
+  ],
+  "4": [
+    "N5_RACE@180",
+    "N5_RACE@183.4",
+    "N5_RACE@186.8",
+    "JK_ID@6.8",
+    "JK_ID@10.2",
+    "N5_FIN@300",
+    "N5_FIN@303.4",
+    "RC_SL@20.8",
+    "RC_SL@24.2"
+  ],
+  "5": [
+    "RC_PREP@240",
+    "RC_PREP@243.4",
+    "RC_RACE@300",
+    "RC_RACE@303.4",
+    "RC_RACE@306.8",
+    "RC_RACE@310.2",
+    "RC_RACE@313.6",
+    "RC_REC@3.4"
+  ],
+  "6": [
+    "N5_RACE@190.2",
+    "N5_RACE@193.6",
+    "N5_RACE@197",
+    "N5_FIN@306.8",
+    "N5_FIN@310.2",
+    "RC_RACE@317",
+    "RC_RACE@320.4",
+    "RC_RACE@323.8",
+    "RC_RACE@327.2",
+    "RC_RACE@330.6"
+  ],
+  "7": [
+    "N5_LINE@114.8",
+    "N5_LINE@118.2",
+    "N5_RACE@200.4",
+    "N5_RACE@203.8",
+    "N5_FIN@313.6",
+    "N5_FIN@317",
+    "N5_FIN@320.4",
+    "RC_PREP@246.8",
+    "RC_PREP@250.2",
+    "RC_PREP@253.6",
+    "RC_PREP@257",
+    "RC_RACE@334",
+    "RC_RACE@337.4"
+  ],
+  "8": [
+    "N5_FIN@323.8",
+    "N5_FIN@327.2",
+    "N5_FIN@330.6",
+    "RC_RACE@340.8",
+    "RC_RACE@344.2",
+    "RC_RACE@347.6",
+    "RC_RACE@351"
+  ],
+  "9": [
+    "RC_REC@6.8",
+    "FK_SL@100",
+    "FK_SL@103.4",
+    "FK_RACE@220",
+    "FK_RACE@223.4",
+    "FK_RACE@226.8",
+    "FK_RACE@230.2",
+    "FK_RES@260",
+    "FK_RES@263.4",
+    "N5_REC@3.4",
+    "N5_REC@6.8",
+    "N5_RACE@207.2",
+    "N5_RACE@210.6",
+    "N5_RACE@214",
+    "RC_RACE@354.4",
+    "RC_RACE@357.8",
+    "RC_RACE@361.2",
+    "RC_RACE@364.6"
+  ],
+  "10": [
+    "RC_PREP@260.4",
+    "RC_PREP@263.8",
+    "RC_RACE@368",
+    "RC_RACE@371.4",
+    "RC_RACE@374.8",
+    "PD_WALK@50.2",
+    "PD_WALK@53.6"
+  ],
+  "11": [
+    "N5_LINE@121.6",
+    "N5_LINE@125",
+    "N5_FIN@334",
+    "N5_FIN@337.4",
+    "PD_CER@180",
+    "PD_CER@183.4",
+    "PD_CER@186.8",
+    "JK_CER@150",
+    "JK_RACE@54",
+    "JK_RACE@57.4"
+  ],
+  "12": [
+    "RL_SL@0",
+    "RL_PREP@84",
+    "RL_PREP@87.4",
+    "RL_RACE@252",
+    "RL_RACE@255.4",
+    "RL_RACE@258.8",
+    "RL_RACE@262.2",
+    "RL_FIN@504",
+    "RL_FIN@507.4",
+    "RL_FIN@510.8"
+  ],
+  "13": [
+    "CR_WALK@44",
+    "CR_WALK@47.4",
+    "CR_CER@180",
+    "CR_CER@183.4",
+    "CR_CER@186.8",
+    "JK_ID@13.6",
+    "JK_ID@17"
+  ],
+  "14": [
+    "YZ@14",
+    "YZ@17.4",
+    "ZZ@338",
+    "ZZ@396",
+    "ZZ@460",
+    "CR_END@460",
+    "CR_END@463.4",
+    "CR_END@466.8"
+  ],
+  "15": [
+    "PD_CER@190.2",
+    "PD_CER@193.6",
+    "PD_CER@197",
+    "CR_CER@190.2",
+    "CR_CER@193.6",
+    "CR_CER@197",
+    "TR_TEAMS@0",
+    "TR_CHINA@200"
+  ],
+  "16": [
+    "PD_WALK@57",
+    "PD_WALK@60.4",
+    "RC_RACE@378.2",
+    "RC_RACE@381.6",
+    "RC_RACE@385",
+    "RL_RACE@265.6",
+    "RL_RACE@269",
+    "FK_RACE@233.6",
+    "FK_RACE@237"
+  ],
+  "17": [
+    "N5_RACE@217.4",
+    "N5_RACE@220.8",
+    "N5_RACE@224.2",
+    "N5_FIN@340.8",
+    "N5_FIN@344.2",
+    "RC_RES@411.4",
+    "FK_RES@266.8",
+    "FK_INTRO@3.4",
+    "FK_INTRO@6.8"
+  ],
+  "18": [
+    "N5_REC@10.2",
+    "N5_REC@13.6",
+    "PD_CER@200.4",
+    "PD_CER@203.8",
+    "CR_CER@200.4",
+    "CR_CER@203.8"
+  ],
+  "19": [
+    "RC_PREP@267.2",
+    "RC_PREP@270.6",
+    "PD_END@330",
+    "PD_END@333.4",
+    "CR_END@470.2"
+  ],
+  "20": [
+    "CR_CER@207.2",
+    "CR_CER@210.6",
+    "PD_CER@207.2",
+    "PD_CER@210.6"
+  ]
+}

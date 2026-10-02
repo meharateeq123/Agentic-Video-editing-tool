@@ -1,0 +1,319 @@
+{
+  "source": "D:\\flick\\output\\shorts\\kerr1\\vo.wav",
+  "language": "en",
+  "text": "Josh Kerr just produced one of the craziest finishes of his career. In Budapest, Kerr waited until the final stages before unleashing his famous kick. He closed the final 800 meters in 147.79 and won the 1500 meters in 3.29 that capped the season with a mile world record, Commonwealth Gold, and now another major title.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3080,
+      "text": "Josh Kerr just produced one of the craziest finishes of his career."
+    },
+    {
+      "startMs": 3400,
+      "endMs": 7680,
+      "text": "In Budapest, Kerr waited until the final stages before unleashing his famous kick."
+    },
+    {
+      "startMs": 8040,
+      "endMs": 14920,
+      "text": "He closed the final 800 meters in 147.79 and won the 1500 meters in 3.29 that capped the"
+    },
+    {
+      "startMs": 14920,
+      "endMs": 19260,
+      "text": "season with a mile world record, Commonwealth Gold, and now another major title."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 220,
+      "text": "Josh"
+    },
+    {
+      "startMs": 220,
+      "endMs": 620,
+      "text": "Kerr"
+    },
+    {
+      "startMs": 620,
+      "endMs": 700,
+      "text": "just"
+    },
+    {
+      "startMs": 700,
+      "endMs": 1020,
+      "text": "produced"
+    },
+    {
+      "startMs": 1020,
+      "endMs": 1260,
+      "text": "one"
+    },
+    {
+      "startMs": 1260,
+      "endMs": 1320,
+      "text": "of"
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1400,
+      "text": "the"
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1920,
+      "text": "craziest"
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2340,
+      "text": "finishes"
+    },
+    {
+      "startMs": 2340,
+      "endMs": 2580,
+      "text": "of"
+    },
+    {
+      "startMs": 2580,
+      "endMs": 2660,
+      "text": "his"
+    },
+    {
+      "startMs": 2660,
+      "endMs": 3080,
+      "text": "career."
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3520,
+      "text": "In"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4160,
+      "text": "Budapest,"
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4600,
+      "text": "Kerr"
+    },
+    {
+      "startMs": 4600,
+      "endMs": 4820,
+      "text": "waited"
+    },
+    {
+      "startMs": 4820,
+      "endMs": 5180,
+      "text": "until"
+    },
+    {
+      "startMs": 5180,
+      "endMs": 5320,
+      "text": "the"
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5600,
+      "text": "final"
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6000,
+      "text": "stages"
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6360,
+      "text": "before"
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6940,
+      "text": "unleashing"
+    },
+    {
+      "startMs": 6940,
+      "endMs": 7140,
+      "text": "his"
+    },
+    {
+      "startMs": 7140,
+      "endMs": 7420,
+      "text": "famous"
+    },
+    {
+      "startMs": 7420,
+      "endMs": 7680,
+      "text": "kick."
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8140,
+      "text": "He"
+    },
+    {
+      "startMs": 8140,
+      "endMs": 8480,
+      "text": "closed"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8640,
+      "text": "the"
+    },
+    {
+      "startMs": 8640,
+      "endMs": 8940,
+      "text": "final"
+    },
+    {
+      "startMs": 8940,
+      "endMs": 9300,
+      "text": "800"
+    },
+    {
+      "startMs": 9300,
+      "endMs": 9760,
+      "text": "meters"
+    },
+    {
+      "startMs": 9760,
+      "endMs": 9980,
+      "text": "in"
+    },
+    {
+      "startMs": 9980,
+      "endMs": 10740,
+      "text": "147"
+    },
+    {
+      "startMs": 10740,
+      "endMs": 11560,
+      "text": ".79"
+    },
+    {
+      "startMs": 11560,
+      "endMs": 11940,
+      "text": "and"
+    },
+    {
+      "startMs": 11940,
+      "endMs": 12100,
+      "text": "won"
+    },
+    {
+      "startMs": 12100,
+      "endMs": 12240,
+      "text": "the"
+    },
+    {
+      "startMs": 12240,
+      "endMs": 12640,
+      "text": "1500"
+    },
+    {
+      "startMs": 12640,
+      "endMs": 13300,
+      "text": "meters"
+    },
+    {
+      "startMs": 13300,
+      "endMs": 13500,
+      "text": "in"
+    },
+    {
+      "startMs": 13500,
+      "endMs": 13720,
+      "text": "3"
+    },
+    {
+      "startMs": 13720,
+      "endMs": 14200,
+      "text": ".29"
+    },
+    {
+      "startMs": 14200,
+      "endMs": 14480,
+      "text": "that"
+    },
+    {
+      "startMs": 14480,
+      "endMs": 14840,
+      "text": "capped"
+    },
+    {
+      "startMs": 14840,
+      "endMs": 14920,
+      "text": "the"
+    },
+    {
+      "startMs": 14920,
+      "endMs": 15220,
+      "text": "season"
+    },
+    {
+      "startMs": 15220,
+      "endMs": 15400,
+      "text": "with"
+    },
+    {
+      "startMs": 15400,
+      "endMs": 15520,
+      "text": "a"
+    },
+    {
+      "startMs": 15520,
+      "endMs": 15780,
+      "text": "mile"
+    },
+    {
+      "startMs": 15780,
+      "endMs": 16000,
+      "text": "world"
+    },
+    {
+      "startMs": 16000,
+      "endMs": 16460,
+      "text": "record,"
+    },
+    {
+      "startMs": 16700,
+      "endMs": 17020,
+      "text": "Commonwealth"
+    },
+    {
+      "startMs": 17020,
+      "endMs": 17420,
+      "text": "Gold,"
+    },
+    {
+      "startMs": 17760,
+      "endMs": 17800,
+      "text": "and"
+    },
+    {
+      "startMs": 17800,
+      "endMs": 17980,
+      "text": "now"
+    },
+    {
+      "startMs": 17980,
+      "endMs": 18420,
+      "text": "another"
+    },
+    {
+      "startMs": 18420,
+      "endMs": 18820,
+      "text": "major"
+    },
+    {
+      "startMs": 18820,
+      "endMs": 19260,
+      "text": "title."
+    }
+  ]
+}

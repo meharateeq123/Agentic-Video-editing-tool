@@ -1,0 +1,364 @@
+{
+  "source": "D:\\flick\\swimming\\output\\zhang1\\vo\\vo.wav",
+  "language": "en",
+  "text": "The Chinese swimming star defended her Asian games title in the 50 meter butterfly, touching in 2541 to take another gold medal. She led a Chinese one-two finish with Wu Qingfeng taking silver, while Japan's Rikako Ike grab bronze. At the end of the games, Zhang Yufei had added two more medals to her incredible career, and she's still one of Swimming's biggest stars.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3800,
+      "text": "The Chinese swimming star defended her Asian games title in the 50 meter butterfly,"
+    },
+    {
+      "startMs": 4120,
+      "endMs": 6700,
+      "text": "touching in 2541 to take another gold medal."
+    },
+    {
+      "startMs": 7000,
+      "endMs": 10480,
+      "text": "She led a Chinese one-two finish with Wu Qingfeng taking silver,"
+    },
+    {
+      "startMs": 10680,
+      "endMs": 12740,
+      "text": "while Japan's Rikako Ike grab bronze."
+    },
+    {
+      "startMs": 13160,
+      "endMs": 17560,
+      "text": "At the end of the games, Zhang Yufei had added two more medals to her incredible career,"
+    },
+    {
+      "startMs": 17820,
+      "endMs": 19660,
+      "text": "and she's still one of Swimming's biggest stars."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 140,
+      "text": "The"
+    },
+    {
+      "startMs": 140,
+      "endMs": 440,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 440,
+      "endMs": 780,
+      "text": "swimming"
+    },
+    {
+      "startMs": 780,
+      "endMs": 1080,
+      "text": "star"
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1400,
+      "text": "defended"
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1640,
+      "text": "her"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1920,
+      "text": "Asian"
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2220,
+      "text": "games"
+    },
+    {
+      "startMs": 2220,
+      "endMs": 2560,
+      "text": "title"
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2740,
+      "text": "in"
+    },
+    {
+      "startMs": 2740,
+      "endMs": 2800,
+      "text": "the"
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3100,
+      "text": "50"
+    },
+    {
+      "startMs": 3100,
+      "endMs": 3320,
+      "text": "meter"
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3800,
+      "text": "butterfly,"
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4360,
+      "text": "touching"
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4520,
+      "text": "in"
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5480,
+      "text": "2541"
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5740,
+      "text": "to"
+    },
+    {
+      "startMs": 5740,
+      "endMs": 5900,
+      "text": "take"
+    },
+    {
+      "startMs": 5900,
+      "endMs": 6140,
+      "text": "another"
+    },
+    {
+      "startMs": 6140,
+      "endMs": 6440,
+      "text": "gold"
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6700,
+      "text": "medal."
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7120,
+      "text": "She"
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7300,
+      "text": "led"
+    },
+    {
+      "startMs": 7300,
+      "endMs": 7400,
+      "text": "a"
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7800,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8140,
+      "text": "one"
+    },
+    {
+      "startMs": 8140,
+      "endMs": 8380,
+      "text": "-two"
+    },
+    {
+      "startMs": 8380,
+      "endMs": 8740,
+      "text": "finish"
+    },
+    {
+      "startMs": 8740,
+      "endMs": 9080,
+      "text": "with"
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9220,
+      "text": "Wu"
+    },
+    {
+      "startMs": 9220,
+      "endMs": 9680,
+      "text": "Qingfeng"
+    },
+    {
+      "startMs": 9680,
+      "endMs": 10040,
+      "text": "taking"
+    },
+    {
+      "startMs": 10040,
+      "endMs": 10480,
+      "text": "silver,"
+    },
+    {
+      "startMs": 10680,
+      "endMs": 10780,
+      "text": "while"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 11320,
+      "text": "Japan's"
+    },
+    {
+      "startMs": 11320,
+      "endMs": 11660,
+      "text": "Rikako"
+    },
+    {
+      "startMs": 11660,
+      "endMs": 12000,
+      "text": "Ike"
+    },
+    {
+      "startMs": 12000,
+      "endMs": 12300,
+      "text": "grab"
+    },
+    {
+      "startMs": 12300,
+      "endMs": 12740,
+      "text": "bronze."
+    },
+    {
+      "startMs": 13160,
+      "endMs": 13240,
+      "text": "At"
+    },
+    {
+      "startMs": 13240,
+      "endMs": 13360,
+      "text": "the"
+    },
+    {
+      "startMs": 13360,
+      "endMs": 13600,
+      "text": "end"
+    },
+    {
+      "startMs": 13600,
+      "endMs": 13740,
+      "text": "of"
+    },
+    {
+      "startMs": 13740,
+      "endMs": 13820,
+      "text": "the"
+    },
+    {
+      "startMs": 13820,
+      "endMs": 14300,
+      "text": "games,"
+    },
+    {
+      "startMs": 14580,
+      "endMs": 14600,
+      "text": "Zhang"
+    },
+    {
+      "startMs": 14600,
+      "endMs": 15020,
+      "text": "Yufei"
+    },
+    {
+      "startMs": 15020,
+      "endMs": 15200,
+      "text": "had"
+    },
+    {
+      "startMs": 15200,
+      "endMs": 15440,
+      "text": "added"
+    },
+    {
+      "startMs": 15440,
+      "endMs": 15740,
+      "text": "two"
+    },
+    {
+      "startMs": 15740,
+      "endMs": 15960,
+      "text": "more"
+    },
+    {
+      "startMs": 15960,
+      "endMs": 16260,
+      "text": "medals"
+    },
+    {
+      "startMs": 16260,
+      "endMs": 16500,
+      "text": "to"
+    },
+    {
+      "startMs": 16500,
+      "endMs": 16620,
+      "text": "her"
+    },
+    {
+      "startMs": 16620,
+      "endMs": 17060,
+      "text": "incredible"
+    },
+    {
+      "startMs": 17060,
+      "endMs": 17560,
+      "text": "career,"
+    },
+    {
+      "startMs": 17820,
+      "endMs": 17880,
+      "text": "and"
+    },
+    {
+      "startMs": 17880,
+      "endMs": 18140,
+      "text": "she's"
+    },
+    {
+      "startMs": 18140,
+      "endMs": 18260,
+      "text": "still"
+    },
+    {
+      "startMs": 18260,
+      "endMs": 18460,
+      "text": "one"
+    },
+    {
+      "startMs": 18460,
+      "endMs": 18560,
+      "text": "of"
+    },
+    {
+      "startMs": 18560,
+      "endMs": 18940,
+      "text": "Swimming's"
+    },
+    {
+      "startMs": 18940,
+      "endMs": 19180,
+      "text": "biggest"
+    },
+    {
+      "startMs": 19180,
+      "endMs": 19660,
+      "text": "stars."
+    }
+  ]
+}

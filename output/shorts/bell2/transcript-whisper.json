@@ -1,0 +1,374 @@
+{
+  "source": "D:\\flick\\vo\\1.wav",
+  "language": "en",
+  "text": "Christopher Bell just changed the NASCAR Championship fight. After going 33 races without a win, Bell shocked everyone by winning the Southern 500 at Darlington. That victory pushed him all the way to second in the chase, just 12 points behind Denny Hamlin. With nine playoff races left, Bell now has momentum, confidence, and a real shot at the championship. Could this be Bell's year?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3020,
+      "text": "Christopher Bell just changed the NASCAR Championship fight."
+    },
+    {
+      "startMs": 3260,
+      "endMs": 6620,
+      "text": "After going 33 races without a win, Bell shocked everyone"
+    },
+    {
+      "startMs": 6620,
+      "endMs": 8920,
+      "text": "by winning the Southern 500 at Darlington."
+    },
+    {
+      "startMs": 9080,
+      "endMs": 11100,
+      "text": "That victory pushed him all the way to second"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 13860,
+      "text": "in the chase, just 12 points behind Denny Hamlin."
+    },
+    {
+      "startMs": 14120,
+      "endMs": 16920,
+      "text": "With nine playoff races left, Bell now has momentum,"
+    },
+    {
+      "startMs": 17280,
+      "endMs": 19460,
+      "text": "confidence, and a real shot at the championship."
+    },
+    {
+      "startMs": 19720,
+      "endMs": 20640,
+      "text": "Could this be Bell's year?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 360,
+      "text": "Christopher"
+    },
+    {
+      "startMs": 360,
+      "endMs": 620,
+      "text": "Bell"
+    },
+    {
+      "startMs": 620,
+      "endMs": 920,
+      "text": "just"
+    },
+    {
+      "startMs": 920,
+      "endMs": 1480,
+      "text": "changed"
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1660,
+      "text": "the"
+    },
+    {
+      "startMs": 1660,
+      "endMs": 2040,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2660,
+      "text": "Championship"
+    },
+    {
+      "startMs": 2660,
+      "endMs": 3020,
+      "text": "fight."
+    },
+    {
+      "startMs": 3260,
+      "endMs": 3520,
+      "text": "After"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3760,
+      "text": "going"
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4300,
+      "text": "33"
+    },
+    {
+      "startMs": 4300,
+      "endMs": 4780,
+      "text": "races"
+    },
+    {
+      "startMs": 4780,
+      "endMs": 5080,
+      "text": "without"
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5240,
+      "text": "a"
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5540,
+      "text": "win,"
+    },
+    {
+      "startMs": 5800,
+      "endMs": 5840,
+      "text": "Bell"
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6120,
+      "text": "shocked"
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6620,
+      "text": "everyone"
+    },
+    {
+      "startMs": 6620,
+      "endMs": 6880,
+      "text": "by"
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7120,
+      "text": "winning"
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7300,
+      "text": "the"
+    },
+    {
+      "startMs": 7300,
+      "endMs": 7540,
+      "text": "Southern"
+    },
+    {
+      "startMs": 7540,
+      "endMs": 8160,
+      "text": "500"
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8400,
+      "text": "at"
+    },
+    {
+      "startMs": 8400,
+      "endMs": 8920,
+      "text": "Darlington."
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9260,
+      "text": "That"
+    },
+    {
+      "startMs": 9260,
+      "endMs": 9620,
+      "text": "victory"
+    },
+    {
+      "startMs": 9620,
+      "endMs": 9960,
+      "text": "pushed"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10160,
+      "text": "him"
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10400,
+      "text": "all"
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10540,
+      "text": "the"
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10660,
+      "text": "way"
+    },
+    {
+      "startMs": 10660,
+      "endMs": 10780,
+      "text": "to"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 11100,
+      "text": "second"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 11240,
+      "text": "in"
+    },
+    {
+      "startMs": 11240,
+      "endMs": 11340,
+      "text": "the"
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11620,
+      "text": "chase,"
+    },
+    {
+      "startMs": 11860,
+      "endMs": 11980,
+      "text": "just"
+    },
+    {
+      "startMs": 11980,
+      "endMs": 12360,
+      "text": "12"
+    },
+    {
+      "startMs": 12360,
+      "endMs": 12700,
+      "text": "points"
+    },
+    {
+      "startMs": 12700,
+      "endMs": 13100,
+      "text": "behind"
+    },
+    {
+      "startMs": 13100,
+      "endMs": 13500,
+      "text": "Denny"
+    },
+    {
+      "startMs": 13500,
+      "endMs": 13860,
+      "text": "Hamlin."
+    },
+    {
+      "startMs": 14120,
+      "endMs": 14220,
+      "text": "With"
+    },
+    {
+      "startMs": 14220,
+      "endMs": 14520,
+      "text": "nine"
+    },
+    {
+      "startMs": 14520,
+      "endMs": 14980,
+      "text": "playoff"
+    },
+    {
+      "startMs": 14980,
+      "endMs": 15300,
+      "text": "races"
+    },
+    {
+      "startMs": 15300,
+      "endMs": 15600,
+      "text": "left,"
+    },
+    {
+      "startMs": 15920,
+      "endMs": 15980,
+      "text": "Bell"
+    },
+    {
+      "startMs": 15980,
+      "endMs": 16220,
+      "text": "now"
+    },
+    {
+      "startMs": 16220,
+      "endMs": 16500,
+      "text": "has"
+    },
+    {
+      "startMs": 16500,
+      "endMs": 16920,
+      "text": "momentum,"
+    },
+    {
+      "startMs": 17280,
+      "endMs": 17640,
+      "text": "confidence,"
+    },
+    {
+      "startMs": 17900,
+      "endMs": 17960,
+      "text": "and"
+    },
+    {
+      "startMs": 17960,
+      "endMs": 18060,
+      "text": "a"
+    },
+    {
+      "startMs": 18060,
+      "endMs": 18300,
+      "text": "real"
+    },
+    {
+      "startMs": 18300,
+      "endMs": 18620,
+      "text": "shot"
+    },
+    {
+      "startMs": 18620,
+      "endMs": 18760,
+      "text": "at"
+    },
+    {
+      "startMs": 18760,
+      "endMs": 18860,
+      "text": "the"
+    },
+    {
+      "startMs": 18860,
+      "endMs": 19460,
+      "text": "championship."
+    },
+    {
+      "startMs": 19720,
+      "endMs": 19800,
+      "text": "Could"
+    },
+    {
+      "startMs": 19800,
+      "endMs": 19960,
+      "text": "this"
+    },
+    {
+      "startMs": 19960,
+      "endMs": 20100,
+      "text": "be"
+    },
+    {
+      "startMs": 20100,
+      "endMs": 20500,
+      "text": "Bell's"
+    },
+    {
+      "startMs": 20500,
+      "endMs": 20640,
+      "text": "year?"
+    }
+  ]
+}

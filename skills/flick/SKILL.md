@@ -114,6 +114,33 @@ node <flick-skill>/scripts/assemble-video.mjs --project <output-directory> --asp
 
 Add `--voiceover <audio-file>` once the user has a recorded voiceover to mux it in; without it, this produces a silent rough-cut at `<output-directory>/preview.mp4` so the user can review pacing before recording. This rough-cut path is for the user's own reference/preview — it is separate from Flick's normal Remotion animation build in Step 3.
 
+#### Optional: trim dead air in the voiceover first
+
+Before muxing a recorded voiceover in, tighten any long silences so pacing doesn't drag:
+
+```text
+node <flick-skill>/scripts/trim-silence.mjs --project <output-directory> --voiceover <audio-file>
+```
+
+Two tiers, both cut evenly off both edges of the gap (never chopped from one side, so it doesn't read as an abrupt jump):
+- A gap of **2s or longer** is cut down to **1.3s**.
+- A gap of **1.0-1.3s** is cut down to **0.7s**.
+
+Anything else — the ~1s breaths under 1.0s, and gaps between 1.3s and 2.0s — is left completely untouched; only those two bands get shortened. Pass `--mid-min`/`--mid-max`/`--mid-target` and `--long-min`/`--long-target` to change either tier's thresholds.
+
+This also writes `transcript-trimmed.json` next to `transcript.json`, with every segment/word timestamp remapped to match the shortened audio. Once a voiceover has been trimmed, use `transcript-trimmed.json` — not `transcript.json` — for every later step (`auto-footage.mjs`, `assemble-video.mjs --voiceover <trimmed-file>`, and the Remotion scene timing in Step 3), or scene durations will drift out of sync with the audio.
+
+The cut between clips uses one of four heavy, modern short-form transition styles (zoom punches, whip-blur, glitch, hard wipes — not soft/neutral crossfades), selected with `--transition numN` (default `num1`):
+
+| Flag | ffmpeg xfade | Feel |
+|---|---|---|
+| `num1` | `zoomin` | Hard zoom-punch into the incoming clip — default |
+| `num2` | `hblur` | Horizontal motion-blur whip (fast whip-pan feel) |
+| `num3` | `fadeblack` | Snap flash-through-black impact cut |
+| `num4` | `radial` | Radial burst / clock-wipe sweep |
+
+Render the rough-cut once per candidate (`--transition num1`, then `num2`, …) so the user can compare them, then use whichever numbered choice they pick for the final assembly.
+
 ## Step 2: Plan and get approval
 
 Read [references/step-2-plan.md](references/step-2-plan.md).
@@ -132,7 +159,7 @@ Gate: `flick-plan.md` exists and the user has approved it.
 
 ## Step 3: Build the approved scenes
 
-Read [references/step-3-compose.md](references/step-3-compose.md).
+Read [references/step-3-compose.md](references/step-3-compose.md). When a scene names a person while a different-but-relevant clip plays as its background, build that mention as a blurred-background cinematic ID card overlay per [references/person-id-card-overlay-rule.md](references/person-id-card-overlay-rule.md) — never a hard cut away from the clip. When a scene is `RESERVED FOR MOTION GRAPHIC` (a stat, comparison, ranking, or positive/negative beat), start from [references/motion-graphic-templates.md](references/motion-graphic-templates.md)'s catalog and adapt the closest-fitting entry to the exact narration — never leave overlapping elements or anything outside the safe area.
 
 Write:
 

@@ -1,0 +1,20 @@
+﻿🧹 Webpack config change detected. Clearing cache... 
+Bundling 6%
+node.exe : D:\flick\output\shorts\bell2\remotion\node_modules\@remotion\renderer\dist\browser\BrowserRunner.js:280
+At line:1 char:1
++ & "C:\Users\HASSnain computer\tools\node-v24.20.0-win-x64/node.exe" " ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\flick\output...erRunner.js:280:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+            reject(new Errors_1.TimeoutError(`Timed out after ${timeout} ms while trying to connect to the browser! 
+Chrome logged the following: ${stdioString}`));
+                   ^
+
+TimeoutError: Timed out after 25000 ms while trying to connect to the browser! Chrome logged the following: 
+    at Timeout.onTimeout 
+(D:\flick\output\shorts\bell2\remotion\node_modules\@remotion\renderer\dist\browser\BrowserRunner.js:280:20)
+    at listOnTimeout (node:internal/timers:685:17)
+    at process.processTimers (node:internal/timers:618:7)
+
+Node.js v24.20.0

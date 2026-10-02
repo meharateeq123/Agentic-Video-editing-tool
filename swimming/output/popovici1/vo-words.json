@@ -1,0 +1,319 @@
+{
+  "source": "D:\\flick\\swimming\\output\\popovici1\\vo\\vo.wav",
+  "language": "en",
+  "text": "David Popovici remains one of the biggest names in Sprint freestyle. His European record of 46.51 in the 100 freestyle came at the 2025 World Championships, and he has continued competing at the highest level in 2026. With the next Olympic cycle already underway, the question is simple. How fast can Popovici go before LA 2028?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3400,
+      "text": "David Popovici remains one of the biggest names in Sprint freestyle."
+    },
+    {
+      "startMs": 3640,
+      "endMs": 10440,
+      "text": "His European record of 46.51 in the 100 freestyle came at the 2025 World Championships, and"
+    },
+    {
+      "startMs": 10440,
+      "endMs": 13540,
+      "text": "he has continued competing at the highest level in 2026."
+    },
+    {
+      "startMs": 13740,
+      "endMs": 16880,
+      "text": "With the next Olympic cycle already underway, the question is simple."
+    },
+    {
+      "startMs": 17120,
+      "endMs": 20100,
+      "text": "How fast can Popovici go before LA 2028?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 240,
+      "text": "David"
+    },
+    {
+      "startMs": 240,
+      "endMs": 840,
+      "text": "Popovici"
+    },
+    {
+      "startMs": 840,
+      "endMs": 1180,
+      "text": "remains"
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1500,
+      "text": "one"
+    },
+    {
+      "startMs": 1500,
+      "endMs": 1580,
+      "text": "of"
+    },
+    {
+      "startMs": 1580,
+      "endMs": 1720,
+      "text": "the"
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2000,
+      "text": "biggest"
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2360,
+      "text": "names"
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2580,
+      "text": "in"
+    },
+    {
+      "startMs": 2580,
+      "endMs": 2920,
+      "text": "Sprint"
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3400,
+      "text": "freestyle."
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3760,
+      "text": "His"
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4160,
+      "text": "European"
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4620,
+      "text": "record"
+    },
+    {
+      "startMs": 4620,
+      "endMs": 4800,
+      "text": "of"
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5280,
+      "text": "46"
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6160,
+      "text": ".51"
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6420,
+      "text": "in"
+    },
+    {
+      "startMs": 6420,
+      "endMs": 6520,
+      "text": "the"
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6920,
+      "text": "100"
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7420,
+      "text": "freestyle"
+    },
+    {
+      "startMs": 7420,
+      "endMs": 7840,
+      "text": "came"
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8000,
+      "text": "at"
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8080,
+      "text": "the"
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8720,
+      "text": "2025"
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9180,
+      "text": "World"
+    },
+    {
+      "startMs": 9180,
+      "endMs": 9860,
+      "text": "Championships,"
+    },
+    {
+      "startMs": 10340,
+      "endMs": 10440,
+      "text": "and"
+    },
+    {
+      "startMs": 10440,
+      "endMs": 10560,
+      "text": "he"
+    },
+    {
+      "startMs": 10560,
+      "endMs": 10680,
+      "text": "has"
+    },
+    {
+      "startMs": 10680,
+      "endMs": 11100,
+      "text": "continued"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 11560,
+      "text": "competing"
+    },
+    {
+      "startMs": 11560,
+      "endMs": 11820,
+      "text": "at"
+    },
+    {
+      "startMs": 11820,
+      "endMs": 11940,
+      "text": "the"
+    },
+    {
+      "startMs": 11940,
+      "endMs": 12220,
+      "text": "highest"
+    },
+    {
+      "startMs": 12220,
+      "endMs": 12600,
+      "text": "level"
+    },
+    {
+      "startMs": 12600,
+      "endMs": 12760,
+      "text": "in"
+    },
+    {
+      "startMs": 12760,
+      "endMs": 13540,
+      "text": "2026."
+    },
+    {
+      "startMs": 13740,
+      "endMs": 13800,
+      "text": "With"
+    },
+    {
+      "startMs": 13800,
+      "endMs": 13920,
+      "text": "the"
+    },
+    {
+      "startMs": 13920,
+      "endMs": 14140,
+      "text": "next"
+    },
+    {
+      "startMs": 14140,
+      "endMs": 14440,
+      "text": "Olympic"
+    },
+    {
+      "startMs": 14440,
+      "endMs": 14820,
+      "text": "cycle"
+    },
+    {
+      "startMs": 14820,
+      "endMs": 15140,
+      "text": "already"
+    },
+    {
+      "startMs": 15140,
+      "endMs": 15640,
+      "text": "underway,"
+    },
+    {
+      "startMs": 15900,
+      "endMs": 15960,
+      "text": "the"
+    },
+    {
+      "startMs": 15960,
+      "endMs": 16320,
+      "text": "question"
+    },
+    {
+      "startMs": 16320,
+      "endMs": 16480,
+      "text": "is"
+    },
+    {
+      "startMs": 16480,
+      "endMs": 16880,
+      "text": "simple."
+    },
+    {
+      "startMs": 17120,
+      "endMs": 17220,
+      "text": "How"
+    },
+    {
+      "startMs": 17220,
+      "endMs": 17560,
+      "text": "fast"
+    },
+    {
+      "startMs": 17560,
+      "endMs": 17740,
+      "text": "can"
+    },
+    {
+      "startMs": 17740,
+      "endMs": 18360,
+      "text": "Popovici"
+    },
+    {
+      "startMs": 18360,
+      "endMs": 18620,
+      "text": "go"
+    },
+    {
+      "startMs": 18620,
+      "endMs": 18940,
+      "text": "before"
+    },
+    {
+      "startMs": 18940,
+      "endMs": 19200,
+      "text": "LA"
+    },
+    {
+      "startMs": 19200,
+      "endMs": 20100,
+      "text": "2028?"
+    }
+  ]
+}

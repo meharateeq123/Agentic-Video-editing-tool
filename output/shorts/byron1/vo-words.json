@@ -1,0 +1,349 @@
+{
+  "source": "D:\\flick\\vo\\p.wav",
+  "language": "en",
+  "text": "William Byron just saw his NASCAR championship hopes take a huge hit. At Darlington, Byron spun late, then suffered an engine failure, leaving him with a brutal 37th place finish. Now he sits last among the chase drivers, 114 points behind Danny Hamlin with nine races left. Can Byron pull off a massive comeback, or is his championship run already in trouble?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3820,
+      "text": "William Byron just saw his NASCAR championship hopes take a huge hit."
+    },
+    {
+      "startMs": 4060,
+      "endMs": 8480,
+      "text": "At Darlington, Byron spun late, then suffered an engine failure, leaving him with a brutal"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 9820,
+      "text": "37th place finish."
+    },
+    {
+      "startMs": 10140,
+      "endMs": 15160,
+      "text": "Now he sits last among the chase drivers, 114 points behind Danny Hamlin with nine races"
+    },
+    {
+      "startMs": 15160,
+      "endMs": 15480,
+      "text": "left."
+    },
+    {
+      "startMs": 15480,
+      "endMs": 20260,
+      "text": "Can Byron pull off a massive comeback, or is his championship run already in trouble?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 240,
+      "text": "William"
+    },
+    {
+      "startMs": 240,
+      "endMs": 580,
+      "text": "Byron"
+    },
+    {
+      "startMs": 580,
+      "endMs": 820,
+      "text": "just"
+    },
+    {
+      "startMs": 820,
+      "endMs": 1120,
+      "text": "saw"
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1300,
+      "text": "his"
+    },
+    {
+      "startMs": 1300,
+      "endMs": 1700,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 1700,
+      "endMs": 2240,
+      "text": "championship"
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2600,
+      "text": "hopes"
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2860,
+      "text": "take"
+    },
+    {
+      "startMs": 2860,
+      "endMs": 3040,
+      "text": "a"
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3520,
+      "text": "huge"
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3820,
+      "text": "hit."
+    },
+    {
+      "startMs": 4060,
+      "endMs": 4140,
+      "text": "At"
+    },
+    {
+      "startMs": 4140,
+      "endMs": 4680,
+      "text": "Darlington,"
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5100,
+      "text": "Byron"
+    },
+    {
+      "startMs": 5100,
+      "endMs": 5400,
+      "text": "spun"
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5760,
+      "text": "late,"
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6040,
+      "text": "then"
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6380,
+      "text": "suffered"
+    },
+    {
+      "startMs": 6380,
+      "endMs": 6580,
+      "text": "an"
+    },
+    {
+      "startMs": 6580,
+      "endMs": 6820,
+      "text": "engine"
+    },
+    {
+      "startMs": 6820,
+      "endMs": 7280,
+      "text": "failure,"
+    },
+    {
+      "startMs": 7500,
+      "endMs": 7680,
+      "text": "leaving"
+    },
+    {
+      "startMs": 7680,
+      "endMs": 7920,
+      "text": "him"
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8080,
+      "text": "with"
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8180,
+      "text": "a"
+    },
+    {
+      "startMs": 8180,
+      "endMs": 8480,
+      "text": "brutal"
+    },
+    {
+      "startMs": 8480,
+      "endMs": 9260,
+      "text": "37th"
+    },
+    {
+      "startMs": 9260,
+      "endMs": 9420,
+      "text": "place"
+    },
+    {
+      "startMs": 9420,
+      "endMs": 9820,
+      "text": "finish."
+    },
+    {
+      "startMs": 10140,
+      "endMs": 10260,
+      "text": "Now"
+    },
+    {
+      "startMs": 10260,
+      "endMs": 10380,
+      "text": "he"
+    },
+    {
+      "startMs": 10380,
+      "endMs": 10580,
+      "text": "sits"
+    },
+    {
+      "startMs": 10580,
+      "endMs": 10860,
+      "text": "last"
+    },
+    {
+      "startMs": 10860,
+      "endMs": 11160,
+      "text": "among"
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11340,
+      "text": "the"
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11520,
+      "text": "chase"
+    },
+    {
+      "startMs": 11520,
+      "endMs": 11960,
+      "text": "drivers,"
+    },
+    {
+      "startMs": 12180,
+      "endMs": 12840,
+      "text": "114"
+    },
+    {
+      "startMs": 12840,
+      "endMs": 13280,
+      "text": "points"
+    },
+    {
+      "startMs": 13280,
+      "endMs": 13620,
+      "text": "behind"
+    },
+    {
+      "startMs": 13620,
+      "endMs": 13960,
+      "text": "Danny"
+    },
+    {
+      "startMs": 13960,
+      "endMs": 14340,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 14340,
+      "endMs": 14560,
+      "text": "with"
+    },
+    {
+      "startMs": 14560,
+      "endMs": 14780,
+      "text": "nine"
+    },
+    {
+      "startMs": 14780,
+      "endMs": 15160,
+      "text": "races"
+    },
+    {
+      "startMs": 15160,
+      "endMs": 15480,
+      "text": "left."
+    },
+    {
+      "startMs": 15480,
+      "endMs": 15920,
+      "text": "Can"
+    },
+    {
+      "startMs": 15920,
+      "endMs": 16400,
+      "text": "Byron"
+    },
+    {
+      "startMs": 16400,
+      "endMs": 16660,
+      "text": "pull"
+    },
+    {
+      "startMs": 16660,
+      "endMs": 16860,
+      "text": "off"
+    },
+    {
+      "startMs": 16860,
+      "endMs": 16980,
+      "text": "a"
+    },
+    {
+      "startMs": 16980,
+      "endMs": 17320,
+      "text": "massive"
+    },
+    {
+      "startMs": 17320,
+      "endMs": 17860,
+      "text": "comeback,"
+    },
+    {
+      "startMs": 18160,
+      "endMs": 18280,
+      "text": "or"
+    },
+    {
+      "startMs": 18280,
+      "endMs": 18440,
+      "text": "is"
+    },
+    {
+      "startMs": 18440,
+      "endMs": 18560,
+      "text": "his"
+    },
+    {
+      "startMs": 18560,
+      "endMs": 19160,
+      "text": "championship"
+    },
+    {
+      "startMs": 19160,
+      "endMs": 19400,
+      "text": "run"
+    },
+    {
+      "startMs": 19400,
+      "endMs": 19760,
+      "text": "already"
+    },
+    {
+      "startMs": 19760,
+      "endMs": 19940,
+      "text": "in"
+    },
+    {
+      "startMs": 19940,
+      "endMs": 20260,
+      "text": "trouble?"
+    }
+  ]
+}

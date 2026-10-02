@@ -1,0 +1,329 @@
+{
+  "source": "D:\\flick\\swimming\\output\\zhang2\\vo\\c59_3.wav",
+  "language": "en",
+  "text": "The 19-year-old Chinese swimmer blasted a stunning 1, 43.49 in the 200-meter freestyle at the Asian Games, smashing the Asian record. Even crazier, he dropped more than a second from his previous best and beat reigning Asian Games Champion, Huang Sun Wu. Zhang is now officially one of the biggest names to watch heading toward LA 2028.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 8600,
+      "text": "The 19-year-old Chinese swimmer blasted a stunning 1, 43.49 in the 200-meter freestyle at the Asian Games, smashing the Asian record."
+    },
+    {
+      "startMs": 9000,
+      "endMs": 15220,
+      "text": "Even crazier, he dropped more than a second from his previous best and beat reigning Asian Games Champion, Huang Sun Wu."
+    },
+    {
+      "startMs": 15320,
+      "endMs": 19640,
+      "text": "Zhang is now officially one of the biggest names to watch heading toward LA 2028."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 100,
+      "text": "The"
+    },
+    {
+      "startMs": 100,
+      "endMs": 380,
+      "text": "19"
+    },
+    {
+      "startMs": 380,
+      "endMs": 620,
+      "text": "-year"
+    },
+    {
+      "startMs": 620,
+      "endMs": 780,
+      "text": "-old"
+    },
+    {
+      "startMs": 780,
+      "endMs": 1120,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1640,
+      "text": "swimmer"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2100,
+      "text": "blasted"
+    },
+    {
+      "startMs": 2100,
+      "endMs": 2220,
+      "text": "a"
+    },
+    {
+      "startMs": 2220,
+      "endMs": 2500,
+      "text": "stunning"
+    },
+    {
+      "startMs": 2500,
+      "endMs": 2860,
+      "text": "1,"
+    },
+    {
+      "startMs": 3100,
+      "endMs": 3440,
+      "text": "43"
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4340,
+      "text": ".49"
+    },
+    {
+      "startMs": 4340,
+      "endMs": 4600,
+      "text": "in"
+    },
+    {
+      "startMs": 4600,
+      "endMs": 4680,
+      "text": "the"
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5000,
+      "text": "200"
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5340,
+      "text": "-meter"
+    },
+    {
+      "startMs": 5340,
+      "endMs": 5840,
+      "text": "freestyle"
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6140,
+      "text": "at"
+    },
+    {
+      "startMs": 6140,
+      "endMs": 6240,
+      "text": "the"
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6500,
+      "text": "Asian"
+    },
+    {
+      "startMs": 6500,
+      "endMs": 6940,
+      "text": "Games,"
+    },
+    {
+      "startMs": 7340,
+      "endMs": 7660,
+      "text": "smashing"
+    },
+    {
+      "startMs": 7660,
+      "endMs": 7900,
+      "text": "the"
+    },
+    {
+      "startMs": 7900,
+      "endMs": 8240,
+      "text": "Asian"
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8600,
+      "text": "record."
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9260,
+      "text": "Even"
+    },
+    {
+      "startMs": 9260,
+      "endMs": 9800,
+      "text": "crazier,"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10000,
+      "text": "he"
+    },
+    {
+      "startMs": 10000,
+      "endMs": 10220,
+      "text": "dropped"
+    },
+    {
+      "startMs": 10220,
+      "endMs": 10520,
+      "text": "more"
+    },
+    {
+      "startMs": 10520,
+      "endMs": 10660,
+      "text": "than"
+    },
+    {
+      "startMs": 10660,
+      "endMs": 10780,
+      "text": "a"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 11100,
+      "text": "second"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 11300,
+      "text": "from"
+    },
+    {
+      "startMs": 11300,
+      "endMs": 11440,
+      "text": "his"
+    },
+    {
+      "startMs": 11440,
+      "endMs": 11820,
+      "text": "previous"
+    },
+    {
+      "startMs": 11820,
+      "endMs": 12180,
+      "text": "best"
+    },
+    {
+      "startMs": 12180,
+      "endMs": 12480,
+      "text": "and"
+    },
+    {
+      "startMs": 12480,
+      "endMs": 12680,
+      "text": "beat"
+    },
+    {
+      "startMs": 12680,
+      "endMs": 13020,
+      "text": "reigning"
+    },
+    {
+      "startMs": 13020,
+      "endMs": 13360,
+      "text": "Asian"
+    },
+    {
+      "startMs": 13360,
+      "endMs": 13720,
+      "text": "Games"
+    },
+    {
+      "startMs": 13720,
+      "endMs": 14240,
+      "text": "Champion,"
+    },
+    {
+      "startMs": 14480,
+      "endMs": 14600,
+      "text": "Huang"
+    },
+    {
+      "startMs": 14600,
+      "endMs": 14980,
+      "text": "Sun"
+    },
+    {
+      "startMs": 14980,
+      "endMs": 15220,
+      "text": "Wu."
+    },
+    {
+      "startMs": 15320,
+      "endMs": 15480,
+      "text": "Zhang"
+    },
+    {
+      "startMs": 15480,
+      "endMs": 15780,
+      "text": "is"
+    },
+    {
+      "startMs": 15780,
+      "endMs": 15940,
+      "text": "now"
+    },
+    {
+      "startMs": 15940,
+      "endMs": 16380,
+      "text": "officially"
+    },
+    {
+      "startMs": 16380,
+      "endMs": 16700,
+      "text": "one"
+    },
+    {
+      "startMs": 16700,
+      "endMs": 16760,
+      "text": "of"
+    },
+    {
+      "startMs": 16760,
+      "endMs": 16900,
+      "text": "the"
+    },
+    {
+      "startMs": 16900,
+      "endMs": 17180,
+      "text": "biggest"
+    },
+    {
+      "startMs": 17180,
+      "endMs": 17580,
+      "text": "names"
+    },
+    {
+      "startMs": 17580,
+      "endMs": 17760,
+      "text": "to"
+    },
+    {
+      "startMs": 17760,
+      "endMs": 17940,
+      "text": "watch"
+    },
+    {
+      "startMs": 17940,
+      "endMs": 18240,
+      "text": "heading"
+    },
+    {
+      "startMs": 18240,
+      "endMs": 18540,
+      "text": "toward"
+    },
+    {
+      "startMs": 18540,
+      "endMs": 18780,
+      "text": "LA"
+    },
+    {
+      "startMs": 18780,
+      "endMs": 19640,
+      "text": "2028."
+    }
+  ]
+}

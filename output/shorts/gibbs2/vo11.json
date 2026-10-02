@@ -1,0 +1,264 @@
+{
+  "source": "D:\\flick\\vo\\11.wav",
+  "language": "en",
+  "text": "After finishing second at Darlington, the young star moved to just 39 points behind Denny Hamlin in the playoff standings. Now, with Gateway next, Gibbs has a huge chance to close the gap again. Could Ty Gibbs shock NASCAR and make a championship run nobody saw coming?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 4440,
+      "text": "After finishing second at Darlington, the young star moved to just 39 points behind"
+    },
+    {
+      "startMs": 4440,
+      "endMs": 6340,
+      "text": "Denny Hamlin in the playoff standings."
+    },
+    {
+      "startMs": 6500,
+      "endMs": 10340,
+      "text": "Now, with Gateway next, Gibbs has a huge chance to close the gap again."
+    },
+    {
+      "startMs": 10540,
+      "endMs": 14120,
+      "text": "Could Ty Gibbs shock NASCAR and make a championship run nobody saw coming?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 320,
+      "text": "After"
+    },
+    {
+      "startMs": 320,
+      "endMs": 700,
+      "text": "finishing"
+    },
+    {
+      "startMs": 700,
+      "endMs": 1060,
+      "text": "second"
+    },
+    {
+      "startMs": 1060,
+      "endMs": 1260,
+      "text": "at"
+    },
+    {
+      "startMs": 1260,
+      "endMs": 1740,
+      "text": "Darlington,"
+    },
+    {
+      "startMs": 1960,
+      "endMs": 1980,
+      "text": "the"
+    },
+    {
+      "startMs": 1980,
+      "endMs": 2120,
+      "text": "young"
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2440,
+      "text": "star"
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2740,
+      "text": "moved"
+    },
+    {
+      "startMs": 2740,
+      "endMs": 3040,
+      "text": "to"
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3180,
+      "text": "just"
+    },
+    {
+      "startMs": 3180,
+      "endMs": 3680,
+      "text": "39"
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4140,
+      "text": "points"
+    },
+    {
+      "startMs": 4140,
+      "endMs": 4440,
+      "text": "behind"
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4780,
+      "text": "Denny"
+    },
+    {
+      "startMs": 4780,
+      "endMs": 5140,
+      "text": "Hamlin"
+    },
+    {
+      "startMs": 5140,
+      "endMs": 5280,
+      "text": "in"
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5340,
+      "text": "the"
+    },
+    {
+      "startMs": 5340,
+      "endMs": 5680,
+      "text": "playoff"
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6340,
+      "text": "standings."
+    },
+    {
+      "startMs": 6500,
+      "endMs": 6720,
+      "text": "Now,"
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7040,
+      "text": "with"
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7280,
+      "text": "Gateway"
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7640,
+      "text": "next,"
+    },
+    {
+      "startMs": 7940,
+      "endMs": 8020,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 8020,
+      "endMs": 8260,
+      "text": "has"
+    },
+    {
+      "startMs": 8260,
+      "endMs": 8420,
+      "text": "a"
+    },
+    {
+      "startMs": 8420,
+      "endMs": 8760,
+      "text": "huge"
+    },
+    {
+      "startMs": 8760,
+      "endMs": 9120,
+      "text": "chance"
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9320,
+      "text": "to"
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9540,
+      "text": "close"
+    },
+    {
+      "startMs": 9540,
+      "endMs": 9760,
+      "text": "the"
+    },
+    {
+      "startMs": 9760,
+      "endMs": 9960,
+      "text": "gap"
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10340,
+      "text": "again."
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10660,
+      "text": "Could"
+    },
+    {
+      "startMs": 10660,
+      "endMs": 10840,
+      "text": "Ty"
+    },
+    {
+      "startMs": 10840,
+      "endMs": 11100,
+      "text": "Gibbs"
+    },
+    {
+      "startMs": 11100,
+      "endMs": 11440,
+      "text": "shock"
+    },
+    {
+      "startMs": 11440,
+      "endMs": 11960,
+      "text": "NASCAR"
+    },
+    {
+      "startMs": 11960,
+      "endMs": 12160,
+      "text": "and"
+    },
+    {
+      "startMs": 12160,
+      "endMs": 12300,
+      "text": "make"
+    },
+    {
+      "startMs": 12300,
+      "endMs": 12420,
+      "text": "a"
+    },
+    {
+      "startMs": 12420,
+      "endMs": 12920,
+      "text": "championship"
+    },
+    {
+      "startMs": 12920,
+      "endMs": 13160,
+      "text": "run"
+    },
+    {
+      "startMs": 13160,
+      "endMs": 13540,
+      "text": "nobody"
+    },
+    {
+      "startMs": 13540,
+      "endMs": 13820,
+      "text": "saw"
+    },
+    {
+      "startMs": 13820,
+      "endMs": 14120,
+      "text": "coming?"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "source": "D:\\flick\\vo\\short1 nascar.wav",
+  "language": "en",
+  "text": "Bell won the Southern 500 at Darlington, taking the very first race of the 2026 Chase. He held off the field when the pressure was at its highest and grabbed a huge win when it mattered most. Now Bell has the momentum and nine Chase races remain. Could Christopher Bell be the driver nobody saw coming for the championship?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 5000,
+      "text": "Bell won the Southern 500 at Darlington, taking the very first race of the 2026 Chase."
+    },
+    {
+      "startMs": 5400,
+      "endMs": 9380,
+      "text": "He held off the field when the pressure was at its highest and grabbed a huge win when"
+    },
+    {
+      "startMs": 9380,
+      "endMs": 10060,
+      "text": "it mattered most."
+    },
+    {
+      "startMs": 10400,
+      "endMs": 13120,
+      "text": "Now Bell has the momentum and nine Chase races remain."
+    },
+    {
+      "startMs": 13480,
+      "endMs": 16880,
+      "text": "Could Christopher Bell be the driver nobody saw coming for the championship?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 180,
+      "text": "Bell"
+    },
+    {
+      "startMs": 180,
+      "endMs": 440,
+      "text": "won"
+    },
+    {
+      "startMs": 440,
+      "endMs": 600,
+      "text": "the"
+    },
+    {
+      "startMs": 600,
+      "endMs": 880,
+      "text": "Southern"
+    },
+    {
+      "startMs": 880,
+      "endMs": 1440,
+      "text": "500"
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1680,
+      "text": "at"
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2200,
+      "text": "Darlington,"
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2560,
+      "text": "taking"
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2760,
+      "text": "the"
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3040,
+      "text": "very"
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3460,
+      "text": "first"
+    },
+    {
+      "startMs": 3460,
+      "endMs": 3660,
+      "text": "race"
+    },
+    {
+      "startMs": 3660,
+      "endMs": 3860,
+      "text": "of"
+    },
+    {
+      "startMs": 3860,
+      "endMs": 3960,
+      "text": "the"
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4660,
+      "text": "2026"
+    },
+    {
+      "startMs": 4660,
+      "endMs": 5000,
+      "text": "Chase."
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5520,
+      "text": "He"
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5720,
+      "text": "held"
+    },
+    {
+      "startMs": 5720,
+      "endMs": 5920,
+      "text": "off"
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6080,
+      "text": "the"
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6400,
+      "text": "field"
+    },
+    {
+      "startMs": 6400,
+      "endMs": 6600,
+      "text": "when"
+    },
+    {
+      "startMs": 6600,
+      "endMs": 6720,
+      "text": "the"
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7020,
+      "text": "pressure"
+    },
+    {
+      "startMs": 7020,
+      "endMs": 7200,
+      "text": "was"
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7340,
+      "text": "at"
+    },
+    {
+      "startMs": 7340,
+      "endMs": 7520,
+      "text": "its"
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7820,
+      "text": "highest"
+    },
+    {
+      "startMs": 7820,
+      "endMs": 8040,
+      "text": "and"
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8280,
+      "text": "grabbed"
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8500,
+      "text": "a"
+    },
+    {
+      "startMs": 8500,
+      "endMs": 8880,
+      "text": "huge"
+    },
+    {
+      "startMs": 8880,
+      "endMs": 9180,
+      "text": "win"
+    },
+    {
+      "startMs": 9180,
+      "endMs": 9380,
+      "text": "when"
+    },
+    {
+      "startMs": 9380,
+      "endMs": 9480,
+      "text": "it"
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9720,
+      "text": "mattered"
+    },
+    {
+      "startMs": 9720,
+      "endMs": 10060,
+      "text": "most."
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10500,
+      "text": "Now"
+    },
+    {
+      "startMs": 10500,
+      "endMs": 10740,
+      "text": "Bell"
+    },
+    {
+      "startMs": 10740,
+      "endMs": 11020,
+      "text": "has"
+    },
+    {
+      "startMs": 11020,
+      "endMs": 11180,
+      "text": "the"
+    },
+    {
+      "startMs": 11180,
+      "endMs": 11580,
+      "text": "momentum"
+    },
+    {
+      "startMs": 11580,
+      "endMs": 11860,
+      "text": "and"
+    },
+    {
+      "startMs": 11860,
+      "endMs": 12120,
+      "text": "nine"
+    },
+    {
+      "startMs": 12120,
+      "endMs": 12420,
+      "text": "Chase"
+    },
+    {
+      "startMs": 12420,
+      "endMs": 12800,
+      "text": "races"
+    },
+    {
+      "startMs": 12800,
+      "endMs": 13120,
+      "text": "remain."
+    },
+    {
+      "startMs": 13480,
+      "endMs": 13580,
+      "text": "Could"
+    },
+    {
+      "startMs": 13580,
+      "endMs": 14000,
+      "text": "Christopher"
+    },
+    {
+      "startMs": 14000,
+      "endMs": 14320,
+      "text": "Bell"
+    },
+    {
+      "startMs": 14320,
+      "endMs": 14560,
+      "text": "be"
+    },
+    {
+      "startMs": 14560,
+      "endMs": 14680,
+      "text": "the"
+    },
+    {
+      "startMs": 14680,
+      "endMs": 14960,
+      "text": "driver"
+    },
+    {
+      "startMs": 14960,
+      "endMs": 15380,
+      "text": "nobody"
+    },
+    {
+      "startMs": 15380,
+      "endMs": 15720,
+      "text": "saw"
+    },
+    {
+      "startMs": 15720,
+      "endMs": 15960,
+      "text": "coming"
+    },
+    {
+      "startMs": 15960,
+      "endMs": 16180,
+      "text": "for"
+    },
+    {
+      "startMs": 16180,
+      "endMs": 16280,
+      "text": "the"
+    },
+    {
+      "startMs": 16280,
+      "endMs": 16880,
+      "text": "championship?"
+    }
+  ]
+}

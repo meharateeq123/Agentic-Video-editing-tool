@@ -1,0 +1,319 @@
+{
+  "source": "D:\\flick\\swimming\\output\\yuzidi5\\vo\\vo.wav",
+  "language": "en",
+  "text": "At only 13 years old, the Chinese star won the 200 fly, 200 IM, and 400 IM, and she didn't just win. She set games records in all three events, including an incredible 4, 28.56, and the 400 IM, making her the fifth fastest performer in history. Three races, three goals, and Yuzidi is only 13.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 6640,
+      "text": "At only 13 years old, the Chinese star won the 200 fly, 200 IM, and 400 IM, and she didn't"
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7080,
+      "text": "just win."
+    },
+    {
+      "startMs": 7380,
+      "endMs": 12860,
+      "text": "She set games records in all three events, including an incredible 4, 28.56, and the 400"
+    },
+    {
+      "startMs": 12860,
+      "endMs": 15960,
+      "text": "IM, making her the fifth fastest performer in history."
+    },
+    {
+      "startMs": 16300,
+      "endMs": 19760,
+      "text": "Three races, three goals, and Yuzidi is only 13."
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 140,
+      "text": "At"
+    },
+    {
+      "startMs": 140,
+      "endMs": 420,
+      "text": "only"
+    },
+    {
+      "startMs": 420,
+      "endMs": 880,
+      "text": "13"
+    },
+    {
+      "startMs": 880,
+      "endMs": 1140,
+      "text": "years"
+    },
+    {
+      "startMs": 1140,
+      "endMs": 1500,
+      "text": "old,"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1700,
+      "text": "the"
+    },
+    {
+      "startMs": 1700,
+      "endMs": 1980,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 1980,
+      "endMs": 2380,
+      "text": "star"
+    },
+    {
+      "startMs": 2380,
+      "endMs": 2600,
+      "text": "won"
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2780,
+      "text": "the"
+    },
+    {
+      "startMs": 2780,
+      "endMs": 3180,
+      "text": "200"
+    },
+    {
+      "startMs": 3180,
+      "endMs": 3540,
+      "text": "fly,"
+    },
+    {
+      "startMs": 3900,
+      "endMs": 4260,
+      "text": "200"
+    },
+    {
+      "startMs": 4260,
+      "endMs": 4640,
+      "text": "IM,"
+    },
+    {
+      "startMs": 4900,
+      "endMs": 4960,
+      "text": "and"
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5480,
+      "text": "400"
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5900,
+      "text": "IM,"
+    },
+    {
+      "startMs": 6220,
+      "endMs": 6280,
+      "text": "and"
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6420,
+      "text": "she"
+    },
+    {
+      "startMs": 6420,
+      "endMs": 6640,
+      "text": "didn't"
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6800,
+      "text": "just"
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7080,
+      "text": "win."
+    },
+    {
+      "startMs": 7380,
+      "endMs": 7500,
+      "text": "She"
+    },
+    {
+      "startMs": 7500,
+      "endMs": 7740,
+      "text": "set"
+    },
+    {
+      "startMs": 7740,
+      "endMs": 7980,
+      "text": "games"
+    },
+    {
+      "startMs": 7980,
+      "endMs": 8380,
+      "text": "records"
+    },
+    {
+      "startMs": 8380,
+      "endMs": 8600,
+      "text": "in"
+    },
+    {
+      "startMs": 8600,
+      "endMs": 8760,
+      "text": "all"
+    },
+    {
+      "startMs": 8760,
+      "endMs": 8980,
+      "text": "three"
+    },
+    {
+      "startMs": 8980,
+      "endMs": 9300,
+      "text": "events,"
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9800,
+      "text": "including"
+    },
+    {
+      "startMs": 9800,
+      "endMs": 9980,
+      "text": "an"
+    },
+    {
+      "startMs": 9980,
+      "endMs": 10360,
+      "text": "incredible"
+    },
+    {
+      "startMs": 10360,
+      "endMs": 10760,
+      "text": "4,"
+    },
+    {
+      "startMs": 11020,
+      "endMs": 11380,
+      "text": "28"
+    },
+    {
+      "startMs": 11380,
+      "endMs": 12140,
+      "text": ".56,"
+    },
+    {
+      "startMs": 12360,
+      "endMs": 12360,
+      "text": "and"
+    },
+    {
+      "startMs": 12360,
+      "endMs": 12420,
+      "text": "the"
+    },
+    {
+      "startMs": 12420,
+      "endMs": 12860,
+      "text": "400"
+    },
+    {
+      "startMs": 12860,
+      "endMs": 13340,
+      "text": "IM,"
+    },
+    {
+      "startMs": 13620,
+      "endMs": 13820,
+      "text": "making"
+    },
+    {
+      "startMs": 13820,
+      "endMs": 14020,
+      "text": "her"
+    },
+    {
+      "startMs": 14020,
+      "endMs": 14160,
+      "text": "the"
+    },
+    {
+      "startMs": 14160,
+      "endMs": 14440,
+      "text": "fifth"
+    },
+    {
+      "startMs": 14440,
+      "endMs": 14880,
+      "text": "fastest"
+    },
+    {
+      "startMs": 14880,
+      "endMs": 15300,
+      "text": "performer"
+    },
+    {
+      "startMs": 15300,
+      "endMs": 15600,
+      "text": "in"
+    },
+    {
+      "startMs": 15600,
+      "endMs": 15960,
+      "text": "history."
+    },
+    {
+      "startMs": 16300,
+      "endMs": 16520,
+      "text": "Three"
+    },
+    {
+      "startMs": 16520,
+      "endMs": 16900,
+      "text": "races,"
+    },
+    {
+      "startMs": 17300,
+      "endMs": 17500,
+      "text": "three"
+    },
+    {
+      "startMs": 17500,
+      "endMs": 17860,
+      "text": "goals,"
+    },
+    {
+      "startMs": 18320,
+      "endMs": 18460,
+      "text": "and"
+    },
+    {
+      "startMs": 18460,
+      "endMs": 18900,
+      "text": "Yuzidi"
+    },
+    {
+      "startMs": 18900,
+      "endMs": 19080,
+      "text": "is"
+    },
+    {
+      "startMs": 19080,
+      "endMs": 19280,
+      "text": "only"
+    },
+    {
+      "startMs": 19280,
+      "endMs": 19760,
+      "text": "13."
+    }
+  ]
+}

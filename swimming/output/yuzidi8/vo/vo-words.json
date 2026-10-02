@@ -1,0 +1,334 @@
+{
+  "source": "D:\\flick\\swimming\\output\\yuzidi8\\vo\\vo.wav",
+  "language": "en",
+  "text": "Yuzidi may have just started swimming's next huge rivalry. At the Asian Games, the 13-year-old Chinese star swam to 0610 in the 200 IM, just 0.40 seconds behind Summer Macintosh World Record. You also won three gold medals and set three games records. She's only 13, so how close can you get to Summer by LA-2028?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3220,
+      "text": "Yuzidi may have just started swimming's next huge rivalry."
+    },
+    {
+      "startMs": 3500,
+      "endMs": 11060,
+      "text": "At the Asian Games, the 13-year-old Chinese star swam to 0610 in the 200 IM, just 0.40"
+    },
+    {
+      "startMs": 11060,
+      "endMs": 13400,
+      "text": "seconds behind Summer Macintosh World Record."
+    },
+    {
+      "startMs": 13680,
+      "endMs": 16680,
+      "text": "You also won three gold medals and set three games records."
+    },
+    {
+      "startMs": 17000,
+      "endMs": 20920,
+      "text": "She's only 13, so how close can you get to Summer by LA-2028?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 420,
+      "text": "Yuzidi"
+    },
+    {
+      "startMs": 420,
+      "endMs": 680,
+      "text": "may"
+    },
+    {
+      "startMs": 680,
+      "endMs": 800,
+      "text": "have"
+    },
+    {
+      "startMs": 800,
+      "endMs": 960,
+      "text": "just"
+    },
+    {
+      "startMs": 960,
+      "endMs": 1340,
+      "text": "started"
+    },
+    {
+      "startMs": 1340,
+      "endMs": 1940,
+      "text": "swimming's"
+    },
+    {
+      "startMs": 1940,
+      "endMs": 2120,
+      "text": "next"
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2640,
+      "text": "huge"
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3220,
+      "text": "rivalry."
+    },
+    {
+      "startMs": 3500,
+      "endMs": 3580,
+      "text": "At"
+    },
+    {
+      "startMs": 3580,
+      "endMs": 3720,
+      "text": "the"
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4040,
+      "text": "Asian"
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4580,
+      "text": "Games,"
+    },
+    {
+      "startMs": 4860,
+      "endMs": 4920,
+      "text": "the"
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5320,
+      "text": "13"
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5580,
+      "text": "-year"
+    },
+    {
+      "startMs": 5580,
+      "endMs": 5800,
+      "text": "-old"
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6140,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 6140,
+      "endMs": 6580,
+      "text": "star"
+    },
+    {
+      "startMs": 6580,
+      "endMs": 6980,
+      "text": "swam"
+    },
+    {
+      "startMs": 6980,
+      "endMs": 7300,
+      "text": "to"
+    },
+    {
+      "startMs": 7300,
+      "endMs": 8440,
+      "text": "0610"
+    },
+    {
+      "startMs": 8440,
+      "endMs": 8540,
+      "text": "in"
+    },
+    {
+      "startMs": 8540,
+      "endMs": 8620,
+      "text": "the"
+    },
+    {
+      "startMs": 8620,
+      "endMs": 9100,
+      "text": "200"
+    },
+    {
+      "startMs": 9100,
+      "endMs": 9520,
+      "text": "IM,"
+    },
+    {
+      "startMs": 9860,
+      "endMs": 10000,
+      "text": "just"
+    },
+    {
+      "startMs": 10000,
+      "endMs": 10400,
+      "text": "0"
+    },
+    {
+      "startMs": 10400,
+      "endMs": 11060,
+      "text": ".40"
+    },
+    {
+      "startMs": 11060,
+      "endMs": 11480,
+      "text": "seconds"
+    },
+    {
+      "startMs": 11480,
+      "endMs": 11760,
+      "text": "behind"
+    },
+    {
+      "startMs": 11760,
+      "endMs": 12120,
+      "text": "Summer"
+    },
+    {
+      "startMs": 12120,
+      "endMs": 12700,
+      "text": "Macintosh"
+    },
+    {
+      "startMs": 12700,
+      "endMs": 12980,
+      "text": "World"
+    },
+    {
+      "startMs": 12980,
+      "endMs": 13400,
+      "text": "Record."
+    },
+    {
+      "startMs": 13680,
+      "endMs": 13800,
+      "text": "You"
+    },
+    {
+      "startMs": 13800,
+      "endMs": 14160,
+      "text": "also"
+    },
+    {
+      "startMs": 14160,
+      "endMs": 14380,
+      "text": "won"
+    },
+    {
+      "startMs": 14380,
+      "endMs": 14680,
+      "text": "three"
+    },
+    {
+      "startMs": 14680,
+      "endMs": 14900,
+      "text": "gold"
+    },
+    {
+      "startMs": 14900,
+      "endMs": 15220,
+      "text": "medals"
+    },
+    {
+      "startMs": 15220,
+      "endMs": 15500,
+      "text": "and"
+    },
+    {
+      "startMs": 15500,
+      "endMs": 15660,
+      "text": "set"
+    },
+    {
+      "startMs": 15660,
+      "endMs": 15960,
+      "text": "three"
+    },
+    {
+      "startMs": 15960,
+      "endMs": 16220,
+      "text": "games"
+    },
+    {
+      "startMs": 16220,
+      "endMs": 16680,
+      "text": "records."
+    },
+    {
+      "startMs": 17000,
+      "endMs": 17220,
+      "text": "She's"
+    },
+    {
+      "startMs": 17220,
+      "endMs": 17400,
+      "text": "only"
+    },
+    {
+      "startMs": 17400,
+      "endMs": 17880,
+      "text": "13,"
+    },
+    {
+      "startMs": 18260,
+      "endMs": 18440,
+      "text": "so"
+    },
+    {
+      "startMs": 18440,
+      "endMs": 18600,
+      "text": "how"
+    },
+    {
+      "startMs": 18600,
+      "endMs": 18860,
+      "text": "close"
+    },
+    {
+      "startMs": 18860,
+      "endMs": 19040,
+      "text": "can"
+    },
+    {
+      "startMs": 19040,
+      "endMs": 19180,
+      "text": "you"
+    },
+    {
+      "startMs": 19180,
+      "endMs": 19340,
+      "text": "get"
+    },
+    {
+      "startMs": 19340,
+      "endMs": 19460,
+      "text": "to"
+    },
+    {
+      "startMs": 19460,
+      "endMs": 19720,
+      "text": "Summer"
+    },
+    {
+      "startMs": 19720,
+      "endMs": 19940,
+      "text": "by"
+    },
+    {
+      "startMs": 19940,
+      "endMs": 20120,
+      "text": "LA"
+    },
+    {
+      "startMs": 20120,
+      "endMs": 20920,
+      "text": "-2028?"
+    }
+  ]
+}

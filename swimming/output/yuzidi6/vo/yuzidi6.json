@@ -1,0 +1,299 @@
+{
+  "source": "D:\\flick\\swimming\\output\\yuzidi6\\vo\\c71.wav",
+  "language": "en",
+  "text": "The Chinese teenager won the 200 fly, 200 IM, and 400 IM, setting a game's record in all three. Her biggest swim came in the 400 IM, where she clocked an incredible 428.56, making her the fifth fastest performer in history. Three goals, three records. What can this 13 year old do next?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 6240,
+      "text": "The Chinese teenager won the 200 fly, 200 IM, and 400 IM, setting a game's record in all three."
+    },
+    {
+      "startMs": 6520,
+      "endMs": 14140,
+      "text": "Her biggest swim came in the 400 IM, where she clocked an incredible 428.56, making her the fifth fastest performer in history."
+    },
+    {
+      "startMs": 14540,
+      "endMs": 15960,
+      "text": "Three goals, three records."
+    },
+    {
+      "startMs": 16380,
+      "endMs": 18040,
+      "text": "What can this 13 year old do next?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 120,
+      "text": "The"
+    },
+    {
+      "startMs": 120,
+      "endMs": 420,
+      "text": "Chinese"
+    },
+    {
+      "startMs": 420,
+      "endMs": 940,
+      "text": "teenager"
+    },
+    {
+      "startMs": 940,
+      "endMs": 1180,
+      "text": "won"
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1320,
+      "text": "the"
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1700,
+      "text": "200"
+    },
+    {
+      "startMs": 1700,
+      "endMs": 2020,
+      "text": "fly,"
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2740,
+      "text": "200"
+    },
+    {
+      "startMs": 2740,
+      "endMs": 3140,
+      "text": "IM,"
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3500,
+      "text": "and"
+    },
+    {
+      "startMs": 3500,
+      "endMs": 4000,
+      "text": "400"
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4400,
+      "text": "IM,"
+    },
+    {
+      "startMs": 4660,
+      "endMs": 4820,
+      "text": "setting"
+    },
+    {
+      "startMs": 4820,
+      "endMs": 4960,
+      "text": "a"
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5360,
+      "text": "game's"
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5600,
+      "text": "record"
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5760,
+      "text": "in"
+    },
+    {
+      "startMs": 5760,
+      "endMs": 5920,
+      "text": "all"
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6240,
+      "text": "three."
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6600,
+      "text": "Her"
+    },
+    {
+      "startMs": 6600,
+      "endMs": 6880,
+      "text": "biggest"
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7200,
+      "text": "swim"
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7460,
+      "text": "came"
+    },
+    {
+      "startMs": 7460,
+      "endMs": 7600,
+      "text": "in"
+    },
+    {
+      "startMs": 7600,
+      "endMs": 7680,
+      "text": "the"
+    },
+    {
+      "startMs": 7680,
+      "endMs": 8180,
+      "text": "400"
+    },
+    {
+      "startMs": 8180,
+      "endMs": 8640,
+      "text": "IM,"
+    },
+    {
+      "startMs": 8920,
+      "endMs": 8980,
+      "text": "where"
+    },
+    {
+      "startMs": 8980,
+      "endMs": 9120,
+      "text": "she"
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9560,
+      "text": "clocked"
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9600,
+      "text": "an"
+    },
+    {
+      "startMs": 9600,
+      "endMs": 9980,
+      "text": "incredible"
+    },
+    {
+      "startMs": 9980,
+      "endMs": 10780,
+      "text": "428"
+    },
+    {
+      "startMs": 10780,
+      "endMs": 11600,
+      "text": ".56,"
+    },
+    {
+      "startMs": 11940,
+      "endMs": 12080,
+      "text": "making"
+    },
+    {
+      "startMs": 12080,
+      "endMs": 12320,
+      "text": "her"
+    },
+    {
+      "startMs": 12320,
+      "endMs": 12440,
+      "text": "the"
+    },
+    {
+      "startMs": 12440,
+      "endMs": 12700,
+      "text": "fifth"
+    },
+    {
+      "startMs": 12700,
+      "endMs": 13140,
+      "text": "fastest"
+    },
+    {
+      "startMs": 13140,
+      "endMs": 13560,
+      "text": "performer"
+    },
+    {
+      "startMs": 13560,
+      "endMs": 13820,
+      "text": "in"
+    },
+    {
+      "startMs": 13820,
+      "endMs": 14140,
+      "text": "history."
+    },
+    {
+      "startMs": 14540,
+      "endMs": 14740,
+      "text": "Three"
+    },
+    {
+      "startMs": 14740,
+      "endMs": 15040,
+      "text": "goals,"
+    },
+    {
+      "startMs": 15340,
+      "endMs": 15560,
+      "text": "three"
+    },
+    {
+      "startMs": 15560,
+      "endMs": 15960,
+      "text": "records."
+    },
+    {
+      "startMs": 16380,
+      "endMs": 16480,
+      "text": "What"
+    },
+    {
+      "startMs": 16480,
+      "endMs": 16600,
+      "text": "can"
+    },
+    {
+      "startMs": 16600,
+      "endMs": 16780,
+      "text": "this"
+    },
+    {
+      "startMs": 16780,
+      "endMs": 17160,
+      "text": "13"
+    },
+    {
+      "startMs": 17160,
+      "endMs": 17380,
+      "text": "year"
+    },
+    {
+      "startMs": 17380,
+      "endMs": 17520,
+      "text": "old"
+    },
+    {
+      "startMs": 17520,
+      "endMs": 17720,
+      "text": "do"
+    },
+    {
+      "startMs": 17720,
+      "endMs": 18040,
+      "text": "next?"
+    }
+  ]
+}

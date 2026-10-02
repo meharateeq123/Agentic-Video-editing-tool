@@ -1,0 +1,384 @@
+{
+  "source": "D:\\flick\\output\\shorts\\smith1\\vo.wav",
+  "language": "en",
+  "text": "Regan Smith had a strange Pan Pacific Championships. She won the 200 Backstroke, but in both the 100 and 200 Back, she was actually faster in the Prillums than in the finals. She went 57.86 in the 100 Back Prillum before finishing with 58 and 11, then posted 2. 0 4.13 in the 200 Back Prillum before winning the final in 205.57. What happened at night?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 2760,
+      "text": "Regan Smith had a strange Pan Pacific Championships."
+    },
+    {
+      "startMs": 3080,
+      "endMs": 8260,
+      "text": "She won the 200 Backstroke, but in both the 100 and 200 Back, she was actually faster in the"
+    },
+    {
+      "startMs": 8260,
+      "endMs": 9400,
+      "text": "Prillums than in the finals."
+    },
+    {
+      "startMs": 9780,
+      "endMs": 15840,
+      "text": "She went 57.86 in the 100 Back Prillum before finishing with 58 and 11, then posted 2."
+    },
+    {
+      "startMs": 15840,
+      "endMs": 21720,
+      "text": "0 4.13 in the 200 Back Prillum before winning the final in 205.57."
+    },
+    {
+      "startMs": 22080,
+      "endMs": 22920,
+      "text": "What happened at night?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 280,
+      "text": "Regan"
+    },
+    {
+      "startMs": 280,
+      "endMs": 520,
+      "text": "Smith"
+    },
+    {
+      "startMs": 520,
+      "endMs": 840,
+      "text": "had"
+    },
+    {
+      "startMs": 840,
+      "endMs": 940,
+      "text": "a"
+    },
+    {
+      "startMs": 940,
+      "endMs": 1360,
+      "text": "strange"
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1640,
+      "text": "Pan"
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2000,
+      "text": "Pacific"
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2760,
+      "text": "Championships."
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3180,
+      "text": "She"
+    },
+    {
+      "startMs": 3180,
+      "endMs": 3340,
+      "text": "won"
+    },
+    {
+      "startMs": 3340,
+      "endMs": 3480,
+      "text": "the"
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3840,
+      "text": "200"
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4500,
+      "text": "Backstroke,"
+    },
+    {
+      "startMs": 4700,
+      "endMs": 4760,
+      "text": "but"
+    },
+    {
+      "startMs": 4760,
+      "endMs": 4840,
+      "text": "in"
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5020,
+      "text": "both"
+    },
+    {
+      "startMs": 5020,
+      "endMs": 5200,
+      "text": "the"
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5640,
+      "text": "100"
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5920,
+      "text": "and"
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6360,
+      "text": "200"
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6740,
+      "text": "Back,"
+    },
+    {
+      "startMs": 6980,
+      "endMs": 7100,
+      "text": "she"
+    },
+    {
+      "startMs": 7100,
+      "endMs": 7220,
+      "text": "was"
+    },
+    {
+      "startMs": 7220,
+      "endMs": 7540,
+      "text": "actually"
+    },
+    {
+      "startMs": 7540,
+      "endMs": 7920,
+      "text": "faster"
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8180,
+      "text": "in"
+    },
+    {
+      "startMs": 8180,
+      "endMs": 8260,
+      "text": "the"
+    },
+    {
+      "startMs": 8260,
+      "endMs": 8680,
+      "text": "Prillums"
+    },
+    {
+      "startMs": 8680,
+      "endMs": 8860,
+      "text": "than"
+    },
+    {
+      "startMs": 8860,
+      "endMs": 8980,
+      "text": "in"
+    },
+    {
+      "startMs": 8980,
+      "endMs": 9060,
+      "text": "the"
+    },
+    {
+      "startMs": 9060,
+      "endMs": 9400,
+      "text": "finals."
+    },
+    {
+      "startMs": 9780,
+      "endMs": 9900,
+      "text": "She"
+    },
+    {
+      "startMs": 9900,
+      "endMs": 10040,
+      "text": "went"
+    },
+    {
+      "startMs": 10040,
+      "endMs": 10520,
+      "text": "57"
+    },
+    {
+      "startMs": 10520,
+      "endMs": 11580,
+      "text": ".86"
+    },
+    {
+      "startMs": 11580,
+      "endMs": 11840,
+      "text": "in"
+    },
+    {
+      "startMs": 11840,
+      "endMs": 11940,
+      "text": "the"
+    },
+    {
+      "startMs": 11940,
+      "endMs": 12240,
+      "text": "100"
+    },
+    {
+      "startMs": 12240,
+      "endMs": 12520,
+      "text": "Back"
+    },
+    {
+      "startMs": 12520,
+      "endMs": 12960,
+      "text": "Prillum"
+    },
+    {
+      "startMs": 12960,
+      "endMs": 13220,
+      "text": "before"
+    },
+    {
+      "startMs": 13220,
+      "endMs": 13660,
+      "text": "finishing"
+    },
+    {
+      "startMs": 13660,
+      "endMs": 13840,
+      "text": "with"
+    },
+    {
+      "startMs": 13840,
+      "endMs": 14280,
+      "text": "58"
+    },
+    {
+      "startMs": 14280,
+      "endMs": 14460,
+      "text": "and"
+    },
+    {
+      "startMs": 14460,
+      "endMs": 14780,
+      "text": "11,"
+    },
+    {
+      "startMs": 15040,
+      "endMs": 15140,
+      "text": "then"
+    },
+    {
+      "startMs": 15140,
+      "endMs": 15500,
+      "text": "posted"
+    },
+    {
+      "startMs": 15500,
+      "endMs": 15840,
+      "text": "2."
+    },
+    {
+      "startMs": 15840,
+      "endMs": 16260,
+      "text": "0"
+    },
+    {
+      "startMs": 16260,
+      "endMs": 16600,
+      "text": "4"
+    },
+    {
+      "startMs": 16600,
+      "endMs": 17360,
+      "text": ".13"
+    },
+    {
+      "startMs": 17360,
+      "endMs": 17620,
+      "text": "in"
+    },
+    {
+      "startMs": 17620,
+      "endMs": 17700,
+      "text": "the"
+    },
+    {
+      "startMs": 17700,
+      "endMs": 18120,
+      "text": "200"
+    },
+    {
+      "startMs": 18120,
+      "endMs": 18480,
+      "text": "Back"
+    },
+    {
+      "startMs": 18480,
+      "endMs": 18860,
+      "text": "Prillum"
+    },
+    {
+      "startMs": 18860,
+      "endMs": 19140,
+      "text": "before"
+    },
+    {
+      "startMs": 19140,
+      "endMs": 19420,
+      "text": "winning"
+    },
+    {
+      "startMs": 19420,
+      "endMs": 19640,
+      "text": "the"
+    },
+    {
+      "startMs": 19640,
+      "endMs": 19940,
+      "text": "final"
+    },
+    {
+      "startMs": 19940,
+      "endMs": 20140,
+      "text": "in"
+    },
+    {
+      "startMs": 20140,
+      "endMs": 20880,
+      "text": "205"
+    },
+    {
+      "startMs": 20880,
+      "endMs": 21720,
+      "text": ".57."
+    },
+    {
+      "startMs": 22080,
+      "endMs": 22180,
+      "text": "What"
+    },
+    {
+      "startMs": 22180,
+      "endMs": 22500,
+      "text": "happened"
+    },
+    {
+      "startMs": 22500,
+      "endMs": 22680,
+      "text": "at"
+    },
+    {
+      "startMs": 22680,
+      "endMs": 22920,
+      "text": "night?"
+    }
+  ]
+}

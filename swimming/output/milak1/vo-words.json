@@ -1,0 +1,319 @@
+{
+  "source": "D:\\flick\\swimming\\output\\milak1\\vo\\vo.wav",
+  "language": "en",
+  "text": "Christoph Malak is back and he nearly did something incredible. At the 2026 European Championships, Malak won the 100 meter butterfly in 49.48, setting a European record. But the crazy part? Taleb Dressel's World Record is 49.45. That means Malak was just 0.03 seconds away from history. Could the record finally fall?",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 3160,
+      "text": "Christoph Malak is back and he nearly did something incredible."
+    },
+    {
+      "startMs": 3500,
+      "endMs": 10000,
+      "text": "At the 2026 European Championships, Malak won the 100 meter butterfly in 49.48, setting"
+    },
+    {
+      "startMs": 10000,
+      "endMs": 11020,
+      "text": "a European record."
+    },
+    {
+      "startMs": 11340,
+      "endMs": 12120,
+      "text": "But the crazy part?"
+    },
+    {
+      "startMs": 12400,
+      "endMs": 14900,
+      "text": "Taleb Dressel's World Record is 49.45."
+    },
+    {
+      "startMs": 15260,
+      "endMs": 18560,
+      "text": "That means Malak was just 0.03 seconds away from history."
+    },
+    {
+      "startMs": 18820,
+      "endMs": 20020,
+      "text": "Could the record finally fall?"
+    }
+  ],
+  "words": [
+    {
+      "startMs": 0,
+      "endMs": 420,
+      "text": "Christoph"
+    },
+    {
+      "startMs": 420,
+      "endMs": 780,
+      "text": "Malak"
+    },
+    {
+      "startMs": 780,
+      "endMs": 960,
+      "text": "is"
+    },
+    {
+      "startMs": 960,
+      "endMs": 1240,
+      "text": "back"
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1600,
+      "text": "and"
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1680,
+      "text": "he"
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2000,
+      "text": "nearly"
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2240,
+      "text": "did"
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2600,
+      "text": "something"
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3160,
+      "text": "incredible."
+    },
+    {
+      "startMs": 3500,
+      "endMs": 3560,
+      "text": "At"
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3660,
+      "text": "the"
+    },
+    {
+      "startMs": 3660,
+      "endMs": 4460,
+      "text": "2026"
+    },
+    {
+      "startMs": 4460,
+      "endMs": 4940,
+      "text": "European"
+    },
+    {
+      "startMs": 4940,
+      "endMs": 5720,
+      "text": "Championships,"
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6360,
+      "text": "Malak"
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6540,
+      "text": "won"
+    },
+    {
+      "startMs": 6540,
+      "endMs": 6700,
+      "text": "the"
+    },
+    {
+      "startMs": 6700,
+      "endMs": 7140,
+      "text": "100"
+    },
+    {
+      "startMs": 7140,
+      "endMs": 7460,
+      "text": "meter"
+    },
+    {
+      "startMs": 7460,
+      "endMs": 7900,
+      "text": "butterfly"
+    },
+    {
+      "startMs": 7900,
+      "endMs": 8240,
+      "text": "in"
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8720,
+      "text": "49"
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9540,
+      "text": ".48,"
+    },
+    {
+      "startMs": 9840,
+      "endMs": 10000,
+      "text": "setting"
+    },
+    {
+      "startMs": 10000,
+      "endMs": 10160,
+      "text": "a"
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10580,
+      "text": "European"
+    },
+    {
+      "startMs": 10580,
+      "endMs": 11020,
+      "text": "record."
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11400,
+      "text": "But"
+    },
+    {
+      "startMs": 11400,
+      "endMs": 11520,
+      "text": "the"
+    },
+    {
+      "startMs": 11520,
+      "endMs": 11820,
+      "text": "crazy"
+    },
+    {
+      "startMs": 11820,
+      "endMs": 12120,
+      "text": "part?"
+    },
+    {
+      "startMs": 12400,
+      "endMs": 12640,
+      "text": "Taleb"
+    },
+    {
+      "startMs": 12640,
+      "endMs": 13160,
+      "text": "Dressel's"
+    },
+    {
+      "startMs": 13160,
+      "endMs": 13340,
+      "text": "World"
+    },
+    {
+      "startMs": 13340,
+      "endMs": 13700,
+      "text": "Record"
+    },
+    {
+      "startMs": 13700,
+      "endMs": 13900,
+      "text": "is"
+    },
+    {
+      "startMs": 13900,
+      "endMs": 14240,
+      "text": "49"
+    },
+    {
+      "startMs": 14240,
+      "endMs": 14900,
+      "text": ".45."
+    },
+    {
+      "startMs": 15260,
+      "endMs": 15380,
+      "text": "That"
+    },
+    {
+      "startMs": 15380,
+      "endMs": 15540,
+      "text": "means"
+    },
+    {
+      "startMs": 15540,
+      "endMs": 16040,
+      "text": "Malak"
+    },
+    {
+      "startMs": 16040,
+      "endMs": 16160,
+      "text": "was"
+    },
+    {
+      "startMs": 16160,
+      "endMs": 16320,
+      "text": "just"
+    },
+    {
+      "startMs": 16320,
+      "endMs": 16640,
+      "text": "0"
+    },
+    {
+      "startMs": 16640,
+      "endMs": 17220,
+      "text": ".03"
+    },
+    {
+      "startMs": 17220,
+      "endMs": 17760,
+      "text": "seconds"
+    },
+    {
+      "startMs": 17760,
+      "endMs": 17980,
+      "text": "away"
+    },
+    {
+      "startMs": 17980,
+      "endMs": 18160,
+      "text": "from"
+    },
+    {
+      "startMs": 18160,
+      "endMs": 18560,
+      "text": "history."
+    },
+    {
+      "startMs": 18820,
+      "endMs": 18920,
+      "text": "Could"
+    },
+    {
+      "startMs": 18920,
+      "endMs": 19040,
+      "text": "the"
+    },
+    {
+      "startMs": 19040,
+      "endMs": 19280,
+      "text": "record"
+    },
+    {
+      "startMs": 19280,
+      "endMs": 19700,
+      "text": "finally"
+    },
+    {
+      "startMs": 19700,
+      "endMs": 20020,
+      "text": "fall?"
+    }
+  ]
+}
