@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 3d12fe9f-5670-4e8b-9b0e-948737411aba
-  modified: 2026-09-24T11:36:07.611Z
+  modified: 2026-10-03T11:02:35.291Z
 ---
 
 User corrections while building yuzidi4 (Sept 2026), now standing for every long film:
@@ -30,3 +30,21 @@ timecode burn-ins, logos, wrong person. Traps found: BedChain stretches the LAST
 video (V+V chains froze); mp4s must be `-movflags +faststart` or Studio throws MediaPlaybackError; a "static" clip
 (swimmer standing still) reads as an image - drop it; sideways (rotated) phone video exists in promo reels.
 See [[flick-swimming-no-subtitle-clips]], [[flick-image-fallback-when-no-clip]].
+
+**yuzidi10 (2026-10-03) mistakes — never again:**
+- **Never fill a film by cutting one recap video into consecutive 3s slices (s000..s170).** It looks like
+  "one footage in three clips back to back", ignores the line being spoken, and recap videos are full of
+  photo-montage stills. Pick a source and range per VO phrase from word timestamps.
+- **Run freezedetect (`n=-50dB:d=0.4`) on EVERY baked beat before wiring it.** Any beat with ≥1s frozen
+  is a still in disguise and gets replaced. Do this in bulk, not on spot checks.
+- **Portrait photo in a 16:9 beat: never centre-crop.** That cut Ye Shiwen's face off and left only her
+  medal. Fit the photo to full height over a blurred copy of itself, anchor the zoom on the face, then look at a QC frame.
+- **A named person's photo goes ONLY under the line that names them, never under another person's ID
+  card.** McIntosh's Paris photo under the "Yu Zidi" card and Ye Shiwen's Incheon medal under "the
+  story of Yu Zidi" were both flagged. Also, don't show the subject before the VO introduces them.
+- **Show the event, not its title card.** For "Commonwealth Games", show the Glasgow 2026 pool with
+  meet branding in the arena, not the logo bumper/interstitial.
+- **Check cross-film reuse by parsing prior films' footage.ts** for used [start,end] ranges per
+  source before picking. yuzidi1 had already used ALL of cgtn-asianrecord / cgtn-nationalgames, and
+  popovici1 had used eu46@108. A contact sheet alone doesn't tell you that.
+- yt-dlp needs `--js-runtimes node` now; without it YouTube asks for a bot sign-in.

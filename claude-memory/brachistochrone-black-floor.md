@@ -24,3 +24,5 @@ Brachistochrone film, `D:\Animated Math\manimgl\brachistochrone\`. Script is 135
 **Script note:** "Twenty-three years later" now follows 1659 in the shortened script, because the 1673 line was cut. Scene 5 shows the true year, 1696.
 
 Related: [[manimgl-house-style-v2]], [[fractions-film]], [[laplace-film]].
+
+**Rendered 2026-10-02:** render_brach\<title>.mp4 (2K, 6:47, 12224 frames, 1.1 GB). Render encodes on the GPU: env MANIM_FFMPEG_BIN/MANIM_VCODEC/MANIM_FFMPEG_EXTRA (patched into manimlib scene_file_writer) -> tools\ffmpeg501 h264_nvenc; 2.6x faster than libx264. Join cuts with the same NVENC. Scene 1 uses Apparatus + GlossBall (realistic metal block, user's reference still); Scene 4 uses the user's clock.glb (assets\models\clock).

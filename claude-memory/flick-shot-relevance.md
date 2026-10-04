@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 3d12fe9f-5670-4e8b-9b0e-948737411aba
-  modified: 2026-09-17T20:02:44.103Z
+  modified: 2026-10-03T10:15:46.446Z
 ---
 
 On richardson1 the user's verdict was "impressive work laikin relevancy rh gai" (2026-09-18) — the
@@ -24,5 +24,9 @@ they are not the same thing, the answer is to go find the right footage, not to 
 - A line about something with no footage yet (an event that has not happened) is a type/stamp beat
   over a neutral shot — not b-roll of a different event pretending to be it.
 - If the right footage genuinely does not exist, raise it before building, not after rendering.
+- Don't show the subject before the VO introduces them (yuzidi10, 2026-10-03: Yu Zidi portraits over
+  "every swimmer had finished their season… Commonwealth, Euros, Pan Pacs" got flagged). Lines that
+  list meets or records show those meets and records.
+- Never fill a film by slicing one recap video in order. Pick a source per line.
 
 Related: [[flick-footage-pacing]], [[flick-athletics-shorts]], [[flick-no-repeat-clips-across-shorts]].

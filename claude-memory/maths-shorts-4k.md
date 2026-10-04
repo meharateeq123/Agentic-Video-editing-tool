@@ -1,21 +1,23 @@
 ---
 name: maths-shorts-4k
-description: "Maths Shorts finals render in 2K vertical, 1440x2560 (user, 2026-09-29); 4K was asked for, then dropped as too slow. Drafts stay 540x960."
+description: "Maths Shorts finals render at 1080x1920 (user, 2026-10-02); 4K and then 2K came before and were dropped as too slow. Drafts stay 540x960."
 metadata:
   node_type: memory
   type: feedback
   originSessionId: 965b55a1-c203-4287-bdb0-90beabfbb7a1
-  modified: 2026-09-29T16:01:12.363Z
+  modified: 2026-10-02T13:01:01.909Z
 ---
 
-From 2026-09-29 every maths Short's final render is 2K vertical, 1440x2560.
+From 2026-10-02 every maths Short's final render is 1080x1920. The user said "1080 krdai" right after a 2K final had been started.
 
-The user first asked for 4K (2160x3840). Once they heard it would take about 20 minutes for two shorts, they said "2k mai hi kar de, time ni hai itna".
+History:
+- 2026-09-29: 4K (2160x3840), then 2K (1440x2560); the user said "time ni hai itna".
+- 2026-10-02: 1080x1920.
 
-Render natively at the target size, never upscale: a native ManimGL render is sharper.
+Render natively at the target size, never upscale.
 
 **How to apply:**
-- `shorts/render_short.ps1 -Final` renders at 1440x2560.
-- Drafts stay 540x960 so iteration stays quick.
-- House-v2 film grain is generated at 1080x1920 (`grain_1080` folder).
+- `shorts/render_short.ps1 -Final` renders at 1080x1920.
+- Drafts stay 540x960.
+- Render only when the user asks ([[shorts-render-on-request]]).
 - Related: [[mobius-shorts]].

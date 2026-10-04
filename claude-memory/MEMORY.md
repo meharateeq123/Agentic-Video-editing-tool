@@ -39,7 +39,7 @@
 - [Clip sourcing QC gates (all films)](flick-swimming-no-subtitle-clips.md) - every short AND long film: reject any clip with burned-in subtitles in ANY language, minimize logo/watermark clips and Olympic Channel-sourced clips.
 - [Image fallback when no clip](flick-image-fallback-when-no-clip.md) - if no clip passes QC for a beat, use a still image (Wikimedia/Pexels) instead of forcing a bad clip through.
 - [Bubba Kansas short](bubba1-short.md) - output/shorts/bubba1 delivered 2026-09-24; Stratta call crop, 2022 Kansas win footage, tts-audio (37) VO mix-up trap.
-- [Long-film clip rules](flick-long-film-clip-rules.md) - every beat <=3s, no clip/image ever twice, relevance beats duration; BedChain last-link + faststart traps.
+- [Long-film clip rules](flick-long-film-clip-rules.md) - every beat <=3s, no clip/image twice; never slice one recap in order; freezedetect every beat; portrait photos keep the face; person's photo only on their line.
 - [Yu Zidi film (yuzidi4)](yuzidi4-film.md) - swimming/output/yuzidi4 rendered 2026-09-23; two freeze stretches flagged, Aichi-Nagoya vs "Tokyo" venue mismatch.
 - [Tatjana Smith film (tsmith1)](tsmith1-film.md) - swimming/output/tsmith1 built 2026-09-24, in Studio (port 3012), not rendered until user approves.
 - [Short file named by title](flick-short-file-named-by-title.md) - deliver each short as <pasted title>.mp4 in its project folder.
@@ -66,8 +66,9 @@
 - [Milak short](milak1-short.md) - swimming/output/milak1 delivered 2026-09-25 as its title.mp4; 3 Paris 2026 feeds + Tokyo Dressel WR, stamp/caption placement traps.
 - [Popovici short](popovici1-short.md) - swimming/output/popovici1 delivered 2026-09-25 as its title.mp4; Euros 2026 + Singapore 2025 feeds, LA subtitle-video rejected.
 - [3 races chase short](chase2-short.md) - output/shorts/chase2 delivered 2026-09-25 as its title.mp4; Kansas/Vegas/Charlotte 2026 footage, Bristol Larson-Hamlin cut, timestamp-drift trap.
-- [Maths shorts: script depth](maths-shorts-script-depth.md) - short scripts need a real "why" + payoff, not a simple anecdote (burger short was too simple); max 20 s (~45 words); end on an open question only the long film answers, then "Watch the <topic> video to see how."
-- [Maths shorts: 2K finals](maths-shorts-4k.md) - finals render 1440x2560 natively (4K dropped as too slow); drafts stay 540x960.
+- [Maths shorts: script depth](maths-shorts-script-depth.md) - short scripts need a real "why" + payoff, not a simple anecdote (burger short was too simple); min 25 s (~60-65 words, from 2026-10-02); end on an open question only the long film answers, then "Watch the <topic> video to see how."; standalone shorts have no CTA; audience = degree/university students (undergrad topics).
+- [Maths shorts: 1080 finals](maths-shorts-4k.md) - finals render 1080x1920 natively (4K, then 2K dropped as too slow); drafts stay 540x960.
+- [Shorts: render only on request](shorts-render-on-request.md) - build + check, report; no draft/final render until the user says; user reviews in the Shorts studio (port 3090, shorts_studio.py).
 - [Maths shorts: formulas on top](maths-shorts-formulas-on-top.md) - equations/numbers go at the TOP of the 9:16 frame; YouTube UI covers the bottom.
 - [Möbius shorts](mobius-shorts.md) - Möbius YouTube Shorts in manimgl\shorts are 9:16 vertical, short_kit + _check band test; parallel session does long films; user gives script+VO.
 - [Kansas short 2](kansas2-short.md) - output/shorts/kansas2 delivered 2026-09-25 as its title.mp4; fresh Kansas sources after kansas1/chase2, Hamlin-vs-Larson 2024 side-by-side.
@@ -93,4 +94,11 @@
 - [Surfing channel analysis](surfing-channel-analysis.md) - surfing videos started 2026-10-01; insanesurfer (6.6s cuts, photos+highlighted screenshots), Bigwavefiles (9.4s, cinematic dark archive), surfingstories (3.2s, listicle+lower-thirds); keep tokens low.
 - [World Cup opening-day short](worldcup2-short.md) - swimming/output/worldcup2 delivered 2026-10-01 as its title.mp4; named athletes with no verified footage got typographic name cards instead of guessed footage.
 - [Eddie Aikau film (eddie1)](eddie1-film.md) - surfing/eddie1, first surfing film 2026-10-01; 47-min documentary cutaways + mixed graphics; script ends at "Eddie would" (real phrase Eddie Would Go).
-- [Brachistochrone film](brachistochrone-black-floor.md) - manimgl\brachistochrone: fractions black floor + steel grid (not navy); scenes 1-6 built in studio b01-b06, 7-10 to do; real track physics kit.
+- [Brachistochrone film](brachistochrone-black-floor.md) - manimgl\brachistochrone: fractions black floor + steel grid (not navy); all 10 scenes rendered 2026-10-02 (2K, GPU NVENC encode via env vars); real track physics kit.
+- [Progress updates](progress-updates.md) - user wants a 1-2 line status after every step of long builds/renders, never long silent stretches.
+- [BedChain span bug](flick-bedchain-span-bug.md) - span must be the baked clip's real source length, not output-frame length; wrong value caused silent near-freezes across yuzidi10, only 2 of which a freeze-check caught.
+- [Graphics variety](flick-graphics-variety.md) - use the whole graphics library (bars, pie, line graph, ring, checklist, timeline, ID card…); never one stamp style for every fact.
+- [Yu Zidi rankings film (yuzidi10)](yuzidi10-film.md) - delivered 2026-10-04; scene 1 rebuilt per line, Gfx.tsx graphics library, known reuse leftovers.
+- [Egor Kornev short](kornev1-short.md) - swimming/kornev1, built 2026-10-03 not rendered; Baku swim has no footage (event was that day), 44.84 is the SHORT-COURSE record, Cyrillic lane bars prove identity.
+- [McEvoy short rebuild](mcevoy2-short.md) - swimming/mcevoy2 delivered 2026-10-03; mcevoy1 was one still, redone with World Aquatics 20.88 race video + user's 7 photos.
+- [Haughey 20th gold short](haughey2-short.md) - swimming/haughey2 built 2026-10-03, not rendered; 2022 World Cup + Hangzhou footage, letterbox + lower-third crop traps.

@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: project
   originSessionId: 965b55a1-c203-4287-bdb0-90beabfbb7a1
-  modified: 2026-09-29T16:16:38.342Z
+  modified: 2026-10-03T10:39:11.436Z
 ---
 
 From 2026-09-25 the user runs two sessions in `D:\Animated Math`: one makes the long ManimGL films, the other makes Möbius YouTube Shorts. The user gives each short's script and VO; the VO lands in `vo\tts-audio (N).wav`, so find it by recency.
@@ -37,4 +37,11 @@ From 2026-09-25 the user runs two sessions in `D:\Animated Math`: one makes the 
 - `render_short.ps1 -Name -Class [-Final -Title]` renders, masters the audio and saves the file by title. `SHORT_FIT=1` with `_check_short.py` prints a widened camera table; it's an env var because manimlib eats argv flags.
 - For shorts, use the generic check `shorts\_check_short.py <module>`. The module supplies BANDS. Always pass `windows=CARDS, t=t` to `place_cards` so a label rising just before a stamp can't glide through the strip.
 - Don't touch `fractions\`, `graham\`, `vo\`, or the studio/preview servers.
+- News shorts built 2026-10-04 on estimated timing and not rendered:
+  - `shorts\news_s1` covers Hong Wang's 2026 Fields Medal and Kakeya in 3D. It uses the optional `hong_wang.jpg` in its folder, or a medal if there's no photo.
+  - `shorts\news_s2` covers OpenAI's Navier-Stokes claim of 2026-09-08, framed as a claim, not a proof.
+  - Both pass the check. Waiting on VOs.
+- Euler shorts 3 and 4 were built 2026-10-03 in `shorts\euler_s3` (bank → e, coin stack) and `euler_s4` (i quarter turns → spin → wave). They're on brach_kit's black stage and check clear. VOs: tts-audio 2026-10-03T150554 (s3) and T150652 (s4). Not rendered yet.
+- Look check without a video render: run the scene with env STILL=<sec> and `-w -r 540x960` to a scratch dir, then pull the frame with ffmpeg. Never use `-s` without `-w`: it opens a preview window and hangs. File names must not contain a "." (e.g. 9.0), since manimgl truncates them.
+- Brachistochrone shorts built 2026-10-02 in `shorts\brach_s1` (tie) and `brach_s2` (fastest ramp). They import the film's `brach_kit` (BlackStage, Apparatus, GlossBall, Ride physics, Callout, alive camera) and pass `_check_short`. Render waits for the user's go-ahead. VOs are tts-audio 2026-10-02T162453 (s1) and T162730 (s2).
 - Laplace shorts delivered 2026-09-29 in `shorts\laplace_s1` and `laplace_s2`, 2K, VOs tts-audio (93)/(94). They are the first built in house style v2: `shorts\house_v2.py` provides Stage, Hud (top text), glowing/fade, and the camera rules. `_check_short` accepts a module-level `view_at(t)` instead of CAMERA. Trap: never name cues LEFT/RIGHT, since that clobbers manim's direction vectors.
