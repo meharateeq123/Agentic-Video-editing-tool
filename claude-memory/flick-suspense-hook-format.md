@@ -1,6 +1,6 @@
 ---
 name: flick-suspense-hook-format
-description: "New standard cold-open hook format for building suspense in the first ~15s - full-screen rapid-cut montage with real sync audio, not the single boxed-clip hook."
+description: "SUPERSEDED 2026-10-24 by flick-modern-hook-10s. Old cold-open hook format for building suspense in the first ~15s - full-screen rapid-cut montage with real sync audio, not the single boxed-clip hook."
 metadata: 
   node_type: memory
   type: feedback

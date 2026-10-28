@@ -5,14 +5,19 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 965b55a1-c203-4287-bdb0-90beabfbb7a1
-  modified: 2026-10-03T16:00:05.090Z
+  modified: 2026-10-05T13:00:50.631Z
 ---
 
 When I write Short scripts from a long ManimGL film, each one needs a real mathematical point that the viewer comes away understanding: a why, a mechanism, or a counterintuitive result they can check. A plain anecdote or a one-line fact isn't enough.
 
 **Why:** on 2026-09-29 the user said the A&W burger short ("⅓ beats ¼") was too simple, and asked that future scripts not be simple and have a clear purpose ("maksad"). The Euler quarter-turn short (why e^(iπ) = −1) and the Möbius cut shorts are closer to what they want.
 
-**Length (current):** at least 25 seconds (user, 2026-10-02). The Brachistochrone shorts came out at about 15 s and 22 s, and the user said they were too short ("yai shorts taqreeban 15 seconds ki thi, next time 25 seconds minimum"). That means about 60–65 words including the closing line. The voice reads fast, about 0.36 s/word, so count for real, aim for roughly 25–30 s, and use the extra room for a second reasoning step, not filler.
+**Latest for shorts cut from a long film (user, 2026-10-05):**
+- Total about 20 seconds, which is roughly 55–60 words with the ending.
+- End with "Watch the full video on <topic> on the channel." The topic is tied to that film, e.g. "Graham's clock puzzle".
+- This supersedes the 25 s minimum and the "Watch the <topic> video to see how" line below.
+
+**Length (older):** at least 25 seconds (user, 2026-10-02). The Brachistochrone shorts came out at about 15 s and 22 s, and the user said they were too short ("yai shorts taqreeban 15 seconds ki thi, next time 25 seconds minimum"). That means about 60–65 words including the closing line. The voice reads fast, about 0.36 s/word, so count for real, aim for roughly 25–30 s, and use the extra room for a second reasoning step, not filler.
 
 Superseded: "no more than 20 seconds" (user, 2026-09-29). At the Josh ElevenLabs voice's pace, about 0.4 s/word with pauses, that's roughly 45 words, including "Full video on the channel." Depth has to come from picking one sharp idea, not from more words.
 

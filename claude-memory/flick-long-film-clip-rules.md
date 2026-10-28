@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 3d12fe9f-5670-4e8b-9b0e-948737411aba
-  modified: 2026-10-03T11:02:35.291Z
+  modified: 2026-10-19T17:11:20.799Z
 ---
 
 User corrections while building yuzidi4 (Sept 2026), now standing for every long film:
@@ -48,3 +48,12 @@ See [[flick-swimming-no-subtitle-clips]], [[flick-image-fallback-when-no-clip]].
   source before picking. yuzidi1 had already used ALL of cgtn-asianrecord / cgtn-nationalgames, and
   popovici1 had used eu46@108. A contact sheet alone doesn't tell you that.
 - yt-dlp needs `--js-runtimes node` now; without it YouTube asks for a bot sign-in.
+
+**yuzidi16 (2026-10-19) - broke the no-repeat rule again, user forgave it ONCE ("is dfa maafi next time na ho"):**
+- The hook used `Wm6` + `Wm6@3` back to back = the same Yu photo twice. WION / Hattrick / slideshow uploads
+  (H, Wi, Wt, Wm, Rm, Aq, Ap) are photo montages: each scene-detected "shot" is ONE image, so `ID` and `ID@3`
+  are the same picture. Fifteen such pairs went out in that film.
+- **One window per shot for any photo/slideshow source, and never two windows of one shot back to back for any source.**
+  bake.mjs `--check` now fails on `SAME IMAGE TWICE` (PHOTO prefix set) - copy that gate into every new project
+  and extend PHOTO whenever a source turns out to be a slideshow (freezedetect >=1s on its beds = slideshow).
+- Hook/opening scenes get extra care: the user watches the first 10s hardest.
